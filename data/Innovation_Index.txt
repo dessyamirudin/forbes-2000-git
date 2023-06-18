@@ -1,0 +1,129 @@
+Countries	Innovation index, 2022	Global rank	Available data 
+Switzerland	64.6	1	2011 - 2022
+USA	61.8	2	2011 - 2022
+Sweden	61.6	3	2011 - 2022
+UK	59.7	4	2011 - 2022
+Netherlands	58	5	2011 - 2022
+South Korea	57.8	6	2011 - 2022
+Singapore	57.3	7	2011 - 2022
+Germany	57.2	8	2011 - 2022
+Finland	56.9	9	2011 - 2022
+Denmark	55.9	10	2011 - 2022
+China	55.3	11	2011 - 2022
+France	55	12	2011 - 2022
+Japan	53.6	13	2011 - 2022
+Hong Kong	51.8	14	2011 - 2022
+Canada	50.8	15	2011 - 2022
+Austria	50.2	16	2011 - 2022
+Estonia	50.2	17	2011 - 2022
+Israel	50.2	18	2011 - 2022
+Luxembourg	49.8	19	2011 - 2022
+Iceland	49.5	20	2011 - 2022
+Malta	49.1	21	2012 - 2022
+Norway	48.8	22	2011 - 2022
+Ireland	48.5	23	2011 - 2022
+New Zealand	47.2	24	2011 - 2022
+Australia	47.1	25	2011 - 2022
+Belgium	46.9	26	2011 - 2022
+Cyprus	46.2	27	2011 - 2022
+Italy	46.1	28	2011 - 2022
+Spain	44.6	29	2011 - 2022
+Czechia	42.8	30	2011 - 2022
+Portugal	42.1	31	2011 - 2022
+UA Emirates	42.1	32	2011 - 2022
+Slovenia	40.6	33	2011 - 2022
+Hungary	39.8	34	2011 - 2022
+Bulgaria	39.5	35	2011 - 2022
+Malaysia	38.7	36	2011 - 2022
+Turkey	38.1	37	2011 - 2022
+Poland	37.5	38	2011 - 2022
+Lithuania	37.4	39	2011 - 2022
+India	36.6	40	2011 - 2022
+Latvia	36.5	41	2011 - 2022
+Croatia	35.6	42	2011 - 2022
+Thailand	34.9	43	2011 - 2022
+Greece	34.5	44	2011 - 2022
+Mauritius	34.4	45	2011 - 2022
+Russia	34.3	46	2011 - 2022
+Slovakia	34.3	47	2011 - 2022
+Vietnam	34.3	48	2011 - 2022
+Romania	34.1	49	2011 - 2022
+Chile	34	50	2011 - 2022
+Saudi Arabia	33.4	51	2011 - 2022
+Iran	32.9	52	2011 - 2022
+Qatar	32.9	53	2011 - 2022
+Brazil	32.5	54	2011 - 2022
+Serbia	32.3	55	2011 - 2022
+Moldova	31.1	56	2011 - 2022
+Mexico	31	57	2011 - 2022
+Ukraine	31	58	2011 - 2022
+Philippines	30.7	59	2011 - 2022
+Montenegro	30.3	60	2012 - 2022
+South Africa	29.8	61	2011 - 2022
+Colombia	29.2	62	2011 - 2022
+Kuwait	29.2	63	2011 - 2022
+Uruguay	29.2	64	2011 - 2022
+Peru	29.1	65	2011 - 2022
+Morocco	28.8	66	2011 - 2022
+North Macedonia	28.8	67	2011 - 2022
+Costa Rica	28.7	68	2011 - 2022
+Argentina	28.6	69	2011 - 2022
+Bosnia & Herz.	28.5	70	2011 - 2022
+Mongolia	28	71	2011 - 2022
+Bahrain	27.9	72	2011 - 2022
+Georgia	27.9	73	2011 - 2022
+Indonesia	27.9	74	2011 - 2022
+Tunisia	27.9	75	2011 - 2022
+Jamaica	27.7	76	2011 - 2022
+Belarus	27.5	77	2012 - 2022
+Jordan	27.4	78	2011 - 2022
+Oman	26.8	79	2011 - 2022
+Armenia	26.6	80	2011 - 2022
+Panama	25.7	81	2011 - 2022
+Uzbekistan	25.3	82	2012 - 2022
+Kazakhstan	24.7	83	2011 - 2022
+Albania	24.4	84	2011 - 2022
+Sri Lanka	24.2	85	2011 - 2022
+Botswana	23.9	86	2011 - 2022
+Pakistan	23	87	2011 - 2022
+Kenya	22.8	88	2011 - 2022
+Domin. Rep.	22.7	89	2012 - 2022
+Egypt	22.7	90	2011 - 2022
+Paraguay	22.6	91	2011 - 2022
+Brunei	22.1	92	2011 - 2022
+Azerbaijan	21.4	93	2011 - 2022
+Kyrgyzstan	21.1	94	2011 - 2022
+Ghana	20.8	95	2011 - 2022
+Namibia	20.6	96	2011 - 2022
+Cambodia	20.5	97	2011 - 2022
+Ecuador	20.3	98	2011 - 2022
+El Salvador	19.9	99	2011 - 2022
+Senegal	19.9	100	2011 - 2022
+Tr.&Tobago	19.8	101	2011 - 2022
+Bangladesh	19.7	102	2011 - 2022
+Tanzania	19.4	103	2011 - 2022
+Tajikistan	18.8	104	2011 - 2022
+Rwanda	18.7	105	2011 - 2022
+Madagascar	18.6	106	2011 - 2022
+Zimbabwe	18.1	107	2011 - 2022
+Guatemala	17.8	108	2011 - 2022
+Ivory Coast	17.8	109	2011 - 2022
+Nepal	17.6	110	2012 - 2022
+Laos	17.4	111	2012 - 2022
+Honduras	17.3	112	2011 - 2022
+Nigeria	16.9	113	2011 - 2022
+Algeria	16.7	114	2011 - 2022
+Burma	16.4	115	2014 - 2022
+Ethiopia	16.3	116	2011 - 2022
+Zambia	15.8	117	2011 - 2022
+Uganda	15.7	118	2011 - 2022
+Burkina Faso	15.3	119	2011 - 2022
+Cameroon	15.1	120	2011 - 2022
+Togo	15.1	121	2012 - 2022
+Mozambique	15	122	2012 - 2022
+Benin	14.6	123	2011 - 2022
+Niger	14.6	124	2011 - 2022
+Mali	14.2	125	2011 - 2022
+Angola	13.9	126	2012 - 2022
+Yemen	13.8	127	2011 - 2022
+Guinea	11.6	128	2013 - 2022

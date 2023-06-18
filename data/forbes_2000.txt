@@ -1,0 +1,2003 @@
+RANK	NAME	COUNTRY	SALES	PROFIT	ASSETS	MARKET VALUE 
+1.	JPMorgan Chase	United States	$179.93 B	$41.8 B	$3,744.3 B	$399.59 B
+2.	Saudi Arabian Oil Company (Saudi Aramco)	Saudi Arabia	$589.47 B	$156.36 B	$653.87 B	$2,055.22 B
+3.	ICBC	China	$216.77 B	$52.47 B	$6,116.82 B	$203.01 B
+4.	China Construction Bank	China	$203.08 B	$48.25 B	$4,977.48 B	$172.99 B
+5.	Agricultural Bank of China	China	$186.14 B	$37.92 B	$5,356.86 B	$141.82 B
+6.	Bank of America	United States	$133.84 B	$28.62 B	$3,194.66 B	$220.82 B
+7.	Alphabet	United States	$282.85 B	$58.59 B	$369.49 B	$1,340.53 B
+8.	ExxonMobil	United States	$393.16 B	$61.69 B	$369.37 B	$439.39 B
+9.	Microsoft	United States	$207.59 B	$69.02 B	$380.09 B	$2,309.84 B
+10.	Apple	United States	$385.1 B	$94.32 B	$332.16 B	$2,746.21 B
+11.	Shell	United Kingdom	$365.89 B	$43.51 B	$429.15 B	$205.45 B
+12.	Bank of China	China	$158.23 B	$33.23 B	$4,421.76 B	$122.67 B
+13.	Toyota Motor	Japan	$270.49 B	$18.5 B	$542.5 B	$188.2 B
+14.	Samsung Electronics	South Korea	$220.07 B	$34.49 B	$348.81 B	$334.31 B 
+15.	UnitedHealth Group	United States	$335.94 B	$20.7 B	$283.68 B	$460.19 B
+16.	Ping An Insurance Group	China	$166.37 B	$12.64 B	$1,598.49 B	$138.56 B
+17.	Wells Fargo	United States	$108.93 B	$14.5 B	$1,886.4 B	$142.36 B
+18.	Chevron	United States	$232.12 B	$35.78 B	$255.89 B	$303.54 B
+19.	PetroChina	China	$457.4 B	$22.18 B	$384.58 B	$122.91 B
+20.	HSBC Holdings	United Kingdom	$73.98 B	$22.19 B	$2,989.7 B	$151.19 B
+21.	TotalEnergies	France	$257.59 B	$21.12 B	$293.03 B	$151.64 B
+21.	Verizon Communications	United States	$136.19 B	$21.59 B	$377.72 B	$159.04 B
+23.	Walmart	United States	$611.29 B	$11.68 B	$243.2 B	$409.12 B
+24.	Citigroup	United States	$120.42 B	$15.02 B	$2,455.11 B	$90.03 B
+25.	China Mobile	Hong Kong	$140.53 B	$18.76 B	$290 B	$186.41 B
+26.	China Merchants Bank	China	$72.44 B	$20.56 B	$1,458.48 B	$129.84 B
+27.	Postal Savings Bank Of China (PSBC)	China	$82.51 B	$12.78 B	$2,023.57 B	$110.18 B
+28.	BP	United Kingdom	$248.11 B	$25.89 B	$278.66 B	$108.3 B
+29.	Volkswagen Group	Germany	$293.47 B	$15.63 B	$633.78 B	$70.16 B
+30.	Morgan Stanley	United States	$74.16 B	$10.34 B	$1,199.9 B	$141.76 B
+31.	Meta Platforms	United States	$117.35 B	$21.44 B	$184.49 B	$599.82 B
+32.	Sinopec	China	$453.56 B	$9.85 B	$283.3 B	$114.32 B
+33.	BNP Paribas	France	$99.47 B	$10.11 B	$2,845.69 B	$78.59 B
+33.	Goldman Sachs Group	United States	$79.45 B	$10.56 B	$1,538.35 B	$108.72 B
+33.	Tencent Holdings	China	$82.41 B	$27.26 B	$227.01 B	$415.36 B
+36.	Amazon	United States	$524.9 B	$4.29 B	$464.38 B	$1,084.06 B
+37.	Allianz	Germany	$134.26 B	$7.08 B	$1,139.49 B	$95.45 B
+38.	RBC	Canada	$60.22 B	$11.4 B	$1,448.66 B	$135.15 B
+39.	Pfizer	United States	$92.95 B	$29.04 B	$197.21 B	$216.28 B 
+40.	Johnson & Johnson	United States	$96.31 B	$12.72 B	$195.97 B	$422.76 B
+41.	Deutsche Telekom	Germany	$120.72 B	$8.41 B	$342.62 B	$117.18 B
+42.	Mercedes-Benz Group	Germany	$158.78 B	$15.55 B	$286 B	$78.49 B
+43.	TD Bank Group	Canada	$56.72 B	$11.68 B	$1,445.11 B	$112.92 B
+44.	Taiwan Semiconductor	Taiwan	$75.03 B	$33.57 B	$165.72 B	$423.17 B
+45.	Reliance Industries	India	$109.43 B	$8.3 B	$208.5 B	$189.19 B
+46.	BMW Group	Germany	$154.25 B	$11.67 B	$268.98 B	$75.77 B
+47.	LVMH Moët Hennessy Louis Vuitton	France	$83.22 B	$14.8 B	$143.7 B	$482.45 B
+48.	AXA Group	France	$110.92 B	$6.83 B	$701.25 B	$70.07 B
+49.	Nestlé	Switzerland	$98.87 B	$9.71 B	$146.11 B	$337.66 B
+49.	Santander	Spain	$87.74 B	$10.09 B	$1,900.64 B	$56.18 B
+51.	Comcast	United States	$120.11 B	$5.66 B	$259.43 B	$170.46 B
+52.	Equinor	Norway	$141.92 B	$28.98 B	$152.49 B	$91.83 B
+53.	Bank of Communications	China	$78.29 B	$12.9 B	$1,868.96 B	$51.58 B
+54.	Alibaba Group	China	$128.26 B	$4.46 B	$254.93 B	$216.59 B
+55.	Procter & Gamble	United States	$80.97 B	$14.32 B	$119.85 B	$367.76 B
+56.	Nippon Telegraph & Tel	Japan	$97.36 B	$9 B	$190.66 B	$106.81 B
+57.	Sony	Japan	$85.15 B	$6.92 B	$240.75 B	$115.17 B
+58.	Petrobras	Brazil	$124.17 B	$36.47 B	$184.99 B	$63.03 B
+59.	Glencore International	Switzerland	$254.93 B	$16.98 B	$132.58 B	$70 B
+60.	Industrial Bank	China	$59.08 B	$12.97 B	$1,430.04 B	$51.49 B
+61.	Stellantis	Netherlands	$188.75 B	$17.66 B	$198.68 B	$49.84 B
+62.	China Life Insurance	China	$124.43 B	$4.87 B	$754.95 B	$55.83 B
+63.	American Express	United States	$59.29 B	$7.18 B	$235.84 B	$113.46 B
+64.	General Electric	United States	$74.02 B	$8.56 B	$164.47 B	$109.16 B
+65.	CVS Health	United States	$331.17 B	$3.97 B	$239.33 B	$90.61 B
+66.	China State Construction Engineering	China	$303.78 B	$7.7 B	$394.94 B	$41.38 B
+67.	The Home Depot	United States	$157.4 B	$17.11 B	$76.44 B	$293.95 B 
+68.	Cigna	United States	$182.8 B	$6.75 B	$142.69 B	$77.45 B
+69.	Tesla	United States	$86.03 B	$11.79 B	$86.83 B	$539 B
+70.	General Motors	United States	$160.74 B	$9.39 B	$267 B	$46.23 B
+71.	CITIC	Hong Kong	$98.48 B	$9.64 B	$1,511.12 B	$38.4 B
+72.	Anheuser-Busch InBev	Belgium	$57.83 B	$6.06 B	$214.82 B	$128.21 B
+73.	Merck & Co.	United States	$57.09 B	$13.03 B	$107.8 B	$298.74 B
+74.	AbbVie	United States	$56.74 B	$7.54 B	$134.54 B	$261.92 B
+75.	Mitsubishi	Japan	$161.02 B	$9.49 B	$171.08 B	$53.5 B
+76.	Roche Holding	Switzerland	$66.26 B	$13.01 B	$95.28 B	$253.99 B
+77.	State Bank of India	India	$56.54 B	$5.99 B	$695.2 B	$62.88 B
+78.	Elevance Health	United States	$160.67 B	$6.21 B	$109.04 B	$110.11 B
+79.	Raytheon Technologies	United States	$68.57 B	$5.54 B	$161.64 B	$141.12 B
+80.	Oracle	United States	$47.96 B	$8.37 B	$131.62 B	$261.8 B
+81.	Eni	Italy	$132.38 B	$13.12 B	$154.13 B	$49.97 B
+82.	PepsiCo	United States	$88.05 B	$6.58 B	$93.04 B	$267.64 B
+83.	ConocoPhillips	United States	$75.2 B	$15.84 B	$91.44 B	$121.45 B
+84.	Bank of Montreal	Canada	$37.56 B	$8.29 B	$858.63 B	$62.48 B
+85.	CNOOC	Hong Kong	$59.08 B	$21.09 B	$133.64 B	$72.94 B
+86.	Sumitomo Mitsui Financial	Japan	$41.54 B	$6.45 B	$2,005.65 B	$56.64 B
+87.	Walt Disney	United States	$84.07 B	$3.32 B	$202.12 B	$183.63 B
+88.	Bank of Nova Scotia	Canada	$40.24 B	$6.88 B	$1,030.04 B	$59.34 B
+89.	Sanofi	France	$45.19 B	$8.8 B	$135.24 B	$140.17 B
+90.	BHP Group Ltd	Australia	$59.95 B	$19.51 B	$87.82 B	$150.43 B
+91.	Mitsubishi UFJ Financial	Japan	$60.22 B	$3.07 B	$2,966.29 B	$76.89 B
+92.	UBS	Switzerland	$39.89 B	$6.55 B	$1,053.13 B	$58.28 B
+93.	Cisco Systems	United States	$53.16 B	$11.3 B	$95.84 B	$189.43 B
+94.	Novartis	Switzerland	$50.95 B	$7 B	$112.24 B	$208.15 B
+95.	United Parcel Service	United States	$98.55 B	$10.78 B	$72.19 B	$151.1 B
+96.	Coca-Cola	United States	$43.31 B	$9.87 B	$97.4 B	$276.86 B
+97.	Siemens	Germany	$77.3 B	$3.74 B	$153.61 B	$130.65 B
+98.	Itaú Unibanco Holding	Brazil	$53.17 B	$5.75 B	$441.4 B	$51.28 B
+99.	Costco Wholesale	United States	$234.39 B	$6.05 B	$66.85 B	$221.32 B
+100.	Commonwealth Bank	Australia	$25.33 B	$6.96 B	$835.78 B	$109.21 B
+100.	Rio Tinto	United Kingdom	$55.34 B	$12.15 B	$96.74 B	$102.09 B
+102.	Iberdrola	Spain	$59.55 B	$4.89 B	$165.07 B	$81.39 B
+103.	BBVA-Banco Bilbao Vizcaya	Spain	$51.94 B	$6.72 B	$803.5 B	$41.23 B
+104.	Hyundai Motor	South Korea	$114.55 B	$7.02 B	$203.07 B	$38.94 B
+104.	Unilever	United Kingdom	$63.11 B	$8.05 B	$83.05 B	$140.02 B
+106.	Zurich Insurance Group	Switzerland	$41.89 B	$4.61 B	$352.12 B	$70.97 B
+107.	Deere & Company	United States	$55.63 B	$8.19 B	$91.62 B	$112.92 B
+107.	Mitsui	Japan	$105.57 B	$8.34 B	$115.57 B	$48.16 B
+109.	Honda Motor	Japan	$124.68 B	$5.38 B	$182.97 B	$44.94 B
+110.	British American Tobacco	United Kingdom	$34.06 B	$8.15 B	$184.7 B	$78.9 B
+111.	Bristol Myers Squibb	United States	$45.85 B	$7.31 B	$94.28 B	$143.15 B
+112.	Chubb	Switzerland	$44.7 B	$5.23 B	$179.83 B	$82.39 B
+113.	Intesa Sanpaolo	Italy	$36.36 B	$5.83 B	$1,037.75 B	$48.86 B
+114.	Munich Re	Germany	$79.52 B	$3.61 B	$324.75 B	$51.22 B
+115.	Shanghai Pudong Development	China	$56.25 B	$7.63 B	$1,289.67 B	$32.96 B
+116.	Hon Hai Precision	Taiwan	$222.29 B	$4.75 B	$134.5 B	$47.5 B
+117.	Marathon Petroleum	United States	$174.05 B	$16.39 B	$87.04 B	$45.36 B
+118.	Thermo Fisher Scientific	United States	$43.81 B	$6.02 B	$94.66 B	$210.74 B
+119.	Caterpillar	United States	$61.7 B	$7.11 B	$83.65 B	$110.97 B
+120.	Charles Schwab	United States	$23.86 B	$7.38 B	$535.6 B	$88.21 B
+121.	Contemporary Amperex Technology	China	$53.66 B	$5.7 B	$93.16 B	$143.97 B
+122.	Visa	United States	$30.98 B	$15.48 B	$86.75 B	$477.38 B
+123.	American International Group	United States	$51.42 B	$6.05 B	$463.77 B	$39.49 B
+124.	Ford Motor	United States	$165.06 B	$2.89 B	$256.8 B	$47.79 B
+125.	Itochu	Japan	$104.49 B	$6.26 B	$103.07 B	$49.18 B
+126.	AstraZeneca	United Kingdom	$43.85 B	$4.73 B	$96.69 B	$233.12 B
+127.	AIRBUS	France	$60.87 B	$3.63 B	$128.27 B	$106.13 B
+128.	HDFC Bank	India	$25.47 B	$5.72 B	$307.9 B	$110.88 B
+129.	VINCI	France	$65.44 B	$4.48 B	$119.52 B	$67.8 B
+130.	Credit Agricole	France	$51.3 B	$5.28 B	$2,313.39 B	$34.4 B
+131.	China Shenhua Energy	China	$51.98 B	$8 B	$94.22 B	$67.73 B
+132.	US Bancorp	United States	$31.42 B	$5.95 B	$682.38 B	$47.07 B
+133.	China Citic Bank	China	$55.18 B	$9.33 B	$1,278.63 B	$27.13 B
+134.	Broadcom	United States	$34.41 B	$12.8 B	$72.98 B	$262.71 B
+135.	NextEra Energy	United States	$24.27 B	$6.68 B	$165.36 B	$152.79 B
+136.	Phillips 66	United States	$167.87 B	$12.39 B	$77.26 B	$42.88 B
+137.	Bayer	Germany	$53.33 B	$4.36 B	$139.69 B	$63.47 B
+138.	Charter Communications	United States	$54.48 B	$4.87 B	$144.87 B	$53.56 B
+139.	Vale	Brazil	$41.43 B	$15.98 B	$87.72 B	$61.72 B
+140.	NAB - National Australia Bank	Australia	$26.27 B	$4.99 B	$702.09 B	$56.1 B
+141.	Hitachi	Japan	$80.29 B	$4.79 B	$93.93 B	$53.76 B
+142.	Abbott Laboratories	United States	$41.51 B	$5.78 B	$73.79 B	$193.48 B
+143.	Japan Post Holdings	Japan	$83.79 B	$3.61 B	$2,228.09 B	$28.96 B
+144.	ANZ	Australia	$28.27 B	$4.88 B	$744.23 B	$48.13 B
+145.	Danaher	United States	$30.95 B	$6.93 B	$85.04 B	$178.9 B
+146.	China Telecom	China	$70.29 B	$4.1 B	$119.86 B	$51.07 B
+147.	Lloyds Banking Group	United Kingdom	$27.97 B	$7.05 B	$1,095.15 B	$37.83 B
+148.	Capital One	United States	$41.33 B	$5.84 B	$471.66 B	$33.54 B
+149.	PICC	China	$93.38 B	$3.48 B	$216.23 B	$37.15 B
+149.	PNC Financial Services	United States	$26.18 B	$6.28 B	$561.78 B	$46.37 B
+151.	Brookfield Corporation	Canada	$94.47 B	$2 B	$441.28 B	$48.84 B
+152.	Generali Group	Italy	$91.78 B	$3.06 B	$552.89 B	$31.51 B
+153.	Mizuho Financial	Japan	$32.03 B	$4.52 B	$1,908.3 B	$37.5 B
+154.	Deutsche Post	Germany	$96.47 B	$5.12 B	$73.18 B	$55.25 B
+155.	Truist Financial	United States	$28 B	$6.36 B	$574.35 B	$38.21 B
+156.	China Pacific Insurance	China	$68.07 B	$4.16 B	$300.52 B	$31.02 B
+157.	Amgen	United States	$25.93 B	$7.92 B	$88.72 B	$126.38 B
+158.	KDDI	Japan	$42.7 B	$4.95 B	$88.02 B	$68.67 B
+159.	Lockheed Martin	United States	$66.15 B	$5.69 B	$54.62 B	$115.37 B
+160.	Accenture	Ireland	$63.14 B	$6.94 B	$47.73 B	$176.02 B
+161.	Lowe's	United States	$97.06 B	$6.41 B	$45.27 B	$122.74 B
+162.	Linde	United Kingdom	$33.35 B	$4.49 B	$80.31 B	$179.61 B
+163.	ICICI Bank	India	$23.17 B	$4.24 B	$238.31 B	$79.15 B
+164.	Barclays	United Kingdom	$30.93 B	$6.5 B	$1,902.96 B	$30.04 B
+165.	Valero Energy	United States	$174.43 B	$13.64 B	$60.18 B	$38.7 B
+166.	Philip Morris International	United States	$31.81 B	$8.69 B	$62.06 B	$148.33 B
+167.	FedEx	United States	$92.62 B	$2.99 B	$85.78 B	$57.63 B
+168.	Occidental Petroleum	United States	$36.25 B	$13.22 B	$74.76 B	$54.63 B
+169.	MetLife	United States	$69.53 B	$1.95 B	$674.27 B	$41.86 B
+170.	BYD	China	$68.06 B	$2.89 B	$79.61 B	$87.01 B
+171.	Banco do Brasil	Brazil	$53.98 B	$5.76 B	$380.27 B	$24.85 B
+171.	Medtronic	Ireland	$30.77 B	$4.07 B	$94.13 B	$119.82 B
+173.	Banco Bradesco	Brazil	$56.26 B	$3.49 B	$357.45 B	$31.6 B
+174.	Møller-Maersk	Denmark	$76.61 B	$24.83 B	$85.49 B	$30.17 B
+175.	IBM	United States	$60.58 B	$1.83 B	$133.64 B	$112.28 B
+176.	UniCredit	Italy	$21.03 B	$6.79 B	$915.46 B	$40.14 B
+177.	América Móvil	Mexico	$43.57 B	$3.84 B	$88.24 B	$66.81 B
+178.	Enel	Italy	$132.19 B	$1.34 B	$229.91 B	$68.9 B
+179.	Southern Company	United States	$29.12 B	$3.36 B	$134.76 B	$81.72 B
+180.	Qualcomm	United States	$41.07 B	$10.54 B	$48.36 B	$121.18 B
+181.	Oversea-Chinese Banking	Singapore	$25.39 B	$4.17 B	$417.5 B	$42.89 B
+182.	L'Oréal	France	$40.21 B	$6 B	$49.99 B	$250.39 B
+183.	Canadian Imperial Bank	Canada	$28.83 B	$3.65 B	$690.97 B	$37.69 B
+184.	HCA Healthcare	United States	$60.88 B	$5.73 B	$52.71 B	$76.52 B
+185.	Duke Energy	United States	$29.14 B	$2.67 B	$183.34 B	$76.52 B
+186.	Honeywell International	United States	$35.94 B	$5.23 B	$59.88 B	$132.08 B
+187.	GSK	United Kingdom	$35 B	$5.35 B	$72.45 B	$74.45 B
+188.	Deutsche Bank	Germany	$44.54 B	$5.59 B	$1,419.75 B	$21.65 B
+189.	McKesson	United States	$273.9 B	$3.14 B	$62.69 B	$50.1 B
+190.	DBS	Singapore	$16.11 B	$5.94 B	$554.45 B	$61.9 B
+191.	China Everbright Bank	China	$41.48 B	$6.65 B	$974.22 B	$19.73 B
+192.	Mondelez International	United States	$32.9 B	$3.94 B	$72.79 B	$105.63 B
+193.	Tokio Marine Holdings	Japan	$48.67 B	$2.42 B	$216.93 B	$39.82 B
+194.	Union Pacific	United States	$25.07 B	$7 B	$65.97 B	$122.69 B
+195.	Enbridge	Canada	$37.69 B	$2.11 B	$130.84 B	$80.51 B
+195.	Porsche Automobil Holding	Germany	$41.27 B	$5.56 B	$50.07 B	$115.76 B
+197.	Westpac Banking Group	Australia	$18.71 B	$4.05 B	$653.08 B	$50.44 B
+198.	China Railway Group	China	$171.53 B	$4.37 B	$232.03 B	$18.82 B
+199.	Midea Group	China	$52.99 B	$4.42 B	$64.19 B	$56.21 B
+200.	ING Bank Śląski	Netherlands	$19.51 B	$3.86 B	$1,032.9 B	$43.32 B
+201.	Humana	United States	$95.64 B	$3.12 B	$54.78 B	$66.85 B
+202.	Eli Lilly	United States	$27.69 B	$5.69 B	$53.16 B	$406.11 B
+203.	Target	United States	$109.12 B	$2.78 B	$53.34 B	$71.95 B
+204.	Archer Daniels Midland	United States	$102.28 B	$4.46 B	$58.8 B	$41.37 B
+205.	NatWest Group	United Kingdom	$22.71 B	$4.7 B	$860.1 B	$31.03 B
+205.	Schneider Electric	France	$35.92 B	$3.65 B	$62.29 B	$97.63 B
+207.	National Grid	United Kingdom	$26.72 B	$4 B	$112.27 B	$53.39 B
+207.	Qatar National Bank	Qatar	$21.18 B	$3.84 B	$323.6 B	$43.04 B
+209.	E.ON	Germany	$121.56 B	$1.93 B	$163.48 B	$34.79 B
+210.	Nike	United States	$50.64 B	$5.48 B	$38.29 B	$194.58 B
+211.	China Minsheng Bank	China	$45.01 B	$4.7 B	$1,043.73 B	$18.63 B
+212.	Gilead Sciences	United States	$26.84 B	$5.58 B	$61.88 B	$99.48 B
+213.	RWE Group	Germany	$40.32 B	$2.86 B	$188.79 B	$33.95 B
+214.	ArcelorMittal	Luxembourg	$79.53 B	$9.04 B	$94.55 B	$21.15 B
+215.	BlackRock	United States	$17.39 B	$4.9 B	$121.4 B	$96.82 B
+215.	Suncor Energy	Canada	$44.92 B	$6.97 B	$62.45 B	$39.03 B
+217.	McDonald's	United States	$23.41 B	$6.88 B	$52.01 B	$216.55 B
+218.	Canadian Natural Resources	Canada	$30.42 B	$7.28 B	$55.61 B	$63.25 B
+219.	Nordea Bank	Finland	$17.97 B	$4.64 B	$656.35 B	$38.57 B
+220.	China Resources Land	Hong Kong	$30.61 B	$4.14 B	$155.55 B	$33.12 B
+221.	SAP	Germany	$32.48 B	$2.11 B	$79.89 B	$156.95 B
+222.	Travelers	United States	$37.79 B	$2.78 B	$108.9 B	$42.11 B
+223.	Netflix	United States	$31.91 B	$4.2 B	$49.49 B	$143.48 B
+224.	JD.com	China	$155.26 B	$1.49 B	$85.63 B	$56.26 B
+225.	Dell Technologies	United States	$101.56 B	$2.44 B	$89.61 B	$33.2 B
+226.	Oil & Natural Gas	India	$86.06 B	$5.38 B	$77.27 B	$24.65 B
+227.	CK Hutchison	Hong Kong	$33.52 B	$4.68 B	$147.14 B	$26.21 B
+228.	China Vanke	China	$75.64 B	$3.33 B	$253.66 B	$18.4 B
+229.	Vodafone	United Kingdom	$49.74 B	$2.25 B	$154.24 B	$32.36 B
+230.	Volvo Group	Sweden	$48.07 B	$3.71 B	$63.11 B	$41.03 B
+231.	Seven & I Holdings	Japan	$88.03 B	$2.09 B	$77.46 B	$40.76 B
+232.	HDFC	India	$19.04 B	$3.26 B	$132.82 B	$60.58 B
+233.	Bank of New York Mellon	United States	$23.05 B	$2.78 B	$425.11 B	$33.11 B
+234.	Anglo American	United Kingdom	$35.05 B	$4.37 B	$67.41 B	$41.3 B
+235.	Mastercard	United States	$22.82 B	$9.66 B	$38.94 B	$364.34 B
+236.	Novo Nordisk	Denmark	$26.32 B	$8.54 B	$36.47 B	$359.43 B
+237.	Northrop Grumman	United States	$37.11 B	$4.78 B	$44.24 B	$67.85 B
+238.	PTT	Thailand	$96 B	$2.61 B	$98.62 B	$25.6 B
+239.	PayPal	United States	$27.06 B	$2.42 B	$78.72 B	$84.18 B
+240.	ASML Holding	Netherlands	$25.36 B	$7.16 B	$38.19 B	$254.33 B
+241.	NVIDIA	United States	$26.97 B	$4.37 B	$41.18 B	$708.4 B
+242.	3M	United States	$33.43 B	$5.45 B	$46.89 B	$57.02 B
+243.	Poly Developments & Holdings Group	China	$40.07 B	$2.7 B	$210.72 B	$24.7 B
+244.	General Dynamics	United States	$39.9 B	$3.39 B	$52.1 B	$58.14 B
+245.	Macquarie Group	Australia	$17.22 B	$3.43 B	$260.81 B	$44.21 B
+246.	EOG Resources	United States	$28.43 B	$9.39 B	$41.02 B	$66.77 B
+247.	Takeda Pharmaceutical	Japan	$29.99 B	$2.09 B	$102.35 B	$52.78 B
+248.	Air Liquide	France	$31.46 B	$2.9 B	$52.85 B	$93.96 B
+249.	Aflac	United States	$19.03 B	$4.36 B	$133.87 B	$40.84 B
+250.	Sun Life Financial	Canada	$31.56 B	$2.4 B	$240.68 B	$28.42 B
+251.	Orange	France	$45.69 B	$2.05 B	$120.79 B	$34.05 B
+252.	Cosco Shipping	China	$58.34 B	$16.42 B	$73.62 B	$18.5 B
+252.	Kraft Heinz Company	United States	$26.93 B	$2.42 B	$90.94 B	$50.71 B
+254.	Nutrien	Canada	$37.75 B	$7.61 B	$54.59 B	$32.33 B
+255.	Standard Chartered	United Kingdom	$28.57 B	$2.84 B	$820.68 B	$21.36 B
+256.	KIA	South Korea	$70.17 B	$4.96 B	$58.29 B	$26.04 B
+257.	Dow	United States	$53.49 B	$2.9 B	$59.32 B	$38.48 B
+258.	SAIC Motor	China	$102.5 B	$1.95 B	$137.97 B	$23.04 B
+259.	Centene	United States	$146.25 B	$1.48 B	$82.98 B	$37.53 B
+260.	The Saudi National Bank	Saudi Arabia	$11.77 B	$5.09 B	$260.02 B	$58.23 B
+261.	Sumitomo	Japan	$50.33 B	$4.51 B	$77.25 B	$22.82 B
+262.	EssilorLuxottica	France	$25.74 B	$2.26 B	$64.63 B	$90.12 B
+262.	Merck KGaA, Darmstadt, Germany and its affiliates	Germany	$23.36 B	$3.49 B	$52.34 B	$79.2 B
+264.	Schlumberger	United States	$29.93 B	$3.87 B	$43.85 B	$65.21 B
+265.	China Railway Construction	China	$160.59 B	$3.93 B	$231.63 B	$12.46 B
+266.	Kroger	United States	$148.26 B	$2.22 B	$52.21 B	$35.32 B
+266.	Marubeni	Japan	$73.47 B	$4.24 B	$61.62 B	$23.83 B
+268.	Holcim	Switzerland	$30.56 B	$3.45 B	$62.26 B	$39.59 B
+269.	Dai-ichi Life Insurance	Japan	$57.61 B	$1.98 B	$480.84 B	$18.03 B
+270.	Nippon Steel	Japan	$59.52 B	$4.92 B	$71.85 B	$19.78 B
+271.	Royal Ahold Delhaize N.V.	Netherlands	$91.42 B	$2.68 B	$51.82 B	$32.37 B
+272.	Denso	Japan	$47.24 B	$2.32 B	$55.67 B	$44.85 B
+273.	KBC Group	Belgium	$18.46 B	$2.95 B	$379.8 B	$29.1 B
+274.	Inditex	Spain	$34.1 B	$4.32 B	$32.56 B	$108.47 B
+275.	Diageo	United Kingdom	$20.84 B	$4.41 B	$46.58 B	$104.22 B
+276.	Manulife	Canada	$12.23 B	$5.6 B	$591.34 B	$36.63 B
+277.	China Unicom	Hong Kong	$52.78 B	$2.52 B	$92.45 B	$24.33 B
+278.	KB Financial Group	South Korea	$44.38 B	$3.31 B	$557.09 B	$14.15 B
+279.	SK Hynix	South Korea	$34.53 B	$1.73 B	$82.14 B	$46.11 B
+280.	Saint-Gobain	France	$53.81 B	$3.16 B	$59.1 B	$29.32 B
+281.	Cheniere Energy	United States	$33.3 B	$7.73 B	$40.27 B	$36 B
+282.	Daimler Truck Holding	Germany	$53.54 B	$2.8 B	$68.27 B	$26.35 B
+283.	PKN Orlen	Poland	$62.44 B	$7.94 B	$62.18 B	$17.6 B
+284.	Zijin Mining Group	China	$40.31 B	$2.84 B	$45.89 B	$45.69 B
+285.	Kweichow Moutai	China	$16.65 B	$9.67 B	$37.6 B	$318.07 B
+286.	Telefónica	Spain	$42.03 B	$2.06 B	$117.02 B	$25.48 B
+287.	AmerisourceBergen	United States	$247.54 B	$1.62 B	$58.77 B	$34.01 B
+288.	Al Rajhi Bank	Saudi Arabia	$10.29 B	$4.52 B	$206.78 B	$79.36 B
+289.	Power Construction Corporation of China	China	$83.9 B	$1.71 B	$161.04 B	$19.29 B
+290.	Repsol	Spain	$76.12 B	$4.13 B	$65.31 B	$18.84 B
+291.	First Abu Dhabi Bank	United Arab Emirates	$13.11 B	$3.19 B	$322.75 B	$42.39 B
+292.	Fiserv	United States	$18.15 B	$2.42 B	$76.55 B	$74.26 B
+293.	Automatic Data Processing	United States	$17.66 B	$3.26 B	$59.88 B	$89.02 B
+294.	EnBW-Energie Baden	Germany	$58.86 B	$1.83 B	$87.93 B	$26.95 B
+295.	TJX Cos	United States	$49.94 B	$3.5 B	$28.35 B	$90.48 B
+296.	CaixaBank	Spain	$15.43 B	$3.42 B	$672.2 B	$26.5 B
+297.	ABB	Switzerland	$30.37 B	$2.89 B	$40.04 B	$66.75 B
+298.	Posco	South Korea	$63.21 B	$2.43 B	$78.82 B	$21.73 B
+299.	Shinhan Financial Group	South Korea	$33.38 B	$3.46 B	$534.51 B	$13.85 B
+300.	Altria Group	United States	$20.63 B	$5.58 B	$36.83 B	$83.34 B
+301.	Starbucks	United States	$33.97 B	$3.55 B	$28.61 B	$122.91 B
+302.	Power Corp of Canada	Canada	$55.77 B	$1.51 B	$523 B	$17.76 B
+303.	CRH	Ireland	$32.84 B	$3.83 B	$45.19 B	$36.36 B
+304.	International Holding Company	United Arab Emirates	$13.85 B	$3.44 B	$62.09 B	$236 B
+305.	Longfor Group Holdings	China	$37 B	$3.57 B	$113.18 B	$17.11 B
+306.	Exelon	United States	$19.31 B	$2.24 B	$96.92 B	$42.62 B
+307.	Bank Rakyat Indonesia (BRI)	Indonesia	$13.16 B	$3.45 B	$119.84 B	$53.79 B
+308.	Woodside Energy Group	Australia	$16.97 B	$6.61 B	$59.32 B	$42.33 B
+309.	American Electric	United States	$19.72 B	$1.99 B	$94.52 B	$47.42 B
+310.	Ecopetrol	Colombia	$33.67 B	$7.85 B	$62.45 B	$18.76 B
+311.	Femsa	Mexico	$35.86 B	$3.46 B	$44.9 B	$35.05 B
+312.	Sempra	United States	$18.21 B	$2.5 B	$80.55 B	$48.75 B
+313.	Société Générale	France	$53.33 B	$1.49 B	$1,586.81 B	$16.19 B
+313.	Texas Instruments	United States	$19.5 B	$8.22 B	$29.22 B	$150.51 B
+315.	Applied Materials	United States	$26.14 B	$6.45 B	$27.96 B	$98.08 B
+316.	Pioneer Natural Resources	United States	$22.83 B	$7.04 B	$36.11 B	$49.6 B
+317.	Bank of Ningbo	China	$14.69 B	$3.49 B	$367.56 B	$26.45 B
+318.	Nucor	United States	$39.73 B	$6.63 B	$32.25 B	$35.85 B
+319.	Cenovus Energy	Canada	$47.58 B	$4.13 B	$39.9 B	$30.3 B
+320.	Bank Of Jiangsu	China	$19.88 B	$3.94 B	$464.1 B	$16.45 B
+321.	Micron Technology	United States	$23.06 B	$1.61 B	$66.52 B	$67.01 B
+322.	Couche Tard	Canada	$71.78 B	$2.89 B	$28.32 B	$51.12 B
+323.	PG&E	United States	$21.68 B	$1.81 B	$128.5 B	$34.33 B
+324.	Freeport-McMoRan	United States	$22.37 B	$2.59 B	$50.91 B	$52.27 B
+325.	Huaxia Bank	China	$24.86 B	$3.68 B	$586.32 B	$13.84 B
+325.	United Overseas Bank	Singapore	$12 B	$3.32 B	$375.98 B	$35.36 B
+327.	Kering	France	$21.39 B	$3.8 B	$36.22 B	$75.52 B
+328.	Emirates NBD	United Arab Emirates	$14.65 B	$4.58 B	$212.98 B	$24.17 B
+329.	Saudi Electricity	Saudi Arabia	$19.2 B	$2.5 B	$129.01 B	$27.29 B
+329.	Shin-Etsu Chemical	Japan	$20.73 B	$5.23 B	$35.54 B	$59.75 B
+331.	Gree Electric Appliances	China	$27.51 B	$3.59 B	$55.97 B	$28.16 B
+332.	Discover Financial Services	United States	$16.95 B	$4.1 B	$133.06 B	$24.37 B
+333.	Citic Securities	China	$13.55 B	$3.15 B	$209.61 B	$32.11 B
+334.	Lennar	United States	$33.98 B	$4.65 B	$36.57 B	$32.83 B
+335.	China Communications Construction	China	$106.77 B	$2.77 B	$218.83 B	$10.94 B
+336.	PDD Holdings	Ireland	$19.28 B	$4.63 B	$34.11 B	$83.21 B
+336.	Progressive	United States	$52.05 B	$855.5 M	$74.52 B	$75.82 B
+338.	Berkshire Hathaway	United States	$302.09 B	$-22.82 B	$948.45 B	$707.21 B
+339.	LG Chem	South Korea	$41.81 B	$1.39 B	$53.76 B	$43.26 B
+340.	D.R. Horton	United States	$33.66 B	$5.18 B	$31.17 B	$36.88 B
+341.	Principal Financial Group	United States	$17.2 B	$4.3 B	$278.53 B	$17.36 B
+342.	Delta Air Lines	United States	$53.99 B	$1.9 B	$73.13 B	$21.81 B
+343.	Marsh & McLennan	United States	$21.07 B	$3.21 B	$34.36 B	$88.73 B
+344.	DNB Bank	Norway	$12.41 B	$3.5 B	$337.71 B	$27.17 B
+345.	Corebridge Financial	United States	$26.41 B	$8.15 B	$333.44 B	$10.78 B
+346.	Wilmar International	Singapore	$73.41 B	$2.4 B	$60.4 B	$18.27 B
+347.	Ameriprise Financial	United States	$15.98 B	$2.21 B	$166.64 B	$30.34 B
+348.	Bank of Beijing	China	$18.58 B	$3.63 B	$509.66 B	$14.78 B
+348.	Kinder Morgan	United States	$18.25 B	$2.55 B	$68.93 B	$38.19 B
+350.	Fannie Mae	United States	$125.57 B	$12.29 B	$4,317.46 B	$511 M
+351.	LyondellBasell Industries	United Kingdom	$47.54 B	$3.03 B	$36.26 B	$30.05 B
+351.	Stryker	United States	$18.95 B	$2.63 B	$36.83 B	$108.08 B
+353.	Dollar General	United States	$37.84 B	$2.42 B	$31.94 B	$47.97 B
+354.	Japan Tobacco	Japan	$20.23 B	$3.42 B	$47.69 B	$38.6 B
+355.	HP	United States	$58.58 B	$2.6 B	$36.15 B	$29.68 B
+356.	Panasonic	Japan	$62.27 B	$1.69 B	$60.68 B	$23.07 B
+357.	OMV Group	Austria	$59.73 B	$3.62 B	$59.08 B	$15.17 B
+358.	Paccar	United States	$30.83 B	$3.15 B	$34.83 B	$38.02 B
+359.	CSX	United States	$15.15 B	$4.29 B	$41.48 B	$64.77 B
+360.	Becton Dickinson	United States	$18.81 B	$1.65 B	$54.39 B	$72.04 B
+360.	S&P Global	United States	$11.95 B	$2.81 B	$62.02 B	$113.62 B
+362.	Eaton	Ireland	$21.39 B	$2.57 B	$35.52 B	$68.18 B
+363.	Life Insurance Corp. of India	India	$100.35 B	$553.6 M	$561.41 B	$43.31 B
+364.	State Street	United States	$14.04 B	$2.72 B	$290.82 B	$22.9 B
+365.	Analog Devices	United States	$12.58 B	$3.43 B	$50.23 B	$92.77 B
+366.	Adobe	United States	$17.82 B	$4.74 B	$26.67 B	$159.81 B
+367.	Freddie Mac	United States	$90.36 B	$7.52 B	$3,224.98 B	$287 M
+368.	Nokia	Finland	$26.44 B	$4.49 B	$45.6 B	$23.06 B
+369.	Saudi Telecom	Saudi Arabia	$17.96 B	$3.24 B	$36.51 B	$57.59 B
+370.	AT&T	United States	$121.17 B	$-9.11 B	$400.87 B	$122.46 B
+371.	Orix	Japan	$20.05 B	$2.37 B	$110.3 B	$19.66 B
+372.	Banco Btg Pactual	Brazil	$15.49 B	$1.52 B	$85.35 B	$50.77 B
+372.	National Bank of Canada	Canada	$12.28 B	$2.55 B	$313.52 B	$25.45 B
+374.	BCE	Canada	$18.42 B	$2.06 B	$51.7 B	$43.73 B
+375.	Banorte	Mexico	$16.82 B	$2.26 B	$106.23 B	$24.74 B
+376.	Canadian National Railway	Canada	$13.39 B	$4.1 B	$37.61 B	$80.38 B
+376.	TAQA	United Arab Emirates	$13.73 B	$2.19 B	$49.42 B	$97.36 B
+378.	Daikin Industries	Japan	$28.84 B	$1.89 B	$31.64 B	$54.92 B
+379.	Consolidated Edison	United States	$15.97 B	$2.49 B	$62.8 B	$34.48 B
+380.	Reckitt Benckiser Group	United Kingdom	$17.8 B	$2.88 B	$34.57 B	$58.15 B
+381.	Swiss Life Holding	Switzerland	$21.32 B	$1.52 B	$234.9 B	$18.16 B
+382.	Naturgy Energy Group	Spain	$35.7 B	$1.73 B	$43.11 B	$30.16 B
+383.	MS&AD Insurance	Japan	$37.89 B	$1.11 B	$189.3 B	$17.72 B
+384.	Shaanxi Coal Industry	China	$23.36 B	$5.3 B	$32.71 B	$27.8 B
+385.	Poste Italiane	Italy	$29.3 B	$1.61 B	$285.67 B	$13.54 B
+386.	General Mills	United States	$19.95 B	$2.8 B	$31.2 B	$52.75 B
+387.	Tata Consultancy Services	India	$28.05 B	$5.24 B	$17.48 B	$144.52 B
+388.	SEB AB	Sweden	$10.84 B	$2.88 B	$366.63 B	$23.63 B
+389.	Baoshan Iron & Steel	China	$52.56 B	$1.5 B	$57.27 B	$20.45 B
+390.	WM	United States	$19.93 B	$2.26 B	$31.29 B	$68.52 B 
+391.	Erste Group Bank	Austria	$17.55 B	$2.3 B	$372.57 B	$14.52 B
+392.	Tyson Foods	United States	$53.61 B	$2.43 B	$36.68 B	$21.16 B
+393.	Booking Holdings	United States	$18.17 B	$4.02 B	$25.21 B	$94.89 B
+394.	Koç Holding	Turkey	$54.65 B	$4.48 B	$86.81 B	$9.85 B
+395.	BAE Systems	United Kingdom	$26.18 B	$1.96 B	$37.85 B	$38.08 B
+396.	Heineken	Netherlands	$30.18 B	$1.41 B	$57.01 B	$27.58 B
+397.	United Airlines Holdings	United States	$48.82 B	$1.92 B	$70.42 B	$14.7 B
+398.	Haier Smart Home	China	$36.13 B	$2.22 B	$34.65 B	$29.13 B
+399.	Johnson Controls International	Ireland	$26.09 B	$1.39 B	$43.42 B	$42.67 B
+400.	Cummins	United States	$30.14 B	$2.52 B	$31.43 B	$32.05 B
+401.	Wanhua Chemical Group	China	$24.04 B	$2.18 B	$34.6 B	$40.94 B
+402.	Bank Of Shanghai	China	$15.28 B	$3.28 B	$432.22 B	$13.48 B
+402.	EDF	France	$150.79 B	$-19.5 B	$414.23 B	$52.83 B
+404.	China Yangtze Power	China	$8.23 B	$3.18 B	$84.4 B	$78.24 B
+405.	BT Group	United Kingdom	$26.66 B	$2.21 B	$59.76 B	$19.31 B
+406.	CRRC	China	$32.34 B	$1.74 B	$65.25 B	$18.69 B
+407.	Hartford Financial Services	United States	$22.88 B	$1.91 B	$67.32 B	$21.63 B
+408.	Dominion Energy	United States	$16.84 B	$994 M	$104.24 B	$47.18 B
+409.	Mitsubishi Electric	Japan	$36.92 B	$1.58 B	$41.95 B	$26.99 B
+410.	Etisalat	United Arab Emirates	$14.19 B	$2.66 B	$39.95 B	$55.42 B
+411.	Fresenius	Germany	$42.71 B	$1.44 B	$81.55 B	$15.6 B
+412.	Toyota Tsusho	Japan	$72.67 B	$2.1 B	$47.91 B	$14.92 B
+413.	Bridgestone	Japan	$31.25 B	$1.98 B	$37.6 B	$27.83 B
+414.	CEZ Group	Czech Republic	$15.16 B	$3.46 B	$48.93 B	$30.29 B
+414.	Fortescue Metals Group	Australia	$17.05 B	$5.75 B	$27.97 B	$42 B
+416.	Xcel Energy	United States	$15.62 B	$1.77 B	$60.95 B	$38.29 B
+417.	ENEOS Holdings	Japan	$111.2 B	$2.29 B	$81 B	$10.11 B
+418.	Bank Mandiri	Indonesia	$10 B	$2.72 B	$120.8 B	$32.58 B
+419.	Talanx	Germany	$56.19 B	$1.23 B	$200.25 B	$12.11 B
+420.	Hana Financial Group	South Korea	$29.41 B	$2.8 B	$449.88 B	$9.17 B
+421.	Tesco	United Kingdom	$79.69 B	$900.4 M	$55.85 B	$25.94 B
+422.	Intel	United States	$56.42 B	$-2.86 B	$185.3 B	$129.26 B
+423.	Axis Bank	India	$13.21 B	$1.34 B	$163.59 B	$32.54 B
+424.	Nissan Motor	Japan	$74.28 B	$982.6 M	$128.5 B	$14.52 B
+425.	AIA Group	Hong Kong	$41.67 B	$282.9 M	$297.93 B	$120.4 B
+426.	Marriott International	United States	$22.19 B	$2.74 B	$24.86 B	$53.56 B
+427.	Boeing	United States	$70.54 B	$-4.13 B	$136.35 B	$119.32 B
+428.	Credit Suisse Group	Switzerland	$39.83 B	$5.66 B	$591.42 B	$3.44 B
+429.	Carrefour	France	$87.32 B	$1.42 B	$60.35 B	$14.33 B
+430.	Danone	France	$29.07 B	$993.2 M	$48.33 B	$42.51 B
+431.	Yankuang Energy Group	China	$22.98 B	$4.56 B	$44.39 B	$16.35 B
+432.	Regeneron Pharmaceuticals	United States	$12.37 B	$4.18 B	$30.06 B	$83.3 B
+433.	Canon	Japan	$30.43 B	$1.88 B	$39.51 B	$24.32 B
+433.	NTPC	India	$21.5 B	$2.19 B	$54.1 B	$20.65 B
+435.	Emerson Electric	United States	$17.5 B	$2 B	$36.15 B	$48.23 B
+436.	London Stock Exchange	United Kingdom	$9.54 B	$1.04 B	$1,004.61 B	$53.39 B
+437.	IntercontinentalExchange	United States	$9.08 B	$1.44 B	$151.55 B	$60.64 B
+438.	Norfolk Southern	United States	$12.96 B	$3.03 B	$39.17 B	$47.51 B
+439.	Pernod Ricard	France	$12.46 B	$2.52 B	$39.35 B	$60.47 B
+440.	Michelin Group	France	$30.05 B	$2.1 B	$37.72 B	$23.13 B
+441.	Komatsu	Japan	$26.25 B	$2.41 B	$36.64 B	$23.62 B
+442.	Softbank	Japan	$55.25 B	$-23.11 B	$320.92 B	$56.05 B
+443.	DuPont De Nemours	United States	$12.76 B	$5.57 B	$41.21 B	$30.07 B
+444.	Sysco	United States	$75.55 B	$1.55 B	$22.7 B	$38.9 B
+445.	Devon Energy	United States	$20.64 B	$5.96 B	$23.72 B	$32.94 B
+446.	Orsted	Denmark	$16.9 B	$1.65 B	$44.72 B	$39.16 B
+447.	American Tower	United States	$10.82 B	$1.39 B	$66.82 B	$91.69 B
+447.	Lam Research	United States	$18.84 B	$4.92 B	$19.24 B	$71.17 B
+449.	Fairfax Financial	Canada	$28.32 B	$1.25 B	$79.01 B	$18.28 B
+449.	Larsen & Toubro	India	$22.62 B	$1.29 B	$39.68 B	$40.85 B
+451.	Infineon Technologies	Germany	$16.46 B	$2.92 B	$28.72 B	$47.58 B
+452.	Investor AB	Sweden	$8.11 B	$2.62 B	$73.17 B	$65.58 B
+453.	Aon	Ireland	$12.68 B	$2.62 B	$34.25 B	$67.07 B
+454.	Bank of Nanjing	China	$12.73 B	$2.75 B	$312.65 B	$14.05 B
+455.	Baidu	China	$18.36 B	$1.09 B	$56.24 B	$42 B
+456.	DSV Panalpina	Denmark	$30.12 B	$2.3 B	$22.57 B	$41.21 B
+457.	ENGIE	France	$98.65 B	$228.1 M	$251.33 B	$38.78 B
+458.	Sherwin-Williams	United States	$22.59 B	$2.13 B	$23.13 B	$59.53 B
+459.	Sun Hung Kai Properties	Hong Kong	$8.33 B	$2.4 B	$102.72 B	$40.84 B
+460.	Daiwa House Industry	Japan	$35.84 B	$1.7 B	$47.69 B	$16.8 B
+461.	Prologis	United States	$6.52 B	$2.68 B	$88.52 B	$118.61 B
+462.	Bank Central Asia	Indonesia	$6.71 B	$2.93 B	$88.15 B	$75.6 B
+463.	Moderna	United States	$14.92 B	$4.78 B	$24.13 B	$52.24 B 
+464.	Hyundai Mobis	South Korea	$40.17 B	$1.92 B	$43.82 B	$15.14 B
+465.	M&T Bank	United States	$10.1 B	$2.33 B	$202.96 B	$19.9 B
+466.	Carrier Global	United States	$21.04 B	$2.53 B	$26.41 B	$35.38 B
+467.	CSL	Australia	$11.72 B	$2.17 B	$35.45 B	$97.91 B
+468.	CNH Industrial	United Kingdom	$24.28 B	$2.18 B	$40.57 B	$19.09 B
+469.	Grupo Mexico	Mexico	$13.93 B	$3.26 B	$32.66 B	$37.81 B
+470.	Keurig Dr Pepper	United States	$14.33 B	$1.32 B	$51.66 B	$46.65 B
+471.	GE Healthcare	United States	$18.34 B	$1.92 B	$32.64 B	$35.91 B
+472.	Maybank	Malaysia	$9.9 B	$1.87 B	$215.17 B	$23.77 B
+473.	Toyota Industries	Japan	$24.94 B	$1.42 B	$58.77 B	$18.23 B
+474.	Corteva	United States	$17.74 B	$1.18 B	$45.5 B	$41.41 B
+475.	Commerzbank	Germany	$15.55 B	$1.51 B	$524.97 B	$13.46 B
+476.	TC Energy	Canada	$11.01 B	$1.28 B	$88.08 B	$41.63 B
+477.	Williams	United States	$10.9 B	$2.6 B	$48.94 B	$36.77 B
+478.	Bharti Airtel	India	$17.12 B	$934.5 M	$52.92 B	$53.66 B
+479.	Henkel	Germany	$23.54 B	$1.32 B	$35.41 B	$34.28 B
+480.	Veolia Environnement	France	$45.07 B	$752.3 M	$78.23 B	$21.9 B
+481.	Fifth Third Bank	United States	$10.41 B	$2.51 B	$208.66 B	$16.91 B
+482.	Fast Retailing	Japan	$19 B	$2.09 B	$22.14 B	$72.67 B
+483.	S.F. Holding	China	$38.67 B	$1 B	$31.15 B	$38.26 B
+484.	Intuit	United States	$13.68 B	$1.95 B	$27.2 B	$119.5 B
+485.	Prudential Financial	United States	$62.29 B	$19 M	$709.27 B	$29.95 B
+485.	Salesforce	United States	$31.35 B	$208 M	$102.58 B	$197.59 B
+487.	China Coal Energy	China	$32.9 B	$2.98 B	$48.85 B	$11.32 B
+488.	FirstRand	South Africa	$10.84 B	$2.19 B	$125.95 B	$19.28 B
+489.	NetEase	China	$14.34 B	$2.93 B	$24.85 B	$56.68 B
+489.	Svenska Handelsbanken	Sweden	$10.09 B	$2.18 B	$347.37 B	$17.07 B
+491.	Lenovo Group	Hong Kong	$66.01 B	$1.91 B	$41.75 B	$12.35 B
+492.	CME Group	United States	$5.11 B	$2.87 B	$166.04 B	$66.6 B
+492.	New China Life Insurance	China	$33.28 B	$1.49 B	$177 B	$9.68 B
+494.	Recruit Holdings	Japan	$25.56 B	$2.25 B	$20.53 B	$44.4 B
+494.	Tongwei	China	$21.87 B	$4.25 B	$23.65 B	$24.95 B
+496.	Swedbank	Sweden	$8.78 B	$2.39 B	$292.81 B	$19 B
+497.	BASF	Germany	$87.6 B	$-297.4 M	$93.59 B	$48.04 B
+498.	Intact Financial	Canada	$16.21 B	$1.86 B	$43.73 B	$26.07 B
+499.	George Weston	Canada	$43.82 B	$1.4 B	$36.13 B	$18.17 B
+500.	Parker-Hannifin	United States	$18.16 B	$1.5 B	$30.52 B	$42.75 B
+501.	Air Products & Chemicals	United States	$12.88 B	$2.26 B	$28.28 B	$65.89 B 
+502.	Kotak Mahindra Bank	India	$8.51 B	$1.86 B	$75.49 B	$46.83 B
+503.	Edison International	United States	$17.22 B	$943 M	$78.85 B	$28.17 B
+503.	Standard Bank Group	South Africa	$12.18 B	$2.18 B	$169.49 B	$14.68 B
+505.	Muyuan Foodstuff	China	$18.51 B	$1.97 B	$27.75 B	$36.11 B
+506.	Imperial Brands	United Kingdom	$21.57 B	$2 B	$34.56 B	$22 B
+506.	Mitsui Fudosan	Japan	$17.18 B	$1.53 B	$67.01 B	$18.36 B
+508.	Public Service Enterprise Group	United States	$11.04 B	$2.32 B	$49.41 B	$31.84 B
+509.	STMicroelectronics	Switzerland	$16.84 B	$4.59 B	$21.2 B	$38.26 B
+510.	Inpex	Japan	$17.67 B	$3.33 B	$47.46 B	$14.37 B
+511.	Canadian Pacific Kansas City	Canada	$6.99 B	$2.82 B	$54.31 B	$75.1 B
+511.	Naspers	South Africa	$7.57 B	$3.76 B	$62.16 B	$35.64 B
+513.	Samsung C&T	South Korea	$32.8 B	$1.71 B	$46.64 B	$13.6 B
+514.	Alpha Dhabi Holding	United Arab Emirates	$10.91 B	$1.99 B	$35.68 B	$59.15 B
+514.	Capgemini	France	$23.12 B	$1.63 B	$27.19 B	$31.68 B
+516.	Compass Group	United Kingdom	$32.54 B	$1.42 B	$20.93 B	$45.54 B
+517.	Oneok	United States	$21.71 B	$2.38 B	$24.46 B	$28.86 B
+518.	Kenvue	United States	$14.93 B	$2.09 B	$27.32 B	$45.48 B
+519.	Swiss Re	Switzerland	$46.29 B	$473.7 M	$164.17 B	$28.74 B
+520.	Dollar Tree	United States	$28.33 B	$1.62 B	$23.02 B	$34.39 B
+521.	Suzuki Motor	Japan	$33.51 B	$1.58 B	$33.17 B	$17.22 B
+522.	Synchrony Financial	United States	$14.1 B	$2.69 B	$107.85 B	$11.72 B
+523.	Haleon	United Kingdom	$13.5 B	$1.33 B	$41.88 B	$39.79 B
+524.	Hermès International	France	$12.19 B	$3.54 B	$18.63 B	$229.4 B
+525.	Bouygues	France	$46.58 B	$1.02 B	$64.67 B	$12.95 B
+526.	Coca-Cola Europacific Partners	United Kingdom	$18.2 B	$1.58 B	$31.28 B	$29.99 B
+527.	Sinopharm Group	China	$81.97 B	$1.26 B	$52.47 B	$10.95 B
+528.	Raymond James Financial	United States	$12.59 B	$1.67 B	$79.18 B	$18.56 B
+529.	Ericsson	Sweden	$26.85 B	$1.66 B	$33.33 B	$18.11 B
+530.	Longi Green Energy Technology	China	$20.13 B	$2.3 B	$20.94 B	$36.39 B
+531.	Woolworths	Australia	$43.07 B	$1.19 B	$22.9 B	$32.08 B
+532.	Thales	France	$18.46 B	$1.18 B	$36.73 B	$31.05 B
+533.	Wuliangye Yibin	China	$9.66 B	$4.14 B	$23.34 B	$97.56 B
+534.	Eversource Energy	United States	$12.61 B	$1.45 B	$54.1 B	$27 B
+535.	Walgreens Boots Alliance	United States	$133.29 B	$-3.15 B	$100.48 B	$27.76 B
+536.	American Airlines Group	United States	$52.26 B	$1.77 B	$66.79 B	$9.05 B
+537.	Kuehne & Nagel International	Switzerland	$37.67 B	$2.43 B	$15.42 B	$36.03 B
+538.	Wesfarmers	Australia	$28.76 B	$1.75 B	$18.72 B	$39.4 B
+539.	Anhui Conch Cement	China	$19.53 B	$2.38 B	$35.46 B	$16.44 B
+540.	Indian Oil	India	$103.42 B	$781.9 M	$55.92 B	$14.29 B
+541.	Cathay Financial	Taiwan	$8.65 B	$1.25 B	$392.33 B	$22.55 B
+542.	Central Japan Railway	Japan	$10.33 B	$1.62 B	$71.49 B	$24.76 B
+543.	NXP Semiconductors	Netherlands	$13.19 B	$2.75 B	$23.73 B	$43.33 B
+544.	Republic Services	United States	$14.12 B	$1.52 B	$29.08 B	$46.13 B
+545.	Fujitsu	Japan	$27.4 B	$1.59 B	$24.54 B	$25.69 B
+546.	Saudi Arabian Mining	Saudi Arabia	$10.73 B	$2.48 B	$29.69 B	$44.63 B
+547.	CTBC Financial	Taiwan	$13.96 B	$1.05 B	$251.19 B	$14.73 B
+548.	Halliburton	United States	$21.69 B	$1.96 B	$23.62 B	$26.96 B
+548.	Hewlett Packard Enterprise	United States	$28.97 B	$856 M	$55.59 B	$18.29 B
+550.	VMware	United States	$13.35 B	$1.31 B	$31.24 B	$53.18 B
+551.	Fujifilm Holdings	Japan	$20.98 B	$1.58 B	$31.44 B	$21.28 B
+552.	Nintendo	Japan	$12.7 B	$3.47 B	$21.11 B	$49.13 B
+553.	Citizens Financial Group	United States	$10.35 B	$2.16 B	$222.26 B	$12.8 B
+554.	Infosys	India	$18.26 B	$3 B	$15.31 B	$63.86 B
+554.	Kimberly-Clark	United States	$20.27 B	$1.98 B	$18.18 B	$48.98 B
+556.	Tokyo Electron	Japan	$16.84 B	$3.65 B	$15.86 B	$54.6 B
+557.	Teck Resources	Canada	$13.14 B	$2.19 B	$39.72 B	$22.33 B
+558.	Sumitomo Mitsui Trust	Japan	$11.75 B	$1.31 B	$516.55 B	$13.37 B
+559.	Warner Bros. Discovery	United States	$41.36 B	$-8.9 B	$130.58 B	$31.32 B
+560.	MediaTek	Taiwan	$16.5 B	$3.35 B	$19.8 B	$35.07 B
+561.	Illinois Tool Works	United States	$16.01 B	$3.09 B	$15.92 B	$69.99 B
+562.	Woori Financial Group	South Korea	$20.47 B	$2.42 B	$379.97 B	$6.41 B
+563.	JBS	Brazil	$72.58 B	$2.99 B	$39.42 B	$8.16 B
+564.	DTE Energy	United States	$18.24 B	$1.13 B	$42.52 B	$23.36 B
+565.	Metallurgical Corp of China	China	$89.92 B	$1.6 B	$92.58 B	$6.39 B
+566.	Samsung Life Insurance	South Korea	$23.15 B	$1.23 B	$249.47 B	$9.07 B
+567.	Nippon Yusen	Japan	$20.19 B	$9.41 B	$28.46 B	$11.69 B
+568.	Advanced Micro Devices	United States	$23.07 B	$395 M	$67.63 B	$144.68 B
+569.	Huntington Bank	United States	$8.72 B	$2.38 B	$189.07 B	$14.22 B
+570.	Arch Capital Group	Bermuda	$10.71 B	$2 B	$42.38 B	$27.86 B
+571.	TE Connectivity	Switzerland	$16.46 B	$2.13 B	$21.49 B	$38.74 B
+572.	Bunge	United States	$66.67 B	$1.55 B	$27.11 B	$13.64 B
+573.	China Zheshang Bank	China	$17.44 B	$2.06 B	$399.74 B	$7.86 B
+574.	Allstate	United States	$52.86 B	$-2.29 B	$90.1 B	$30.42 B
+575.	Luxshare Precision Industry	China	$32.36 B	$1.37 B	$21.31 B	$26.7 B
+576.	Jackson Financial	United States	$14.46 B	$5.7 B	$284.87 B	$2.91 B
+577.	Albertsons	United States	$77.65 B	$1.51 B	$28.75 B	$11.94 B
+577.	HeidelbergCement	Germany	$22.17 B	$1.68 B	$36.38 B	$14.33 B
+579.	Edp-energias De Portugal	Portugal	$21.89 B	$713.2 M	$62.77 B	$22.31 B
+579.	Entergy	United States	$13.76 B	$1.1 B	$58.59 B	$22.7 B
+579.	Evergreen Marine Corp. (Taiwan)	Taiwan	$21.04 B	$11.21 B	$28.88 B	$10.46 B
+582.	L3Harris Technologies	United States	$17.43 B	$924 M	$35.51 B	$35.57 B
+583.	Deutsche Boerse	Germany	$5.74 B	$1.61 B	$299.63 B	$35.54 B
+584.	Atlas Copco	Sweden	$14.54 B	$2.39 B	$16.97 B	$70.99 B
+584.	Regions Financial	United States	$8.02 B	$2.31 B	$154.13 B	$15.46 B
+586.	Bank of Baroda	India	$12.81 B	$1.49 B	$176.29 B	$11.59 B
+587.	TELUS	Canada	$14.33 B	$1.09 B	$39.89 B	$30.1 B
+588.	Boston Scientific	United States	$13.04 B	$902 M	$32.89 B	$74.1 B
+589.	Cognizant	United States	$19.41 B	$2.31 B	$18.15 B	$32.12 B
+590.	Samsung SDI	South Korea	$16.36 B	$1.57 B	$23.93 B	$34.58 B
+591.	Coal India	India	$16.89 B	$3.73 B	$23.99 B	$17.88 B
+592.	Tata Steel	India	$30.28 B	$1.09 B	$35.05 B	$16.22 B
+593.	Asahi Group Holdings	Japan	$19.09 B	$1.15 B	$36.61 B	$19.79 B
+594.	China Tower Corp.	China	$13.7 B	$1.31 B	$43.95 B	$22.05 B
+595.	The Estée Lauder Companies	United States	$15.8 B	$1.09 B	$22.71 B	$72.71 B
+596.	MGM Resorts	United States	$14.15 B	$1.94 B	$43.54 B	$15.69 B
+597.	Biogen	United States	$9.52 B	$3.13 B	$24.6 B	$46.04 B
+598.	Neste	Finland	$26.5 B	$1.55 B	$17.03 B	$35.89 B
+599.	East Japan Railway	Japan	$17.75 B	$732.3 M	$70.27 B	$21.96 B
+600.	Telstra	Australia	$15.43 B	$1.22 B	$28.63 B	$33.7 B
+601.	Ferguson	United Kingdom	$30.01 B	$2.1 B	$15.22 B	$31.5 B
+602.	Kubota	Japan	$20.37 B	$1.19 B	$35.86 B	$18.32 B
+603.	Colgate-Palmolive	United States	$18.34 B	$1.6 B	$16.17 B	$66.86 B
+604.	Kuwait Finance House	Kuwait	$6.33 B	$1.42 B	$120.11 B	$35.3 B
+605.	Raiffeisen Bank International	Austria	$14.67 B	$3.9 B	$229.22 B	$5.04 B
+606.	AutoZone	United States	$16.89 B	$2.42 B	$15.54 B	$49.52 B
+607.	China Merchants Shekou Industrial Zone Holdings	China	$25.13 B	$596.9 M	$132.91 B	$15.65 B
+607.	Sompo	Japan	$33.79 B	$598.6 M	$113.22 B	$14.05 B
+609.	Grupo Bimbo	Mexico	$20.74 B	$2.36 B	$18.73 B	$24.62 B
+610.	China National Nuclear Power	China	$10.38 B	$1.33 B	$69.66 B	$19.36 B
+611.	Hess	United States	$12.46 B	$2.15 B	$21.94 B	$41.85 B
+612.	CK Asset Holdings	Hong Kong	$7.29 B	$2.77 B	$65.96 B	$21.31 B
+613.	SingTel	Singapore	$10.9 B	$1.58 B	$33.03 B	$32.25 B
+614.	Deutsche Lufthansa	Germany	$35.8 B	$944.3 M	$48.79 B	$12.1 B
+615.	Rogers Communications	Canada	$11.8 B	$1.36 B	$41.47 B	$24.76 B
+616.	Legal & General Group	United Kingdom	$-109.99 B	$2.82 B	$609.05 B	$17.08 B
+617.	Publicis Groupe	France	$14.92 B	$1.28 B	$38.31 B	$19.53 B
+618.	Swisscom	Switzerland	$11.61 B	$1.67 B	$27.74 B	$35.13 B
+619.	Vertex Pharmaceuticals	United States	$9.02 B	$3.26 B	$18.97 B	$89.65 B
+620.	Mitsubishi Heavy Industries	Japan	$31.57 B	$988.1 M	$41.52 B	$13.01 B
+620.	SK	South Korea	$104.64 B	$850.3 M	$153.82 B	$6.73 B
+622.	Sichuan Road & Bridge	China	$21.47 B	$1.8 B	$30.35 B	$13.55 B
+623.	Viatris	United States	$16.17 B	$2.08 B	$50.02 B	$11.13 B
+624.	Bank Of Hangzhou	China	$9.65 B	$1.8 B	$246.82 B	$11.07 B
+625.	Idemitsu Kosan	Japan	$70.33 B	$2.5 B	$39.47 B	$6.44 B
+626.	SSE	United Kingdom	$13.64 B	$1.31 B	$31.85 B	$25.43 B
+627.	Industrial Bank of Korea	South Korea	$15.9 B	$2.17 B	$341.62 B	$6.04 B
+628.	China Energy Engineering	China	$55.52 B	$1.15 B	$101.63 B	$4.17 B
+629.	WEC Energy Group	United States	$9.58 B	$1.35 B	$42.8 B	$30.29 B
+630.	Hanwha	South Korea	$48.2 B	$1.02 B	$167 B	$1.52 B
+631.	Trane Technologies	Ireland	$16.3 B	$1.8 B	$17.9 B	$40.32 B
+632.	PPG	United States	$17.72 B	$1.27 B	$22.1 B	$32.49 B
+633.	Volvo Car	Sweden	$33.83 B	$1.48 B	$31.48 B	$11.28 B
+634.	Weichai Power	China	$27.3 B	$831.9 M	$44.74 B	$14.62 B
+635.	Meituan	China	$32.58 B	$-1.04 B	$35.17 B	$108.17 B
+636.	CBRE Group	United States	$30.91 B	$1.13 B	$21.03 B	$23.17 B
+637.	Crown Castle International	United States	$7.02 B	$1.67 B	$39.05 B	$51.39 B
+638.	Diamondback Energy	United States	$9.16 B	$4.28 B	$27.59 B	$24.05 B
+639.	Activision Blizzard	United States	$8.14 B	$1.86 B	$27.39 B	$59.75 B
+640.	Xiamen C&D	China	$123.66 B	$885.2 M	$112.12 B	$4.57 B
+641.	CGN Power	China	$12.1 B	$1.56 B	$60.05 B	$13.77 B
+641.	Sampo	Finland	$9.45 B	$1.5 B	$42.46 B	$25.58 B
+643.	Inner Mongolia Yili	China	$18.21 B	$1.39 B	$21.43 B	$27.51 B
+644.	Northern Trust	United States	$8.71 B	$1.27 B	$151.11 B	$15.21 B
+645.	Aeon	Japan	$67.95 B	$159.4 M	$90.6 B	$17.43 B
+646.	Murata Manufacturing	Japan	$12.45 B	$1.87 B	$21.59 B	$36.44 B
+647.	Blackstone	United States	$12.49 B	$616.6 M	$41.09 B	$98.8 B
+648.	Cardinal Health	United States	$198.66 B	$463 M	$43.38 B	$21.18 B
+648.	Loews	United States	$14.43 B	$1.05 B	$76.56 B	$13.36 B
+650.	Abu Dhabi Commercial Bank	United Arab Emirates	$6.89 B	$1.79 B	$136.53 B	$16.83 B
+651.	Ecolab	United States	$14.49 B	$1.15 B	$21.25 B	$49.45 B
+652.	RELX	United Kingdom	$10.54 B	$2.01 B	$19.04 B	$58.21 B
+653.	Safran	France	$20.52 B	$-2.58 B	$49.98 B	$64.35 B
+653.	Uber	United States	$33.85 B	$-3.37 B	$32.45 B	$76.4 B
+655.	Nomura	Japan	$18.35 B	$684.7 M	$358.94 B	$10.69 B
+656.	IQVIA	United States	$14.49 B	$1.05 B	$25.74 B	$34.98 B
+657.	United Rentals	United States	$12.4 B	$2.19 B	$24.63 B	$23.51 B
+658.	Gallagher	United States	$8.44 B	$1.11 B	$38.91 B	$45.35 B
+659.	Prudential	United Kingdom	$-7.34 B	$1.04 B	$163.13 B	$41.09 B
+660.	Equitable Holdings	United States	$12.43 B	$1.39 B	$261.5 B	$8.69 B
+660.	Hindalco Industries	India	$28.38 B	$1.47 B	$27.55 B	$11.93 B
+662.	The Mosaic Company	United States	$18.81 B	$2.84 B	$22.86 B	$12.99 B
+662.	Norsk Hydro	Norway	$21.93 B	$2.51 B	$20.16 B	$14.13 B
+664.	Richemont	Switzerland	$21.61 B	$127.8 M	$38.83 B	$94.06 B
+665.	O'Reilly Automotive	United States	$14.82 B	$2.21 B	$12.97 B	$58.17 B
+666.	Subaru	Japan	$26.95 B	$1.23 B	$29.16 B	$12.57 B
+667.	National Bank of Kuwait	Kuwait	$5.56 B	$1.64 B	$118.83 B	$25.36 B
+667.	Toshiba	Japan	$25.48 B	$1.24 B	$26.57 B	$14.16 B
+669.	Xiaomi	China	$41.73 B	$344.3 M	$39.34 B	$35.5 B
+670.	ASE Technology Holding	Taiwan	$21.62 B	$1.81 B	$22.18 B	$14.46 B
+671.	Kyocera	Japan	$15.28 B	$1.12 B	$30.25 B	$19.1 B
+672.	Hikvision	China	$11.99 B	$1.8 B	$17.05 B	$50.56 B
+673.	Chongqing Changan Auto	China	$17.1 B	$1.49 B	$25.34 B	$16.9 B
+674.	Mitsubishi Estate	Japan	$10.27 B	$1.3 B	$53.15 B	$15.84 B
+675.	Turkish Airlines	Turkey	$19.68 B	$2.79 B	$32 B	$8.88 B
+676.	BOE Technology Group	China	$24.02 B	$497.3 M	$60.01 B	$21.75 B
+677.	JFE Holdings	Japan	$39.36 B	$1.59 B	$43.22 B	$6.93 B
+678.	China National Building	China	$34.25 B	$1.2 B	$69.4 B	$5.8 B
+678.	TBEA	China	$15.12 B	$2.55 B	$26.19 B	$12.58 B
+680.	Ross Stores	United States	$18.7 B	$1.51 B	$14.4 B	$35.72 B
+681.	Keyence	Japan	$6.81 B	$2.68 B	$19.91 B	$114 B
+682.	Quinenco	Chile	$11.7 B	$4.05 B	$81.66 B	$6.96 B
+683.	Best Buy	United States	$46.3 B	$1.42 B	$15.8 B	$16.04 B
+684.	Renesas Electronics	Japan	$11.17 B	$2.23 B	$21.34 B	$24.65 B
+685.	KLA	United States	$10.59 B	$3.51 B	$13.68 B	$52.91 B
+686.	Amphenol	United States	$12.64 B	$1.92 B	$15.38 B	$45.07 B
+687.	Vedanta Limited	India	$18.93 B	$1.84 B	$24.84 B	$12.49 B
+688.	Ally Financial	United States	$13.24 B	$1.38 B	$196.16 B	$7.62 B
+688.	Corning	United States	$13.64 B	$911 M	$28.82 B	$26.76 B
+688.	Danske Bank	Denmark	$16.94 B	$-384.7 M	$552.96 B	$17.22 B
+691.	Genuine Parts	United States	$22.57 B	$1.24 B	$16.91 B	$24.41 B
+692.	Steel Dynamics	United States	$21.58 B	$3.4 B	$14.22 B	$16.85 B
+693.	Reinsurance Group of America	United States	$16.57 B	$938 M	$86.4 B	$9.75 B
+694.	Hong Kong Exchanges	Hong Kong	$2.46 B	$1.38 B	$48.34 B	$51.54 B
+695.	Daqin Railway	China	$11.26 B	$1.73 B	$29.77 B	$17.04 B
+696.	Isbank	Turkey	$17.01 B	$1.81 B	$86.78 B	$5.46 B
+697.	Verbund	Austria	$10.87 B	$1.8 B	$21.05 B	$30.13 B
+698.	Bajaj Finserv	India	$10.24 B	$798.5 M	$49.34 B	$26.47 B
+699.	Semiconductor Manufacturing International	China	$7.27 B	$1.82 B	$43.81 B	$21.15 B
+700.	Southwest Airlines	United States	$24.83 B	$658 M	$35.55 B	$17.65 B
+701.	Fortis (Canada)	Canada	$8.71 B	$1.12 B	$47.76 B	$21.93 B
+702.	SK Innovation	South Korea	$61.8 B	$552.3 M	$55.25 B	$11.57 B
+703.	Associated British Foods	United Kingdom	$22.63 B	$910.1 M	$23.15 B	$18.88 B
+703.	Jardine Matheson	Bermuda	$37.72 B	$354 M	$89.15 B	$14.25 B
+705.	KeyCorp	United States	$8.68 B	$1.78 B	$197.52 B	$9.19 B
+706.	ZTE	China	$17.97 B	$1.25 B	$26.77 B	$14.3 B
+707.	Sekisui House	Japan	$22.06 B	$1.39 B	$23.13 B	$13.19 B
+708.	Omnicom Group	United States	$14.32 B	$1.37 B	$25.24 B	$17.91 B
+709.	Grasim Industries	India	$14.37 B	$1.05 B	$39.15 B	$14.1 B
+710.	Quanta Computer	Taiwan	$42.95 B	$971.3 M	$26.55 B	$11.27 B
+711.	Sabanci Holding	Turkey	$14.57 B	$2.64 B	$66.56 B	$3.91 B
+712.	Rongsheng Petrochemical	China	$39.86 B	$-181.4 M	$52.81 B	$18.56 B
+713.	International Paper	United States	$20.94 B	$1.8 B	$23.77 B	$11.23 B
+713.	Tenaris	Luxembourg	$13.51 B	$3.17 B	$18.64 B	$16.14 B
+715.	Eiffage	France	$21.93 B	$941.7 M	$38.63 B	$10.95 B
+716.	Tokyo Gas	Japan	$24.27 B	$2.07 B	$26.91 B	$9.02 B
+717.	Korea Gas	South Korea	$40.02 B	$1.16 B	$49.37 B	$1.75 B
+718.	Fox	United States	$14.29 B	$1.51 B	$23.13 B	$17.09 B
+719.	Siemens Energy	Germany	$31.64 B	$-790.3 M	$51.24 B	$19.64 B
+720.	QBE Insurance Group	Australia	$14.86 B	$786.3 M	$43.81 B	$15.44 B
+721.	Mahindra & Mahindra	India	$14.61 B	$1.26 B	$23.61 B	$18.43 B
+722.	DISH Network	United States	$16.68 B	$2.3 B	$53.74 B	$3.78 B
+723.	Constellation Energy	United States	$25.03 B	$-169 M	$46.16 B	$25.75 B
+724.	Tata Motors	India	$40.5 B	$-512.1 M	$38.8 B	$22.49 B
+724.	Westlake Chemical	United States	$15.09 B	$1.87 B	$20.81 B	$15.48 B
+726.	Bank Leumi	Israel	$5.26 B	$2.29 B	$198.15 B	$12.07 B
+727.	Canara Bank	India	$13.22 B	$1.25 B	$163.63 B	$7.06 B
+728.	HD HYUNDAI	South Korea	$50.2 B	$964.7 M	$51.85 B	$3.09 B
+728.	WW Grainger	United States	$15.67 B	$1.67 B	$7.83 B	$33.89 B
+730.	Huishang Bank	China	$10.16 B	$2 B	$227.36 B	$4.41 B
+731.	Coterra Energy	United States	$9.08 B	$4.13 B	$20.14 B	$19.28 B
+732.	Fubon Financial	Taiwan	$9.76 B	$471 M	$349.11 B	$23.91 B
+733.	AirBnB	United States	$8.4 B	$1.89 B	$16.04 B	$75.77 B
+734.	AerCap Holdings	Ireland	$6.87 B	$1.71 B	$69.68 B	$13.7 B
+735.	Simon Property Group	United States	$5.35 B	$2.16 B	$33.3 B	$35.81 B
+736.	Renault	France	$48.76 B	$-355.2 M	$126.28 B	$10.45 B
+737.	Equinix	United States	$7.53 B	$815.7 M	$31.27 B	$68.66 B
+738.	Solvay	Belgium	$16.63 B	$1.89 B	$22.19 B	$12.31 B
+739.	Public Bank	Malaysia	$4.57 B	$1.39 B	$111.98 B	$17.54 B
+740.	LG Electronics	South Korea	$63.31 B	$336.8 M	$44.16 B	$14.87 B
+741.	Fidelity National Information (FIS)	United States	$14.55 B	$-16.7 B	$61.08 B	$33.03 B
+742.	UPM-Kymmene	Finland	$12.48 B	$1.63 B	$21.79 B	$17.7 B
+743.	NEC	Japan	$24.45 B	$844.9 M	$29.93 B	$11.83 B
+744.	Ameren	United States	$8.14 B	$1.09 B	$38.06 B	$23.71 B
+745.	WTW	United Kingdom	$8.96 B	$1.09 B	$31.91 B	$24.24 B
+746.	EQT	United States	$11.48 B	$4.51 B	$22.69 B	$11.7 B
+746.	Korea Electric Power	South Korea	$55.15 B	$-18.94 B	$185.69 B	$9.22 B
+748.	ThyssenKrupp Group	Germany	$43.23 B	$1.16 B	$38.53 B	$4.53 B
+749.	YPF	Argentina	$18.63 B	$2.21 B	$25.91 B	$9.05 B
+750.	The Hershey Company	United States	$10.74 B	$1.7 B	$11.11 B	$56.18 B
+751.	ITC	India	$8.88 B	$2.32 B	$10.1 B	$65.15 B
+752.	Microchip Technology	United States	$8.44 B	$2.24 B	$16.37 B	$41.18 B
+752.	MTR	Hong Kong	$6.11 B	$1.25 B	$41.91 B	$31.5 B
+754.	Bank Hapoalim	Israel	$5.24 B	$1.94 B	$188.56 B	$11.73 B
+755.	Targa Resources	United States	$19.95 B	$1.11 B	$19.03 B	$16.25 B
+756.	HCL Technologies	India	$12.62 B	$1.85 B	$11.37 B	$35.01 B
+756.	Saudi British Bank	Saudi Arabia	$3.6 B	$1.3 B	$83.67 B	$19.04 B
+758.	Tenaga Nasional	Malaysia	$15.17 B	$786.9 M	$50.3 B	$11.64 B
+758.	VICI Properties	United States	$3.06 B	$1.4 B	$41.85 B	$32.95 B
+760.	PulteGroup	United States	$16.62 B	$2.68 B	$14.83 B	$14.96 B
+761.	Sodexo	France	$23.92 B	$831.9 M	$21.82 B	$15.54 B
+762.	WPP	United Kingdom	$17.77 B	$840.9 M	$34.99 B	$12.04 B
+763.	Bank of Ireland	Ireland	$8.12 B	$1.03 B	$163.28 B	$10.46 B
+764.	Santos	Australia	$7.9 B	$2.1 B	$30.3 B	$15.85 B
+765.	Builders FirstSource	United States	$20.93 B	$2.44 B	$10.48 B	$14.26 B
+766.	Albemarle	United States	$8.77 B	$3.67 B	$17.56 B	$21.09 B
+766.	Pembina Pipeline	Canada	$8.92 B	$2.28 B	$23.23 B	$17.8 B
+768.	Baker Hughes Company	United States	$22.04 B	$-98 M	$35.04 B	$28.57 B
+769.	CIMB Group Holdings	Malaysia	$6.3 B	$1.24 B	$151.36 B	$12.33 B
+770.	Otsuka Holding	Japan	$13.21 B	$1.02 B	$23.52 B	$18.87 B
+771.	Zoetis	United States	$8.09 B	$2.07 B	$13.75 B	$86.06 B
+772.	HF Sinclair	United States	$38.31 B	$3.09 B	$18.01 B	$7.4 B
+773.	Suzano	Brazil	$9.96 B	$3.55 B	$26.7 B	$10.95 B
+774.	Mitsui OSK Lines	Japan	$11.89 B	$5.87 B	$26.78 B	$8.51 B
+775.	Realty Income	United States	$3.48 B	$895.1 M	$51.1 B	$42.38 B
+776.	Apollo Global Management	United States	$6.86 B	$-3.26 B	$259.33 B	$48 B
+776.	W. R. Berkley	United States	$11.15 B	$1.08 B	$30.31 B	$15.29 B
+778.	Labcorp	United States	$14.76 B	$1 B	$20.2 B	$19.81 B
+779.	Unum	United States	$12.03 B	$1.42 B	$50.9 B	$8.71 B
+780.	Shanghai Rural Commercial Bank	China	$7.04 B	$1.66 B	$192.23 B	$8.58 B
+781.	Public Storage	United States	$4.31 B	$4.35 B	$17.51 B	$52.02 B
+782.	Country Garden Holdings	China	$63.44 B	$-860.5 M	$250.94 B	$7.35 B
+783.	CDW	United States	$22.9 B	$1.09 B	$12.77 B	$22.37 B
+784.	Huatai Securities	China	$5.18 B	$1.65 B	$126.87 B	$12.14 B
+785.	CenterPoint Energy	United States	$9.34 B	$851 M	$37.75 B	$19.26 B
+785.	Grupo ACS	Spain	$35.33 B	$702.3 M	$39.78 B	$8.82 B
+787.	Telkom Indonesia	Indonesia	$9.83 B	$1.4 B	$18.57 B	$28.15 B
+788.	United Microelectronics	Taiwan	$8.86 B	$2.75 B	$18.05 B	$20.24 B
+789.	Aptiv	Ireland	$18.13 B	$667 M	$21.72 B	$25.27 B
+789.	Samsung Fire & Marine	South Korea	$16.46 B	$990.7 M	$68.41 B	$7.29 B
+791.	NN Group	Netherlands	$18.14 B	$464.5 M	$230.62 B	$10.32 B
+792.	China Hongqiao Group	China	$19.62 B	$1.33 B	$26.72 B	$9.29 B
+793.	Otis Worldwide	United States	$13.62 B	$1.27 B	$9.85 B	$35.53 B
+794.	Sasol	South Africa	$18.78 B	$2.35 B	$24.8 B	$7.95 B
+795.	Yara International	Norway	$22.03 B	$1.92 B	$17.65 B	$10.4 B
+796.	Continental	Germany	$41.42 B	$70 M	$42.09 B	$14.1 B
+797.	Sumitomo Electric	Japan	$29.2 B	$762.1 M	$30.08 B	$10 B
+798.	China Bohai Bank	China	$10.21 B	$1.19 B	$248.4 B	$3.06 B
+799.	Nan Ya Plastics	Taiwan	$11.91 B	$1.08 B	$21.65 B	$20.06 B
+800.	Guotai Junan Securities	China	$5.7 B	$1.64 B	$123.81 B	$11.74 B
+801.	Block	United States	$17.53 B	$-540.7 M	$31.36 B	$35.67 B
+802.	Aluminum Corp of China	China	$43.28 B	$626.8 M	$30.55 B	$10.37 B
+803.	Emaar Properties	United Arab Emirates	$7.09 B	$1.86 B	$36.04 B	$14.44 B
+804.	Kellogg	United States	$15.7 B	$836 M	$18.63 B	$24.11 B
+805.	SQM	Chile	$10.79 B	$3.94 B	$10.82 B	$19.32 B
+806.	Ashtead Group	United Kingdom	$9.33 B	$1.58 B	$18.05 B	$25.59 B
+807.	Daiichi Sankyo	Japan	$9.43 B	$805.7 M	$18.85 B	$66.62 B
+808.	Power Finance	India	$9.23 B	$1.83 B	$99.72 B	$5.45 B
+809.	Thomson Reuters	Canada	$6.7 B	$1.18 B	$21.04 B	$56.31 B
+810.	Galp Energia	Portugal	$27.38 B	$1.91 B	$16.72 B	$9.48 B
+811.	Absa Group	South Africa	$9.74 B	$1.26 B	$105.39 B	$7.39 B
+812.	Assa Abloy	Sweden	$12.18 B	$1.36 B	$14.83 B	$26.53 B
+813.	Essity	Sweden	$15.86 B	$762.5 M	$20.81 B	$21.46 B
+813.	Joint Stock Commercial Bank for Foreign Trade of Vietnam	Vietnam	$4.4 B	$1.15 B	$69.13 B	$18.13 B
+815.	First Citizens Bank (NC)	United States	$5.1 B	$1.1 B	$110.69 B	$14.56 B
+816.	Henderson Land	Hong Kong	$3.25 B	$1.18 B	$67.88 B	$17.61 B
+816.	Huaneng Power International	China	$36.42 B	$-1.51 B	$74.15 B	$9.94 B
+818.	East Money Information	China	$1.98 B	$1.22 B	$32.19 B	$35.72 B
+819.	Chesapeake Energy	United States	$14.12 B	$4.94 B	$15.73 B	$10.53 B
+820.	Sika	Switzerland	$10.98 B	$1.22 B	$12.41 B	$42.88 B
+821.	Chongqing Rural Bank	China	$8.05 B	$1.56 B	$208.44 B	$4.62 B
+822.	Jabil Circuit	United States	$35.13 B	$963 M	$19.57 B	$10.25 B
+822.	Resona Holdings	Japan	$6.35 B	$814.7 M	$556.79 B	$11.62 B
+824.	HMM	South Korea	$14.38 B	$7.78 B	$20.54 B	$7.41 B
+825.	Aegon	Netherlands	$20.07 B	$-795.6 M	$405.29 B	$8.92 B
+826.	Globalfoundries	United States	$8.11 B	$1.45 B	$17.84 B	$32.54 B
+827.	MOL Hungarian Oil	Hungary	$26.61 B	$2.29 B	$21.23 B	$6.58 B
+828.	Ageas	Belgium	$9.3 B	$1.06 B	$106.17 B	$8.17 B
+829.	Hengli Petrochemical	China	$31.66 B	$-129 M	$34.75 B	$15.71 B
+830.	Mitsubishi UFJ Lease	Japan	$14.16 B	$833.1 M	$84.32 B	$7.48 B
+831.	Greenland Holdings Group	China	$63.32 B	$299.4 M	$190.35 B	$6.18 B
+832.	Dongfeng Motor Group	China	$13.76 B	$1.53 B	$47.48 B	$4.08 B
+833.	Shanghai Pharmaceuticals	China	$35.1 B	$867.8 M	$29.98 B	$7.64 B
+834.	Roper Technologies	United States	$5.56 B	$1.17 B	$27.14 B	$48.83 B
+835.	Celanese	United States	$9.67 B	$1.89 B	$26.27 B	$11.74 B
+836.	Julius Baer Group	Switzerland	$4.73 B	$994.3 M	$114.19 B	$14.49 B
+837.	Isuzu Motors	Japan	$23.38 B	$1.12 B	$22.85 B	$9.28 B
+838.	TD SYNNEX	United States	$62 B	$682.1 M	$29.23 B	$8.34 B
+839.	Motorola Solutions	United States	$9.39 B	$1.37 B	$12.35 B	$47.22 B
+840.	China Molybdenum	China	$25.1 B	$678.8 M	$23.72 B	$12.96 B
+841.	GS Holdings	South Korea	$22.27 B	$1.66 B	$26.83 B	$2.82 B
+842.	Great Wall Motor	China	$18.59 B	$1.01 B	$25.92 B	$9.85 B
+843.	Sandvik	Sweden	$11.39 B	$1.04 B	$17.41 B	$25.41 B
+844.	Air France-KLM	France	$29.41 B	$973.4 M	$34.81 B	$4.12 B
+844.	PPL	United States	$8.54 B	$725 M	$38.3 B	$21.19 B
+846.	Hilton Worldwide Holdings	United States	$9.38 B	$1.25 B	$15.21 B	$38.27 B
+847.	Everest Re Group	Bermuda	$12.45 B	$651.1 M	$38.92 B	$14.74 B
+848.	Kasikornbank	Thailand	$8.18 B	$1 B	$123.94 B	$8.84 B
+849.	China Resources Power	Hong Kong	$13.19 B	$899.4 M	$36.31 B	$10.79 B
+850.	Barrick Gold	Canada	$10.84 B	$77.4 M	$46.15 B	$35.33 B
+851.	TDK	Japan	$16.09 B	$842.6 M	$23.65 B	$13.73 B
+852.	Molina Healthcare	United States	$32.35 B	$855 M	$13.37 B	$17.46 B
+853.	Magna International	Canada	$38.91 B	$445.8 M	$27.79 B	$15.38 B
+854.	Power Grid of India	India	$5.6 B	$1.94 B	$31.06 B	$20.55 B
+855.	Union Bank of India	India	$11.28 B	$922.9 M	$150.49 B	$6.38 B
+856.	Newmont Mining	United States	$11.64 B	$-537 M	$38.37 B	$38.72 B
+856.	Paramount	United States	$30.09 B	$-447 M	$56.56 B	$10.98 B
+858.	Geely Automobile Holdings	Hong Kong	$21.84 B	$750.3 M	$22.7 B	$12.38 B
+859.	Guosen Securities	China	$4.26 B	$1.57 B	$58.85 B	$13.66 B
+859.	Wipro	India	$11.26 B	$1.41 B	$14.31 B	$25.41 B
+861.	Lonza Group	Switzerland	$6.52 B	$1.27 B	$18.98 B	$48.3 B
+862.	China National Chemical	China	$24.1 B	$809.3 M	$29.02 B	$9.06 B
+863.	Tractor Supply	United States	$14.48 B	$1.08 B	$8.85 B	$26.33 B
+864.	Gemdale	China	$17.18 B	$873.5 M	$61.49 B	$5.49 B
+865.	Adidas	Germany	$23.38 B	$93.6 M	$21.38 B	$33.47 B
+865.	Sunshine Insurance Group	China	$19.48 B	$718.3 M	$69.25 B	$6.41 B
+867.	Ryanair Holdings	Ireland	$10.62 B	$1.44 B	$16.82 B	$18.66 B
+868.	GF Securities	China	$5.49 B	$1.42 B	$86.79 B	$11.42 B
+869.	Reliance Steel	United States	$16.5 B	$1.7 B	$10.2 B	$14.32 B
+870.	SM Investments	Philippines	$9.62 B	$798.6 M	$26.92 B	$20.44 B
+871.	Delta Electronics	Taiwan	$12.98 B	$1.1 B	$14.01 B	$25.69 B
+872.	KKR	United States	$5.29 B	$-841.1 M	$277.08 B	$44.36 B
+873.	FirstEnergy	United States	$12.7 B	$410 M	$46.48 B	$22.74 B
+874.	CNPC Capital	China	$5.5 B	$785.5 M	$146.28 B	$15.18 B
+874.	SCB X Public Company	Thailand	$5.54 B	$1.55 B	$97.24 B	$10.25 B
+876.	GD Power Development	China	$27.54 B	$398.7 M	$61.57 B	$10.35 B
+877.	Kansai Electric Power	Japan	$29.16 B	$130.5 M	$65.93 B	$9.69 B
+877.	Siam Cement	Thailand	$15.47 B	$823.5 M	$27.01 B	$11.46 B
+879.	Legend Holding	China	$71.9 B	$190.5 M	$97.97 B	$2.46 B
+879.	ON Semiconductor Corp.	United States	$8.34 B	$1.83 B	$12.27 B	$35.08 B
+881.	China Cinda Asset Management	China	$9.26 B	$953.9 M	$232.46 B	$4.72 B
+882.	Shanghai International Port	China	$4.66 B	$2.23 B	$26.79 B	$19.31 B
+883.	China Taiping Insurance	Hong Kong	$38.92 B	$357.1 M	$178.48 B	$4.42 B
+884.	Cintas	United States	$8.61 B	$1.29 B	$8.47 B	$47.43 B
+884.	Conagra Brands	United States	$12.21 B	$805 M	$22.45 B	$18.04 B
+886.	Arrow Electronics	United States	$36.79 B	$1.34 B	$20.28 B	$6.76 B
+887.	Fortum	Finland	$91.17 B	$-2.54 B	$25.23 B	$13.4 B
+888.	JSW Steel	India	$21.1 B	$472.4 M	$24.15 B	$21.69 B
+889.	Mitsubishi Chemical	Japan	$34.08 B	$547.9 M	$44.45 B	$8.36 B
+890.	Jiangxi Copper	China	$71.33 B	$899.2 M	$24.07 B	$6.31 B
+891.	Philips	Netherlands	$18.74 B	$-1.69 B	$33.05 B	$18.62 B
+891.	Stanley Black & Decker	United States	$16.43 B	$722.9 M	$25.07 B	$13.09 B
+893.	MTN Group	South Africa	$12.64 B	$1.18 B	$23.03 B	$11.58 B
+894.	Tokyo Electric Power	Japan	$57.55 B	$-912.3 M	$101.91 B	$5.77 B
+895.	Mapfre	Spain	$26.35 B	$639.8 M	$57 B	$6.16 B
+896.	Bancolombia	Colombia	$7.85 B	$1.59 B	$72.76 B	$7.38 B
+897.	Dubai Islamic Bank	United Arab Emirates	$4.17 B	$1.41 B	$79.51 B	$11 B
+898.	Agnico Eagle Mines	Canada	$5.92 B	$2.41 B	$29.65 B	$14.47 B
+899.	AntarChile	Chile	$30.78 B	$906.5 M	$29.4 B	$3.95 B
+900.	Amcor	United Kingdom	$14.93 B	$977 M	$17.28 B	$15.33 B
+901.	PBF Energy	United States	$46.98 B	$3.28 B	$13.14 B	$4.13 B
+902.	BDO Unibank	Philippines	$4.69 B	$1.12 B	$75.17 B	$13.04 B
+903.	Chipotle Mexican Grill	United States	$8.98 B	$1.03 B	$7.05 B	$55.96 B
+904.	TCL Zhonghuan Renewable Energy Technology	China	$10.36 B	$1.13 B	$18.07 B	$18.82 B
+905.	Expeditors International	United States	$15 B	$1.24 B	$5.33 B	$17.98 B
+906.	China Three Gorges Renewables (Group)	China	$3.6 B	$1.02 B	$39.43 B	$22.57 B
+907.	Shanghai Construction	China	$43.4 B	$584.4 M	$48.92 B	$3.82 B
+908.	Alinma Bank	Saudi Arabia	$2.89 B	$997 M	$56.94 B	$16.5 B
+909.	WH Group	Hong Kong	$28.14 B	$1.37 B	$19.86 B	$7.24 B
+910.	Stora Enso	Finland	$12.07 B	$1.51 B	$22.04 B	$10.45 B
+911.	Marathon Oil	United States	$7.35 B	$2.73 B	$19.94 B	$14.16 B
+911.	Mazda Motor	Japan	$27.78 B	$1.18 B	$24.15 B	$5.74 B
+913.	Link REIT	Hong Kong	$1.53 B	$1.87 B	$30.41 B	$16.78 B
+914.	Coles Group	Australia	$27.61 B	$791.7 M	$13.2 B	$16.47 B
+915.	Avis Budget Group	United States	$12.12 B	$2.55 B	$27.39 B	$6.66 B
+916.	Unipol Gruppo	Italy	$15.22 B	$717.8 M	$78.74 B	$4.01 B
+917.	Astellas Pharma	Japan	$11.21 B	$728.4 M	$18.46 B	$27.7 B
+918.	Flex	United States	$29.72 B	$819 M	$20.89 B	$9.25 B
+919.	Fidelity National Financial	United States	$10.9 B	$680 M	$69.65 B	$9.29 B
+920.	KT	South Korea	$19.85 B	$977.1 M	$32.41 B	$5.89 B
+921.	3i Group	United Kingdom	$871 M	$4.56 B	$17.37 B	$21.54 B
+922.	Penske Automotive	United States	$28.18 B	$1.31 B	$14.4 B	$9.59 B
+923.	Intuitive Surgical	United States	$6.43 B	$1.31 B	$13.05 B	$106.83 B
+924.	New York Community Bancorp	United States	$3.03 B	$2.5 B	$123.75 B	$6.87 B
+924.	Sumitomo Realty	Japan	$7.03 B	$1.19 B	$45.16 B	$10.84 B
+926.	Chunghwa Telecom	Taiwan	$7.22 B	$1.22 B	$17.02 B	$32.03 B
+927.	Eletrobrás	Brazil	$6.79 B	$705 M	$51.18 B	$17.28 B
+928.	Sumitomo Metal Mining	Japan	$10.74 B	$2.01 B	$20.31 B	$10.2 B
+929.	Weyerhaeuser	United States	$8.95 B	$1.26 B	$16.58 B	$21.73 B
+930.	Bank Negara Indonesia	Indonesia	$5.02 B	$1.23 B	$66.15 B	$11.76 B
+930.	CP All	Thailand	$23.64 B	$356.2 M	$26.68 B	$16.96 B
+932.	Ulta Beauty	United States	$10.21 B	$1.24 B	$6 B	$26.1 B
+933.	Asahi Kasei	Japan	$20.35 B	$663.5 M	$28.03 B	$9.82 B
+934.	International Flavors & Fragrances	United States	$12.44 B	$-1.84 B	$35.41 B	$24.6 B
+935.	Techtronic Industries	Hong Kong	$13.25 B	$1.08 B	$13.32 B	$19.87 B
+936.	Global Payments	United States	$9.11 B	$-144.3 M	$48.64 B	$27.45 B
+937.	Suncorp Group	Australia	$10.14 B	$591.3 M	$74.72 B	$10.65 B
+938.	Brookfield Renewable	United States	$3.78 B	$1.5 B	$43.29 B	$12.69 B
+939.	Grupa PZU	Poland	$9.31 B	$756 M	$95.07 B	$8.16 B
+940.	CF Industries Holdings	United States	$10.33 B	$3.02 B	$13.4 B	$13.57 B
+940.	Kirin Holdings	Japan	$15.13 B	$844 M	$19.27 B	$13.2 B
+942.	Legrand	France	$8.86 B	$1.11 B	$16.06 B	$24.95 B
+943.	NVR	United States	$10.14 B	$1.64 B	$6.08 B	$19.02 B
+944.	CMS Energy	United States	$8.51 B	$688 M	$31.39 B	$18.08 B
+945.	Baxter International	United States	$15.05 B	$-2.46 B	$28.29 B	$23.29 B
+946.	Rockwell Automation	United States	$8.35 B	$1.32 B	$11.47 B	$32.56 B
+947.	Rolls-Royce Holdings	United Kingdom	$16.65 B	$-1.38 B	$35.42 B	$15.96 B
+948.	China Merchants Securities	China	$4.93 B	$1.47 B	$89.79 B	$9.09 B
+949.	Credicorp	Peru	$5.88 B	$1.21 B	$62.08 B	$11.24 B
+949.	ENN Natural Gas	China	$22.23 B	$954.9 M	$20.27 B	$8.73 B
+951.	Universal Music Group	Netherlands	$10.87 B	$821.9 M	$12.54 B	$38.32 B
+952.	US Steel	United States	$20.29 B	$1.84 B	$19.54 B	$4.91 B
+953.	MercadoLibre	Uruguay	$11.33 B	$618 M	$14.2 B	$62.44 B
+954.	International Airlines	United Kingdom	$24.28 B	$474.4 M	$41.95 B	$9.41 B
+954.	Markel	United States	$12.72 B	$307.9 M	$40.2 B	$18.05 B
+956.	Ovintiv	United States	$14.34 B	$3.64 B	$15.06 B	$8.45 B
+957.	ENN Energy Holdings	China	$16.41 B	$874.3 M	$14.72 B	$15.69 B
+958.	Mizrahi Tefahot Bank	Israel	$4.85 B	$1.33 B	$121.38 B	$8.55 B
+959.	Carnival Corporation	United States	$14.98 B	$-4.89 B	$51.98 B	$12.62 B
+959.	Meritz Financial Group	South Korea	$10.7 B	$807 M	$72.87 B	$7.11 B
+959.	Monster Beverage	United States	$6.49 B	$1.29 B	$8.84 B	$62.5 B
+962.	Hormel Foods	United States	$12.38 B	$978.1 M	$13.28 B	$22.52 B
+963.	China Mengniu Dairy	Hong Kong	$13.79 B	$800.8 M	$16.95 B	$16.58 B
+964.	OTP Bank	Hungary	$7 B	$998.2 M	$78.78 B	$8.72 B
+965.	China International Capital	China	$2.48 B	$1.05 B	$93.33 B	$10.32 B
+966.	Kone	Finland	$11.46 B	$862 M	$9.12 B	$30.08 B
+967.	Mega Financial Holding	Taiwan	$3.3 B	$615 M	$132.13 B	$15.58 B
+967.	Sany Heavy Industry	China	$11.39 B	$611.7 M	$23.16 B	$19.88 B
+969.	Lincoln National	United States	$18.71 B	$-2.23 B	$317.96 B	$3.46 B
+970.	CGI	Canada	$10.33 B	$1.16 B	$11.9 B	$23.63 B
+971.	Bank Of Chengdu	China	$5.7 B	$1.52 B	$143.36 B	$7.51 B
+972.	Nidec	Japan	$16.55 B	$332.1 M	$21.58 B	$29.02 B
+973.	Fosun International	China	$26.04 B	$106.6 M	$118.41 B	$5.61 B
+974.	J.B. Hunt Transport Services	United States	$14.55 B	$923.8 M	$7.79 B	$18.57 B
+975.	Guangzhou Automobile Group	China	$16.3 B	$1.21 B	$27.39 B	$6.36 B
+976.	NASDAQ	United States	$6.22 B	$1.14 B	$20.77 B	$26.95 B
+977.	Yang Ming Marine Transport	Taiwan	$12.61 B	$6.06 B	$16.53 B	$6.97 B
+978.	CarMax	United States	$29.68 B	$484.8 M	$26.55 B	$11.16 B
+979.	Gerdau (Cosigua)	Brazil	$15.7 B	$2.27 B	$14.94 B	$8.73 B
+980.	Formosa Plastics	Taiwan	$8.44 B	$1.21 B	$16.63 B	$19.49 B
+981.	TCL	China	$24.04 B	$-239.2 M	$55.21 B	$8.87 B
+982.	Waste Connections	Canada	$7.47 B	$851.7 M	$17.23 B	$36.12 B
+983.	Bayan Resources	Indonesia	$4.72 B	$2.18 B	$3.94 B	$46.96 B
+984.	Chubu Electric Power	Japan	$29.42 B	$282.1 M	$48.5 B	$8.64 B
+984.	Jeronimo Martins	Portugal	$27.74 B	$666.6 M	$12.64 B	$15.88 B
+986.	Agilent Technologies	United States	$6.93 B	$1.32 B	$10.92 B	$39.42 B
+987.	Restaurant Brands International	Canada	$6.64 B	$1.01 B	$22.53 B	$22.19 B
+987.	South32	Australia	$8.9 B	$2.29 B	$15.78 B	$12.65 B
+989.	Brenntag	Germany	$20.42 B	$932 M	$12.3 B	$12.7 B
+990.	Banque Saudi Fransi	Saudi Arabia	$2.81 B	$952.1 M	$61.76 B	$12.38 B
+991.	Taiwan Cooperative Financial	Taiwan	$2.53 B	$679.2 M	$145.63 B	$12.44 B
+991.	Wens Foodstuff Group	China	$12.98 B	$919.4 M	$14.19 B	$18.2 B
+993.	Leonardo	Italy	$15.46 B	$974.3 M	$30.5 B	$6.61 B
+994.	SMC	Japan	$6.18 B	$1.73 B	$14.39 B	$33.77 B
+995.	Lufax Holding	China	$8.69 B	$1.35 B	$50.24 B	$3.81 B
+995.	T&D Holdings	Japan	$18.83 B	$-1.58 B	$129.17 B	$7.01 B
+997.	Anta Sports Products	China	$7.97 B	$1.13 B	$9.95 B	$34.45 B
+998.	Moody's	United States	$5.42 B	$1.38 B	$14.72 B	$55.9 B
+999.	Vestas Wind Systems	Denmark	$15.22 B	$-1.65 B	$21.44 B	$28.15 B
+1000.	American Water Works	United States	$3.89 B	$832 M	$28.29 B	$28.89 B
+1001.	Zhongsheng Group Holdings	China	$26.71 B	$992.8 M	$13.19 B	$10.38 B
+1002.	LKQ	United States	$12.79 B	$1.15 B	$12.51 B	$15.25 B
+1003.	Db Insurance	South Korea	$13.68 B	$760.8 M	$50.04 B	$3.64 B
+1003.	Haitong Securities	China	$5.66 B	$989.8 M	$108.41 B	$9.39 B
+1005.	Lululemon Athletica	Canada	$8.11 B	$854.8 M	$5.61 B	$49.18 B
+1006.	JA Solar Technology	China	$11.79 B	$1.07 B	$10.78 B	$18.05 B
+1007.	AIB Group	Ireland	$3.62 B	$737.8 M	$138.48 B	$11.04 B
+1008.	Yamaha Motor	Japan	$17.09 B	$1.33 B	$16.55 B	$8.79 B
+1009.	BPER Banca	Italy	$5.33 B	$1.52 B	$162.54 B	$4.06 B
+1009.	Sumitomo Chemical	Japan	$22.69 B	$675 M	$34.49 B	$5.53 B
+1011.	CLP Holdings	Hong Kong	$12.86 B	$118 M	$30.24 B	$19.11 B
+1012.	Qatar Islamic Bank	Qatar	$1.9 B	$1.11 B	$48.96 B	$11.79 B
+1012.	Yum! Brands	United States	$6.94 B	$1.23 B	$5.75 B	$38.51 B
+1014.	Marfrig Global Foods	Brazil	$25.29 B	$804.5 M	$25.78 B	$894 M
+1015.	First Financial Holding	Taiwan	$3.5 B	$690.8 M	$135.26 B	$11.7 B
+1016.	Rakuten	Japan	$14.66 B	$-2.83 B	$154.89 B	$7.9 B
+1017.	Shaanxi Construction Engineering Group	China	$27.85 B	$530.8 M	$44.56 B	$3.75 B
+1018.	eBay	United States	$9.66 B	$639 M	$20 B	$24.39 B
+1019.	Chow Tai Fook Jewellery	Hong Kong	$12.95 B	$826.8 M	$11.6 B	$20.13 B
+1020.	HAL Trust	Netherlands	$10.55 B	$679.8 M	$28.51 B	$12.29 B
+1021.	BorgWarner	United States	$16.11 B	$961 M	$17.12 B	$10.46 B
+1022.	JDE Peet's	Netherlands	$8.57 B	$810.3 M	$24.49 B	$14.87 B
+1023.	AES	United States	$12.62 B	$-546 M	$38.36 B	$15.17 B
+1024.	H&M - Hennes & Mauritz	Sweden	$22.23 B	$377.3 M	$17.21 B	$23.17 B
+1024.	Itaúsa	Brazil	$1.64 B	$2.65 B	$18.3 B	$17.07 B
+1026.	Edwards Lifesciences	United States	$5.5 B	$1.49 B	$8.65 B	$53.8 B
+1027.	Mediobanca	Italy	$3.54 B	$984 M	$100.04 B	$9.23 B
+1028.	Luzhou Lao Jiao	China	$3.3 B	$1.63 B	$8.49 B	$47.42 B
+1029.	Shenzhen Mindray Bio-Medical Electronics	China	$4.58 B	$1.47 B	$7.07 B	$55.01 B
+1030.	Alcon	Switzerland	$8.72 B	$331.6 M	$29.21 B	$35.9 B
+1031.	Swire Pacific	Hong Kong	$11.64 B	$464.7 M	$55.7 B	$11.3 B
+1032.	Macy's	United States	$25.3 B	$1.18 B	$18.08 B	$4.17 B
+1033.	Akbank	Turkey	$7.39 B	$1.36 B	$57.44 B	$4.07 B
+1034.	Alexandria Real Estate Equities	United States	$2.67 B	$737.8 M	$36.91 B	$21.39 B
+1035.	Wuchan Zhongda Group	China	$85.38 B	$560.9 M	$26.09 B	$4.03 B
+1036.	Bangkok Bank	Thailand	$5.74 B	$915.7 M	$130.46 B	$8.89 B
+1036.	E-mart	South Korea	$22.7 B	$784.5 M	$26.26 B	$1.98 B
+1038.	SDIC Power Holdings	China	$7.54 B	$679 M	$38.06 B	$13.56 B
+1039.	China Southern Airlines	China	$12.92 B	$-4.81 B	$44.92 B	$12.54 B
+1040.	Constellation Brands	United States	$9.45 B	$-71 M	$24.66 B	$40.95 B
+1041.	Singapore Airlines	Singapore	$9.63 B	$584.6 M	$35.89 B	$13.18 B
+1042.	C.H. Robinson	United States	$22.49 B	$785.1 M	$5.6 B	$12.17 B
+1043.	Vonovia	Germany	$6.88 B	$-2.72 B	$106.19 B	$16.35 B
+1044.	Dassault Systemes	France	$6.01 B	$959.4 M	$15.59 B	$52.82 B
+1044.	Franklin Resources	United States	$7.83 B	$812.5 M	$29.09 B	$12.79 B
+1046.	Randstad N.V.	Netherlands	$28.56 B	$908.9 M	$11.82 B	$9.65 B
+1047.	Grupo Inbursa	Mexico	$4 B	$1.1 B	$31.1 B	$14.72 B
+1047.	Textron	United States	$12.89 B	$859 M	$16.39 B	$13.34 B
+1049.	China Reinsurance Group	China	$24.97 B	$286.5 M	$71.19 B	$3.3 B
+1050.	Nongfu Spring	China	$4.94 B	$1.27 B	$5.65 B	$59.81 B
+1051.	Bharat Petroleum	India	$58.4 B	$-246.3 M	$24.19 B	$9.69 B
+1052.	Royal Caribbean Group	United States	$10.67 B	$-1.04 B	$32.87 B	$19.34 B
+1053.	Evonik Industries	Germany	$19.43 B	$568.6 M	$24.76 B	$10.13 B
+1054.	Voestalpine	Austria	$18.51 B	$1.48 B	$17.5 B	$6.1 B
+1055.	iA Financial Corporation	Canada	$11.97 B	$646.8 M	$62.63 B	$6.76 B
+1056.	S-Oil	South Korea	$32.25 B	$1.14 B	$15.57 B	$6.37 B
+1057.	Arista Networks	United States	$4.86 B	$1.52 B	$7.54 B	$42.54 B
+1057.	Southwestern Energy	United States	$14.18 B	$6.46 B	$12.94 B	$5.22 B
+1059.	Lithia Motors	United States	$28.5 B	$1.14 B	$16.42 B	$5.96 B
+1060.	Electronic Arts	United States	$7.22 B	$1.04 B	$13.47 B	$34.39 B
+1061.	Formosa Petrochemical	Taiwan	$27.86 B	$171 M	$13.66 B	$26.46 B
+1062.	Adani Enterprises	India	$17.04 B	$307.7 M	$17.22 B	$26.77 B
+1063.	Beiersdorf	Germany	$9.25 B	$793.5 M	$13.29 B	$31.46 B
+1063.	Ternium	Luxembourg	$15.4 B	$1.34 B	$17.89 B	$7.71 B
+1065.	Financiere de l'Odet	France	$21.73 B	$-1.57 B	$57.64 B	$7.43 B
+1066.	Fastenal	United States	$7.14 B	$1.11 B	$4.58 B	$31.21 B
+1066.	J Sainsbury	United Kingdom	$38.16 B	$250.8 M	$31.67 B	$8.46 B
+1066.	Old Dominion Freight Line	United States	$6.21 B	$1.36 B	$4.96 B	$34.88 B
+1069.	Goodman Group	Australia	$1.43 B	$1.74 B	$15.74 B	$25.36 B
+1070.	Cemex	Mexico	$15.93 B	$581.3 M	$27.49 B	$9.9 B
+1071.	Nippon Paint	Japan	$9.95 B	$632.1 M	$18.51 B	$22.05 B
+1072.	Hexagon	Sweden	$5.5 B	$1.11 B	$18.09 B	$30.68 B
+1073.	PKO Bank Polski	Poland	$6.12 B	$747.3 M	$98.19 B	$9.35 B
+1074.	Fanuc	Japan	$6.29 B	$1.26 B	$14.08 B	$32.91 B
+1075.	Bank of Changsha	China	$6.18 B	$1.02 B	$138.89 B	$4.91 B
+1076.	Interpublic Group	United States	$10.88 B	$904.6 M	$16.66 B	$13.74 B
+1077.	Flutter Entertainment	Ireland	$9.48 B	$-372 M	$24.64 B	$34.44 B
+1077.	Helvetia Holding	Switzerland	$10.87 B	$602.1 M	$67.18 B	$7.52 B
+1079.	Commercial Bank For Investment & Development Of Vietnam	Vietnam	$6.04 B	$779.6 M	$89.95 B	$9.38 B
+1079.	Paychex	United States	$4.92 B	$1.5 B	$10.6 B	$38.87 B
+1081.	TransDigm Group	United States	$5.63 B	$853 M	$18.49 B	$41.89 B
+1082.	Uni-President	Taiwan	$17.6 B	$575.9 M	$17.94 B	$13.7 B
+1083.	Electric Power Development	Japan	$13.51 B	$1.07 B	$26.3 B	$2.96 B
+1084.	Antofagasta	United Kingdom	$5.9 B	$1.58 B	$18.24 B	$18.28 B
+1084.	Darden Restaurants	United States	$10.32 B	$948.5 M	$10.07 B	$18.51 B
+1086.	Shanxi Xinghuacun Fen Wine Factory	China	$3.41 B	$1.34 B	$5.87 B	$42.35 B
+1087.	Quanta Services	United States	$17.54 B	$501.6 M	$14.04 B	$24.84 B
+1088.	Trina Solar	China	$13.24 B	$715.4 M	$15.7 B	$14.94 B
+1089.	China Resources Pharmaceutical Group	Hong Kong	$32.45 B	$529.6 M	$30.91 B	$6.38 B
+1090.	Abu Dhabi Islamic Bank	United Arab Emirates	$2.22 B	$1.02 B	$46.88 B	$10.68 B
+1091.	AvalonBay Communities	United States	$2.7 B	$1.02 B	$20.18 B	$25.15 B
+1092.	Greentown China Holdings	China	$19.07 B	$388.5 M	$76.97 B	$3.11 B
+1093.	Dover	United States	$8.54 B	$1.07 B	$10.8 B	$20.21 B
+1094.	All Nippon Airways	Japan	$12.6 B	$660.3 M	$25.3 B	$10.36 B
+1095.	Csc Financial	China	$4.68 B	$988.3 M	$76.42 B	$8.75 B
+1096.	Coupang	United States	$20.58 B	$-92 M	$9.51 B	$30.94 B
+1097.	Eurobank Ergasias	Greece	$4.11 B	$1.4 B	$86.94 B	$5.47 B
+1098.	Centrica	United Kingdom	$29.24 B	$-963.3 M	$34.93 B	$8.12 B
+1098.	First Quantum Minerals	Canada	$7.02 B	$712.6 M	$24.5 B	$18.45 B
+1100.	Ball	United States	$15.04 B	$450 M	$20.11 B	$18.43 B
+1101.	Givaudan	Switzerland	$7.45 B	$896.3 M	$12.44 B	$32.81 B
+1102.	Ametek	United States	$6.29 B	$1.19 B	$12.62 B	$33.42 B
+1103.	IndusInd Bank	India	$5.54 B	$926.2 M	$55.71 B	$10.19 B
+1104.	Adyen	Netherlands	$9.39 B	$592.9 M	$8.27 B	$48.91 B
+1105.	Snam	Italy	$3.67 B	$705.2 M	$34.65 B	$18.72 B
+1106.	Jacobs Solutions	United States	$15.31 B	$645.7 M	$14.92 B	$15.1 B
+1107.	E.Sun Financial	Taiwan	$1.34 B	$575 M	$113.21 B	$12.28 B
+1108.	Aviva	United Kingdom	$-25.51 B	$-1.45 B	$363.59 B	$14.39 B
+1109.	Teva Pharmaceutical	Israel	$14.94 B	$-2.35 B	$44.01 B	$9.74 B
+1110.	Riyad Bank	Saudi Arabia	$4.94 B	$1.99 B	$13.13 B	$25.68 B
+1111.	BAIC Motor	China	$28.21 B	$624.9 M	$24.94 B	$2.35 B
+1112.	China Tourism Group Duty Free	China	$8.32 B	$701.5 M	$11.62 B	$40.7 B
+1113.	APA	United States	$10.41 B	$2.03 B	$13.21 B	$10.25 B
+1113.	DiDi Global	China	$20.91 B	$-3.53 B	$18.88 B	$15.35 B
+1113.	Krung Thai Bank	Thailand	$4.65 B	$991.3 M	$104.37 B	$7.52 B
+1116.	China Development Financial	Taiwan	$9.29 B	$548.9 M	$115.08 B	$7.31 B
+1117.	Comerica	United States	$4.12 B	$1.28 B	$91.13 B	$4.8 B
+1117.	Dassault Aviation	France	$7.3 B	$752.7 M	$24.05 B	$15.45 B
+1117.	Live Nation Entertainment	United States	$18.01 B	$176.5 M	$18.87 B	$17.74 B
+1120.	Industries Qatar	Qatar	$5.16 B	$2.42 B	$12.36 B	$21.99 B
+1121.	West Japan Railway	Japan	$10.3 B	$653.3 M	$28.07 B	$10.74 B
+1122.	Hoya	Japan	$5.38 B	$1.26 B	$7.61 B	$39.4 B
+1123.	Arab National Bank	Saudi Arabia	$2.53 B	$817.7 M	$56.58 B	$10.78 B
+1124.	Welltower	United States	$6.02 B	$105 M	$38.49 B	$39.15 B
+1125.	Ferrari	Italy	$5.55 B	$1.03 B	$8.71 B	$53.88 B
+1126.	Aisin Seiki	Japan	$32.49 B	$278 M	$31.07 B	$7.94 B
+1126.	Jiangsu Yanghe Brewery	China	$4.02 B	$1.48 B	$9.76 B	$32.23 B
+1126.	Schindler Holding	Switzerland	$11.88 B	$638.7 M	$12.76 B	$24.25 B
+1126.	Top Frontier Investment Holdings	Philippines	$27.63 B	$-269.2 M	$45.64 B	$597 M
+1130.	Arca Continental	Mexico	$10.8 B	$820.7 M	$13.84 B	$17.42 B
+1131.	Beijing-Shanghai High-Speed Railway	China	$3.3 B	$208.5 M	$42.35 B	$40.71 B
+1132.	Punjab National Bank	India	$11.74 B	$231.8 M	$172.85 B	$7.05 B
+1133.	ZIM Integrated Shipping Services	Israel	$12.56 B	$4.62 B	$11.63 B	$2.1 B
+1134.	AutoNation	United States	$26.63 B	$1.3 B	$10.36 B	$6.08 B
+1134.	Dick's Sporting Goods	United States	$12.37 B	$1.04 B	$9.8 B	$12.12 B
+1136.	Nedbank	South Africa	$7.08 B	$878.2 M	$73.64 B	$5.53 B
+1137.	Beijing Enterprises	Hong Kong	$11.79 B	$967.1 M	$28.32 B	$5.56 B
+1138.	Yuanta Financial Holding	Taiwan	$4.03 B	$719.7 M	$98.13 B	$9.32 B
+1139.	Aena	Spain	$4.72 B	$1.18 B	$16.91 B	$24.12 B
+1140.	Korean Air	South Korea	$10.91 B	$1.33 B	$22.93 B	$6.38 B
+1141.	Telenor	Norway	$10.14 B	$538.8 M	$22.35 B	$16.93 B
+1142.	Synopsys	United States	$5.17 B	$942.4 M	$9.57 B	$56.59 B
+1143.	Equity Residential	United States	$2.78 B	$918.2 M	$20.1 B	$24.02 B
+1144.	CJ Corporation	South Korea	$31.67 B	$156.4 M	$38.15 B	$2.29 B
+1145.	Toray Industries	Japan	$18.88 B	$528.3 M	$24.74 B	$9.13 B
+1146.	Cosmo Energy Holdings	Japan	$21.2 B	$920.8 M	$17.56 B	$2.82 B
+1147.	Hertz Global Holdings	United States	$8.92 B	$1.83 B	$23.75 B	$2.33 B
+1148.	T Rowe Price	United States	$6.16 B	$1.38 B	$12.16 B	$24.14 B
+1149.	Israel Discount Bank	Israel	$3.94 B	$1.04 B	$106.78 B	$6.16 B
+1150.	Seazen Group	China	$17.23 B	$59.7 M	$67.08 B	$1.52 B
+1151.	Towngas	Hong Kong	$7.78 B	$670.2 M	$21.59 B	$17 B
+1152.	Fortinet	United States	$4.72 B	$966.6 M	$6.83 B	$50.64 B
+1152.	Terna	Italy	$2.93 B	$904 M	$24.39 B	$17.6 B
+1154.	National Bank of Greece	Greece	$2.8 B	$1.18 B	$83.37 B	$5 B
+1155.	Finatis	France	$35.34 B	$-280.6 M	$35.33 B	$32 M
+1156.	GAIL India	India	$17.77 B	$1.07 B	$13.05 B	$8.65 B
+1157.	Hyundai Steel	South Korea	$20.43 B	$579.8 M	$29.1 B	$3.54 B
+1158.	Mitsubishi Motors	Japan	$18.46 B	$1.22 B	$15.59 B	$5.71 B
+1159.	Cellnex Telecom	Spain	$3.8 B	$-306.8 M	$47.9 B	$29.7 B
+1160.	Westinghouse Air Brake Technologies	United States	$8.63 B	$653 M	$18.67 B	$17.84 B
+1161.	Naver	South Korea	$6.36 B	$588.4 M	$26.81 B	$22.23 B
+1162.	Alstom	France	$17.38 B	$-614.1 M	$30.72 B	$9.7 B
+1163.	China Galaxy Securities	China	$4.24 B	$1.06 B	$89.94 B	$6.06 B
+1164.	Telecom Italia	Italy	$16.59 B	$-3.07 B	$66.2 B	$6.28 B
+1165.	Ganfeng Lithium	China	$6.08 B	$3.02 B	$11.39 B	$13.96 B
+1166.	Evergy	United States	$5.93 B	$772.8 M	$29.69 B	$14.37 B
+1167.	Kajima	Japan	$17.87 B	$794.7 M	$20.95 B	$6.46 B
+1168.	Experian	Ireland	$6.47 B	$937.4 M	$10.42 B	$30.99 B
+1169.	LPL Financial Holdings	United States	$8.95 B	$1.05 B	$9.17 B	$14.82 B
+1170.	Kao	Japan	$11.79 B	$654.1 M	$13.08 B	$18.93 B
+1171.	Copart	United States	$3.67 B	$1.08 B	$5.93 B	$37.6 B
+1172.	Vistra Energy	United States	$17.84 B	$-1.23 B	$33.82 B	$8.93 B
+1173.	Brookfield Business	United States	$11.3 B	$908.2 M	$27.58 B	$1.8 B
+1174.	Yum China Holdings	China	$9.82 B	$631 M	$11.96 B	$26.18 B
+1175.	Cadence Design	United States	$3.68 B	$855.4 M	$5.17 B	$55.97 B
+1176.	Hydro One	Canada	$5.98 B	$806.5 M	$23.22 B	$17.64 B
+1176.	Wuxi Apptec	China	$5.84 B	$1.31 B	$9.92 B	$26.57 B
+1178.	Sojitz	Japan	$18.3 B	$820.9 M	$19.99 B	$4.43 B
+1179.	NRG Energy	United States	$31.11 B	$-1.85 B	$29.7 B	$7.2 B
+1180.	NARI Technology Development	China	$6.85 B	$961.6 M	$10.76 B	$25 B
+1181.	China Steel	Taiwan	$14 B	$206.8 M	$22.27 B	$14.64 B
+1181.	Hunan Valin Steel	China	$24.33 B	$722.8 M	$18.78 B	$4.99 B
+1183.	Martin Marietta Materials	United States	$6.28 B	$966.8 M	$14.89 B	$24.64 B
+1184.	Olympus	Japan	$6.86 B	$1.04 B	$10.55 B	$22.47 B
+1185.	East West Bancorp	United States	$2.98 B	$1.21 B	$67.25 B	$6.23 B
+1186.	SK Telecom	South Korea	$13.39 B	$694.7 M	$24.76 B	$7.93 B
+1187.	Vienna Insurance Group	Austria	$12.73 B	$481.8 M	$50.91 B	$7.57 B
+1188.	Grupo Carso	Mexico	$10.18 B	$1.03 B	$13.29 B	$12.57 B
+1189.	Coinbase	United States	$2.8 B	$-2.27 B	$139.3 B	$13.66 B
+1190.	Indorama Ventures	Thailand	$18.71 B	$862.7 M	$18.01 B	$5.57 B
+1191.	Ferrovial	Spain	$7.94 B	$195.5 M	$28.05 B	$22.68 B
+1192.	Foshan Haitian Flavouring and Food	China	$3.67 B	$887.4 M	$5.03 B	$46.5 B
+1193.	American Equity Investment	United States	$3.77 B	$1.22 B	$62.26 B	$3.29 B
+1193.	VakifBank	Turkey	$8.49 B	$607.5 M	$77.5 B	$4.02 B
+1195.	Hua Nan Financial	Taiwan	$2.69 B	$580.6 M	$118.11 B	$9.8 B
+1196.	Metro	Canada	$14.76 B	$672.8 M	$10.06 B	$13.34 B
+1197.	Tohoku Electric Power	Japan	$22.19 B	$-941.3 M	$39.16 B	$2.67 B
+1198.	Digital Realty Trust	United States	$4.9 B	$373.3 M	$41.95 B	$28.09 B
+1199.	Piraeus Financial Holdings	Greece	$2.68 B	$998.4 M	$80.75 B	$3.22 B
+1200.	Swatch Group	Switzerland	$7.85 B	$845 M	$15.02 B	$17.27 B
+1201.	Scor	France	$16.95 B	$-316.3 M	$53.02 B	$4.54 B
+1202.	Banco de Sabadell	Spain	$7.87 B	$499.7 M	$269.96 B	$5.58 B
+1203.	Faurecia	France	$26.76 B	$-401.3 M	$34.38 B	$3.82 B
+1204.	Banco BPM	Italy	$5.36 B	$741.9 M	$202.44 B	$6.17 B
+1205.	Amadeus IT Group	Spain	$4.71 B	$1.08 B	$12.65 B	$31.11 B
+1206.	Bank Of Guiyang	China	$4.51 B	$893.2 M	$96.68 B	$3.1 B
+1207.	Expedia Group	United States	$12.08 B	$329 M	$24.99 B	$13.98 B
+1208.	Dongguan Rural Commercial Bank	China	$3.76 B	$888.6 M	$94.63 B	$5.95 B
+1209.	WESCO International	United States	$22.01 B	$876.3 M	$14.97 B	$6.64 B
+1210.	Campbell Soup	United States	$9.18 B	$813 M	$11.97 B	$16.39 B
+1211.	Wolters Kluwer	Netherlands	$5.73 B	$1.08 B	$10.15 B	$29.77 B
+1212.	First Horizon	United States	$3.83 B	$957 M	$80.73 B	$5.88 B
+1212.	Tourmaline Oil	Canada	$5.8 B	$2.37 B	$13.32 B	$14.71 B
+1214.	Xiamen International Trade Group	China	$78.08 B	$454.4 M	$21.13 B	$2.82 B
+1215.	Yuexiu Property	Hong Kong	$10.73 B	$585.1 M	$49.83 B	$5.26 B
+1216.	Popular	United States	$3.34 B	$1.05 B	$67.68 B	$4.08 B
+1217.	Smurfit Kappa Group	Ireland	$13.46 B	$989.1 M	$13.59 B	$9.6 B
+1218.	Zions Bancorp	United States	$3.71 B	$900 M	$88.57 B	$3.53 B
+1219.	Chongqing Zhifei Biological Products	China	$5.89 B	$1.12 B	$6.29 B	$25.82 B
+1220.	Zhongyuan Bank	China	$7.22 B	$545.9 M	$190.85 B	$2.79 B
+1221.	JM Smucker	United States	$8.33 B	$710.2 M	$16.02 B	$16.87 B
+1222.	Pegatron	Taiwan	$44.2 B	$506.4 M	$20.7 B	$6.1 B
+1223.	Western Digital	United States	$15.75 B	$-93 M	$25.05 B	$10.68 B
+1224.	WEG	Brazil	$5.97 B	$886.5 M	$5.7 B	$33.13 B
+1225.	Lumen Technologies	United States	$17.48 B	$-1.55 B	$45.58 B	$2.29 B
+1226.	Kuaishou Technology	China	$13.95 B	$-2.08 B	$12.85 B	$28.58 B
+1227.	Olam Group	Singapore	$39.81 B	$456.2 M	$24.01 B	$4.39 B
+1228.	Keysight Technologies	United States	$5.55 B	$1.16 B	$8.45 B	$25.59 B
+1229.	BCI-Banco Credito	Chile	$4.47 B	$893.3 M	$85.31 B	$5.09 B
+1229.	Ford Otosan	Turkey	$11.8 B	$1.19 B	$5.98 B	$9.3 B
+1231.	MSCI	United States	$2.28 B	$880.9 M	$5.06 B	$37.92 B
+1231.	Quest Diagnostics	United States	$9.6 B	$789 M	$12.79 B	$15.29 B
+1233.	HBIS	China	$20.93 B	$195.2 M	$37.04 B	$3.5 B
+1233.	Molson Coors Brewing	United States	$10.83 B	$-254.3 M	$25.85 B	$14.03 B
+1235.	AGCO	United States	$13.3 B	$970.4 M	$10.81 B	$9.51 B
+1236.	Chailease Holding	Taiwan	$2.9 B	$913.1 M	$28.54 B	$11.39 B
+1237.	Autodesk	United States	$4.95 B	$823 M	$9.44 B	$41.87 B
+1238.	Qinghai Salt Lake Industry	China	$3.85 B	$2.08 B	$6.17 B	$15.38 B
+1239.	Western Alliance Bancorp.	United States	$3.33 B	$959.4 M	$71.05 B	$2.98 B
+1240.	Atmos Energy	United States	$4.56 B	$829.2 M	$21.31 B	$16.99 B
+1241.	Osaka Gas	Japan	$16.27 B	$623.8 M	$23.54 B	$6.89 B
+1242.	Datang International Power	China	$17.16 B	$-236.9 M	$43.89 B	$3.75 B
+1242.	PGE Polska Grupa Energetyczna	Poland	$16.73 B	$753 M	$19.88 B	$3.64 B
+1244.	Guanghui Energy Co. Ltd.	China	$10.07 B	$1.77 B	$9.12 B	$8.46 B
+1245.	Kawasaki Kisen Kaisha	Japan	$7.07 B	$6.52 B	$15.84 B	$5.8 B
+1245.	Rexel	France	$19.66 B	$969.3 M	$13.78 B	$6.71 B
+1247.	StoneX Group	United States	$64.48 B	$212.7 M	$21.92 B	$1.82 B
+1248.	Avnet	United States	$26.36 B	$862.4 M	$12.11 B	$3.91 B
+1249.	DSM	Netherlands	$8.82 B	$1.79 B	$18.57 B	$630 M
+1249.	Guangzhou Rural Commercial Bank	China	$7.09 B	$528 M	$177.53 B	$3.06 B
+1251.	Investec	United Kingdom	$4.45 B	$949.8 M	$66.47 B	$4.81 B
+1252.	Liberty Global	United Kingdom	$7.2 B	$626.8 M	$42.9 B	$8.65 B
+1252.	Zimmer Biomet	United States	$7.11 B	$449.8 M	$21.24 B	$28.97 B
+1254.	Webster Financial	United States	$3.09 B	$876.1 M	$74.84 B	$5.91 B
+1255.	ResMed	United States	$4.02 B	$863 M	$6.71 B	$34.04 B
+1256.	Partners Group Holding	Switzerland	$2.2 B	$1.05 B	$4.95 B	$24.99 B
+1257.	China Gas Holdings	Hong Kong	$11.79 B	$871.5 M	$19.98 B	$7.21 B
+1258.	Owens Corning	United States	$9.75 B	$1.32 B	$10.84 B	$9.45 B
+1259.	Emera	Canada	$5.78 B	$774.3 M	$29.33 B	$11.87 B
+1260.	Brighthouse Financial	United States	$8.47 B	$5 M	$227.24 B	$2.91 B
+1261.	Mashreq Bank	United Arab Emirates	$3.35 B	$1.01 B	$54.13 B	$6.55 B
+1262.	Bunzl	United Kingdom	$14.83 B	$584.4 M	$10.64 B	$13.43 B
+1263.	Cincinnati Financial	United States	$7.58 B	$12 M	$29.72 B	$16.55 B
+1264.	Mettler-Toledo International	United States	$3.95 B	$886.9 M	$3.41 B	$31.5 B
+1264.	Vivendi	France	$10.08 B	$-1.06 B	$33.38 B	$11.02 B
+1266.	WestRock	United States	$21.12 B	$-1.24 B	$28.21 B	$7.25 B
+1267.	XCMG Construction Machinery	China	$11.91 B	$449.1 M	$25.5 B	$10.99 B
+1268.	Kyushu Electric Power	Japan	$16.39 B	$-416.4 M	$42.1 B	$2.94 B
+1269.	Shanghai Electric Group	China	$16.47 B	$-461.9 M	$41.78 B	$4.17 B
+1270.	Spotify Technology	Luxembourg	$12.6 B	$-817 M	$8.18 B	$27.01 B
+1271.	Leidos	United States	$14.6 B	$672 M	$13.13 B	$11.09 B
+1271.	Tianqi Lithium	China	$5.96 B	$3.56 B	$10.92 B	$10.6 B
+1273.	Kerry Group	Ireland	$9.22 B	$637.3 M	$13.11 B	$18.62 B
+1274.	Evolution Gaming Group AB	Sweden	$1.63 B	$934.8 M	$5.06 B	$27.03 B
+1275.	Petronas Chemicals	Malaysia	$6.58 B	$1.44 B	$12.96 B	$12.73 B
+1276.	China Jinmao	Hong Kong	$12.25 B	$312.4 M	$60.69 B	$2.48 B
+1277.	American Financial Group	United States	$7 B	$820 M	$23.62 B	$9.87 B
+1278.	Bank of Chongqing	China	$4.5 B	$722.9 M	$98.52 B	$2.03 B
+1279.	Jefferies Financial	United States	$8.01 B	$589.8 M	$52.03 B	$7.08 B
+1280.	Caesars Entertainment	United States	$11.36 B	$-355 M	$33.35 B	$9.62 B
+1281.	Hyundai Glovis	South Korea	$20.61 B	$902 M	$11.23 B	$4.72 B
+1281.	Jiangsu Eastern Shenghong	China	$11.22 B	$84.2 M	$25.49 B	$11.9 B
+1281.	Xinjiang Daqo New Energy	China	$3.98 B	$2.58 B	$8.04 B	$12.04 B
+1284.	Bandai Namco Holdings	Japan	$7.63 B	$878.1 M	$6.88 B	$15.09 B
+1285.	ServiceNow	United States	$7.62 B	$400 M	$13.61 B	$88.57 B
+1286.	Vulcan Materials	United States	$7.42 B	$604.5 M	$14.08 B	$25.74 B
+1287.	Indian Bank	India	$6.35 B	$645.7 M	$83.07 B	$5.05 B
+1288.	Newcrest Mining	Australia	$4.6 B	$856.9 M	$17.32 B	$17.92 B
+1289.	Motor Oil	Greece	$17.48 B	$1.02 B	$7.68 B	$2.53 B
+1290.	NetApp	United States	$6.46 B	$1.29 B	$9.71 B	$13.66 B
+1291.	Jinke Property Group	China	$13.84 B	$-795.1 M	$46.18 B	$1.1 B
+1292.	Voya Financial	United States	$6.24 B	$552 M	$138.74 B	$6.92 B
+1293.	Las Vegas Sands	United States	$5.29 B	$-542 M	$22.71 B	$47.12 B
+1294.	Fortive	United States	$5.91 B	$763.7 M	$15.8 B	$22.88 B
+1295.	BBMG	China	$14.96 B	$103.2 M	$41.16 B	$1.4 B
+1296.	Raizen	Brazil	$47.31 B	$18.7 M	$19.9 B	$6.81 B
+1297.	Performance Food Group	United States	$56.29 B	$266.2 M	$12.41 B	$9.68 B
+1298.	Far East Horizon	Hong Kong	$5.94 B	$909.6 M	$49.91 B	$3.82 B
+1299.	Tenet Healthcare	United States	$19.45 B	$414 M	$27.07 B	$7.07 B
+1300.	Packaging Corp of America	United States	$8.32 B	$958.1 M	$8.05 B	$12.17 B
+1301.	ZTO Express (Cayman)	China	$5.26 B	$1 B	$11.3 B	$22.23 B
+1302.	Vipshop Holdings	China	$15.3 B	$926.6 M	$9.42 B	$7.57 B
+1303.	CJ Cheiljedang	South Korea	$23.28 B	$461.2 M	$23.73 B	$3.75 B
+1304.	IDEXX Laboratories	United States	$3.43 B	$699.2 M	$2.81 B	$40.55 B
+1305.	Sungrow Power Supply	China	$7.02 B	$684.1 M	$9.34 B	$23.1 B
+1306.	New World Development	Hong Kong	$9.34 B	$131.3 M	$79.68 B	$6.7 B
+1307.	Wan Hai Lines	Taiwan	$8.69 B	$3.12 B	$11.88 B	$5.45 B
+1308.	Nu Holdings	Cayman Islands	$3.73 B	$-364.6 M	$29.92 B	$25.63 B
+1309.	Canadian Tire Corporation	Canada	$13.68 B	$802 M	$16.31 B	$7.38 B
+1310.	Gartner	United States	$5.62 B	$931.1 M	$7.38 B	$24 B
+1311.	NiSource	United States	$5.94 B	$710.3 M	$26.85 B	$11.79 B
+1312.	Carlsberg	Denmark	$9.93 B	$-150.2 M	$16.66 B	$22.05 B
+1313.	SG Holdings	Japan	$10.59 B	$933.5 M	$6.8 B	$9.7 B
+1314.	Acciona	Spain	$11.77 B	$463.5 M	$24.11 B	$10.21 B
+1314.	Shanxi Xishan Coal & Electricity Power Co. Ltd.	China	$9.21 B	$1.57 B	$14.32 B	$7.67 B
+1316.	Multiply Group	United Arab Emirates	$314 M	$4.93 B	$11.29 B	$9.42 B
+1317.	Bâloise Group	Switzerland	$6.29 B	$573.8 M	$86.36 B	$7.2 B
+1318.	LG	South Korea	$4.55 B	$972.7 M	$23.43 B	$10.65 B
+1319.	Japan Exchange Group	Japan	$992 M	$342 M	$617.53 B	$8.5 B
+1320.	NIPPON EXPRESS HOLDINGS	Japan	$19.92 B	$834.9 M	$13.16 B	$5.37 B
+1321.	CapitaLand Investment	Singapore	$2.13 B	$624.4 M	$26.18 B	$14.58 B
+1322.	Universal Health Services	United States	$13.57 B	$684.2 M	$13.56 B	$10.09 B
+1323.	Oriental Land	Japan	$3.56 B	$595.7 M	$9.06 B	$59.69 B
+1323.	Xiamen Xiangyu	China	$77.7 B	$408.6 M	$17.39 B	$3.11 B
+1325.	Kaspi.kz JSC	Kazakhstan	$2.84 B	$1.27 B	$11.07 B	$16.27 B
+1326.	Ajinomoto	Japan	$10.05 B	$536.8 M	$11.86 B	$19.14 B
+1327.	Daiwa Securities	Japan	$6.43 B	$471.3 M	$198.46 B	$6.81 B
+1328.	Secom	Japan	$8.2 B	$705.7 M	$14.75 B	$13.94 B
+1329.	Vietin Bank	Vietnam	$5.45 B	$722.3 M	$76.71 B	$5.71 B
+1330.	China CSSC Holdings	China	$8.06 B	$23.8 M	$24.06 B	$16.27 B
+1330.	Transurban Group	Australia	$2.87 B	$113 M	$25.96 B	$30.59 B
+1332.	Industrivarden	Sweden	$606 M	$1.7 B	$14.13 B	$12.33 B
+1333.	Hopson Development Holdings	Hong Kong	$3.81 B	$1.12 B	$38.27 B	$2.57 B
+1334.	Shanxi Lu'an Environmental	China	$7.02 B	$2.2 B	$13.82 B	$8.66 B
+1335.	Indian Railway Finance	India	$3 B	$826.9 M	$56.76 B	$5.57 B
+1336.	DXC Technology	United States	$14.85 B	$718 M	$18.25 B	$5.17 B
+1336.	Korea Investment Holdings	South Korea	$8.58 B	$481.9 M	$68.25 B	$2.36 B
+1338.	Boliden	Sweden	$8.14 B	$1.23 B	$9.33 B	$9.86 B
+1338.	Mondi	United Kingdom	$9.35 B	$1.52 B	$11.58 B	$7.84 B
+1340.	Skyworks Solutions	United States	$5.3 B	$1.18 B	$8.95 B	$16.55 B
+1341.	Synovus	United States	$2.8 B	$789 M	$61.84 B	$4.1 B
+1342.	Umicore	Belgium	$26.73 B	$598.9 M	$10.75 B	$7.82 B
+1343.	Bluescope Steel	Australia	$13.1 B	$1.22 B	$10.79 B	$6.08 B
+1343.	Formosa Chemicals	Taiwan	$12.09 B	$17.5 M	$18.97 B	$13.17 B
+1345.	Asr Nederland	Netherlands	$5.74 B	$719.9 M	$69.56 B	$6.39 B
+1346.	Marvell Technology	United States	$5.92 B	$-163.5 M	$22.52 B	$35.11 B
+1347.	Ingersoll Rand	United States	$6.21 B	$662.1 M	$14.99 B	$23.95 B
+1348.	Euronext	Netherlands	$1.52 B	$460.1 M	$186.91 B	$8.47 B
+1349.	Cleveland-Cliffs	United States	$22.33 B	$477 M	$18.65 B	$7.69 B
+1350.	Garmin	Switzerland	$4.83 B	$964.3 M	$7.73 B	$19.85 B
+1351.	SBI Holdings	Japan	$7.37 B	$38.5 M	$165.45 B	$5.34 B
+1352.	A2A	Italy	$24.12 B	$421.4 M	$23.28 B	$5.56 B
+1353.	Brown-Forman	United States	$4.14 B	$727 M	$7.75 B	$30.99 B
+1353.	Shin Kong Financial	Taiwan	$7.42 B	$70 M	$157.79 B	$4.27 B
+1355.	Epiroc	Sweden	$5.05 B	$836.2 M	$6.3 B	$24.28 B
+1355.	Shenzhen Overseas	China	$10.56 B	$-1.66 B	$57.45 B	$5.72 B
+1357.	Genworth Financial	United States	$7.43 B	$522 M	$71.64 B	$2.46 B
+1357.	St. James's Place	United Kingdom	$-7.58 B	$498.9 M	$182.41 B	$7.76 B
+1359.	Halkbank	Turkey	$9.43 B	$280 M	$70.1 B	$3.66 B
+1359.	Shionogi	Japan	$3.45 B	$1.53 B	$9.56 B	$13.21 B
+1361.	LG Display	South Korea	$18.35 B	$-3.24 B	$28.22 B	$3.96 B
+1362.	Huadian Power International	China	$15.59 B	$-121.2 M	$32.63 B	$5.06 B
+1363.	Prysmian	Italy	$16.89 B	$529.7 M	$13.61 B	$10.87 B
+1364.	Genmab	Denmark	$2.06 B	$780.1 M	$4.34 B	$26.38 B
+1365.	FleetCor Technologies	United States	$3.54 B	$951.2 M	$14.59 B	$16.99 B
+1365.	Salzgitter	Germany	$13.19 B	$1.14 B	$11.85 B	$2.06 B
+1365.	U-Haul Holding	United States	$5.87 B	$964.9 M	$18.12 B	$12.13 B
+1365.	W.P. Carey	United States	$1.55 B	$736.5 M	$18.83 B	$15.67 B
+1369.	China Longyuan Power	China	$5.69 B	$771.1 M	$33.13 B	$9.09 B
+1370.	Crown Holdings	United States	$12.75 B	$613 M	$14.41 B	$10.3 B
+1371.	Hyundai Marine & Fire	South Korea	$12.21 B	$430.8 M	$40.12 B	$2.2 B
+1372.	Masco	United States	$8.46 B	$815 M	$5.43 B	$12.03 B
+1373.	Impala Platinum Holdings	South Africa	$7.36 B	$1.97 B	$9.69 B	$8.36 B
+1374.	Thai Beverage	Thailand	$7.95 B	$879.2 M	$13.5 B	$11.94 B
+1375.	Sanlam	South Africa	$5.54 B	$766.5 M	$58.21 B	$6.11 B
+1376.	Constellation Software	Canada	$6.64 B	$513.9 M	$7.88 B	$41.06 B
+1376.	Zhejiang Huayou Cobalt	China	$9.99 B	$543.7 M	$17.44 B	$12.03 B
+1378.	Avery Dennison	United States	$8.76 B	$680.1 M	$8.22 B	$13.89 B
+1379.	BJ's Wholesale Club	United States	$19.32 B	$513.2 M	$6.35 B	$10.04 B
+1379.	Hellenic Petroleum	Greece	$15.25 B	$934.8 M	$9.14 B	$2.43 B
+1381.	New Hope Liuhe	China	$21.25 B	$-39 M	$19.61 B	$8.18 B
+1382.	Shengjing Bank	China	$6.99 B	$150.7 M	$155.71 B	$6.51 B
+1383.	ALFA	Mexico	$18.27 B	$729 M	$14.36 B	$3.1 B
+1383.	Asbury Automotive Group	United States	$15.11 B	$941 M	$8.18 B	$4.24 B
+1385.	Var Energi ASA	Norway	$9.83 B	$936 M	$18.8 B	$6.27 B
+1386.	Bankinter	Spain	$2.82 B	$588.8 M	$114.74 B	$5.04 B
+1387.	BNK Financial Group	South Korea	$5.5 B	$595.4 M	$108.64 B	$1.63 B
+1388.	Globe Life	United States	$5.23 B	$799 M	$25.54 B	$10.45 B
+1389.	Antero Resources	United States	$8.24 B	$2.27 B	$13.87 B	$6.33 B
+1390.	Dentsu	Japan	$9.46 B	$455 M	$28.36 B	$9.61 B
+1391.	Thai Oil	Thailand	$15.1 B	$931.4 M	$12.84 B	$2.77 B
+1391.	Toll Brothers	United States	$10.27 B	$1.33 B	$11.98 B	$7.03 B
+1393.	Adaro Energy	Indonesia	$8.13 B	$2.5 B	$10.78 B	$5.93 B
+1394.	McCormick	United States	$6.39 B	$666.2 M	$13.21 B	$23.86 B
+1394.	Suntory Beverage & Food	Japan	$11.03 B	$625.9 M	$13.52 B	$11.73 B
+1396.	Extra Space Storage	United States	$1.98 B	$852.2 M	$12.13 B	$20.9 B
+1396.	Halyk Bank	Kazakhstan	$3.8 B	$1.2 B	$30.93 B	$3.85 B
+1398.	Metalurgica Gerdau	Brazil	$15.7 B	$751 M	$15.14 B	$2.39 B
+1399.	Jinko Solar	China	$10.52 B	$319.9 M	$15.63 B	$17.61 B
+1400.	Berry Global Group	United States	$13.49 B	$720 M	$16.61 B	$6.87 B
+1401.	Attijariwafa Bank	Morocco	$4.48 B	$596.6 M	$60.28 B	$8.04 B
+1401.	Valeo	France	$21.06 B	$241.7 M	$23.51 B	$4.55 B
+1403.	Franco-Nevada	Canada	$1.25 B	$674 M	$6.74 B	$30.4 B
+1403.	Guangdong Haid Group	China	$15.76 B	$434.5 M	$6.63 B	$12.93 B
+1405.	Grupo Aval	Colombia	$6.58 B	$582.8 M	$60.96 B	$2.92 B
+1406.	Charoen Pokphand Foods	Thailand	$17.51 B	$382.4 M	$26.76 B	$5.02 B
+1407.	Skanska	Sweden	$15.84 B	$758.5 M	$14.56 B	$6.2 B
+1408.	Goodyear	United States	$20.84 B	$5 M	$23.17 B	$3.23 B
+1409.	Jyske Bank	Denmark	$2.69 B	$564.7 M	$114.63 B	$4.4 B
+1410.	Bank Albilad	Saudi Arabia	$1.84 B	$572.8 M	$36.06 B	$10.8 B
+1411.	Coloplast	Denmark	$3.32 B	$653.5 M	$5.05 B	$30.75 B
+1411.	Pan Pacific International Holdings	Japan	$14.38 B	$521.3 M	$11.19 B	$11.32 B
+1413.	KE Holdings	China	$8.98 B	$-221.4 M	$15.73 B	$19.97 B
+1414.	Teledyne Technologies	United States	$5.52 B	$754.7 M	$14.43 B	$19.43 B
+1415.	Jiangsu Hengrui Medicine	China	$3.08 B	$570.1 M	$6.16 B	$43.73 B
+1415.	Trip.com Group	China	$2.97 B	$182.8 M	$27.57 B	$20.52 B
+1417.	Eastman	United States	$10.23 B	$692 M	$14.98 B	$9.64 B
+1418.	ICON (Ireland)	Ireland	$7.82 B	$510 M	$17.29 B	$15.55 B
+1419.	China Eastern Airlines	China	$8.02 B	$-3.99 B	$43.66 B	$8.72 B
+1419.	Murphy USA	United States	$23.41 B	$626.8 M	$4.12 B	$6.36 B
+1421.	US Foods	United States	$34.06 B	$265 M	$12.77 B	$8.95 B
+1422.	Inner Mongolia Baotou Steel	China	$9.86 B	$-112.3 M	$21.63 B	$11.87 B
+1423.	Huafa Industrial	China	$8.81 B	$350.9 M	$62.12 B	$3.3 B
+1424.	Bank of Greece	Greece	$2.15 B	$480 M	$254.5 B	$348 M
+1424.	Wharf Real Estate Investment	Hong Kong	$1.59 B	$-1.13 B	$32.7 B	$16.41 B
+1426.	Phoenix Group Holdings	United Kingdom	$-38.6 B	$-2.28 B	$335.64 B	$7.28 B
+1426.	Wacker Chemie	Germany	$8.63 B	$1.31 B	$10.15 B	$7.84 B
+1428.	Annaly Capital Management	United States	$3.76 B	$-1.14 B	$86.83 B	$9.42 B
+1429.	Akzo Nobel	Netherlands	$11.42 B	$303.7 M	$15.93 B	$14.09 B
+1430.	Latam Airlines	Chile	$9.43 B	$1.48 B	$13.21 B	$4.52 B
+1431.	Commercial Bank of Qatar	Qatar	$2.83 B	$725.4 M	$44.87 B	$6.89 B
+1432.	AGC	Japan	$15.48 B	$-24 M	$21.33 B	$8.35 B
+1433.	RHB Bank	Malaysia	$2.58 B	$615.2 M	$70.55 B	$5.28 B
+1434.	Invesco	United States	$5.83 B	$868 M	$29.73 B	$7.59 B
+1435.	Bank of Tianjin	China	$5.23 B	$543.8 M	$109.48 B	$1.45 B
+1436.	XP	Brazil	$2.65 B	$693.8 M	$36.37 B	$8.36 B
+1437.	Schweizerische Nationalbank	Switzerland	$-74.52 B	$-76.17 B	$1,044.93 B	$531 M
+1438.	Interactive Brokers Group	United States	$5.2 B	$455 M	$119.47 B	$7.87 B
+1438.	Siam Makro	Thailand	$13.29 B	$219.5 M	$15.84 B	$11.97 B
+1440.	Tokyo Century	Japan	$9.88 B	$-25.5 M	$47 B	$4.23 B
+1441.	Israel Corp	Israel	$10 B	$1.3 B	$13.09 B	$2.21 B
+1442.	NEXON	Japan	$2.69 B	$762.9 M	$7.9 B	$20.01 B
+1443.	Arkema	France	$11.63 B	$798.7 M	$15.12 B	$7.21 B
+1443.	Outokumpu	Finland	$10.45 B	$1.2 B	$7.45 B	$2.4 B
+1445.	Terumo	Japan	$6.07 B	$663.7 M	$11.7 B	$22.24 B
+1446.	Advantest	Japan	$4.13 B	$962.2 M	$4.51 B	$15.21 B
+1446.	Alliant Energy	United States	$4.21 B	$657 M	$20.24 B	$13.84 B
+1446.	Hologic	United States	$4.06 B	$753 M	$9.45 B	$20.61 B
+1449.	Bank of Suzhou	China	$4.13 B	$583.8 M	$80.76 B	$4.01 B
+1449.	Hong Leong Financial	Malaysia	$2.03 B	$614.5 M	$67.68 B	$4.65 B
+1451.	Borouge	United Arab Emirates	$4 B	$724.3 M	$9.21 B	$22.18 B
+1452.	Starwood Property Trust	United States	$1.7 B	$588.7 M	$77.35 B	$5.23 B
+1453.	China Shipbuilding Industry	China	$6.15 B	$-166 M	$26.84 B	$16.03 B
+1454.	WuXi Biologics	China	$2.27 B	$661.1 M	$7.13 B	$25.57 B
+1455.	China Nuclear Engineering Corporation	China	$14.73 B	$270 M	$27.31 B	$3.99 B
+1456.	Samsung SDS	South Korea	$12.56 B	$848 M	$9.24 B	$6.93 B
+1457.	VeriSign	United States	$1.44 B	$695 M	$1.76 B	$22.85 B
+1458.	China International Marine	China	$19.3 B	$248.2 M	$21.59 B	$3.49 B
+1459.	Virgin Money UK	United Kingdom	$3.78 B	$506.6 M	$114.37 B	$2.49 B
+1460.	LG Innotek Co.,	South Korea	$15.16 B	$758.3 M	$7.94 B	$4.64 B
+1461.	Cullen/Frost Bankers	United States	$2.16 B	$651.6 M	$51.25 B	$6.58 B
+1461.	Kingspan Group PLC	Ireland	$8.77 B	$628.5 M	$8.2 B	$12.3 B
+1463.	SinoPac Financial	Taiwan	$2.28 B	$535.4 M	$84.23 B	$6.76 B
+1463.	Toppan Printing	Japan	$12.56 B	$622.4 M	$17.42 B	$6.94 B
+1465.	AirAsia X	Malaysia	$102 M	$7.66 B	$105 M	$128 M
+1466.	Midea Real Estate Holding	China	$10.96 B	$264.2 M	$36.28 B	$1.6 B
+1467.	SGS	Switzerland	$6.95 B	$615.7 M	$7.7 B	$17.03 B
+1468.	Kobe Steel	Japan	$18.11 B	$406.7 M	$22.15 B	$2.96 B
+1469.	Bank of Guizhou	China	$3.64 B	$572.6 M	$76.78 B	$3.79 B
+1469.	Williams-Sonoma	United States	$8.67 B	$1.13 B	$4.66 B	$7.84 B
+1471.	Chugoku Electric Power	Japan	$12.51 B	$-1.15 B	$30.36 B	$1.91 B
+1472.	Geberit	Switzerland	$3.55 B	$739.5 M	$3.71 B	$19.12 B
+1472.	OCI	Netherlands	$9.7 B	$1.22 B	$10.06 B	$5.49 B
+1474.	Inner Mongolia Yitai Coal	China	$8.22 B	$1.61 B	$13.38 B	$4.69 B
+1474.	Ryder System	United States	$12.11 B	$825.2 M	$14.54 B	$3.85 B
+1476.	Banca Mediolanum	Italy	$4.03 B	$548.4 M	$78.47 B	$6.58 B
+1476.	Liberty Broadband	United States	$983 M	$1.03 B	$15.13 B	$11.71 B
+1478.	Shopify	Canada	$5.9 B	$-1.92 B	$10.96 B	$79.19 B
+1479.	Shanghai Commercial & Savings Bank	Taiwan	$2.29 B	$511.6 M	$77.29 B	$7.31 B
+1480.	Palo Alto Networks	United States	$6.16 B	$34.3 M	$13.16 B	$55.66 B
+1480.	Valley National Bancorp	United States	$2.58 B	$598.7 M	$64.31 B	$3.86 B
+1482.	China Resources Beer (Holdings)	Hong Kong	$5.28 B	$664 M	$8.24 B	$23.63 B
+1483.	Lindt & Sprungli	Switzerland	$5.2 B	$596.5 M	$8.74 B	$29.25 B
+1484.	PTT Global Chemical	Thailand	$19.5 B	$-249.5 M	$20.79 B	$5.47 B
+1485.	Advanced Info Service	Thailand	$5.29 B	$741.6 M	$9.74 B	$18.7 B
+1486.	ARC Resources	Canada	$6.27 B	$2.23 B	$8.51 B	$7.86 B
+1487.	Thor Industries	United States	$13.93 B	$792.3 M	$7.31 B	$4.4 B
+1488.	Adani Power Limited	India	$4.98 B	$1.29 B	$10.65 B	$11.3 B
+1489.	Unicharm	Japan	$6.83 B	$514 M	$7.95 B	$24.49 B
+1490.	Group 1 Automotive	United States	$16.51 B	$687.6 M	$6.92 B	$3.12 B
+1491.	Metropolitan Bank & Trust	Philippines	$2.61 B	$637.5 M	$52.96 B	$4.9 B
+1492.	Hangzhou Binjiang Real Estate Group Co., Ltd.	China	$6.48 B	$594.1 M	$43.51 B	$4.46 B
+1493.	Henry Schein	United States	$12.65 B	$538 M	$8.61 B	$10.46 B
+1494.	Schaeffler	Germany	$16.61 B	$586.4 M	$15.82 B	$4.75 B
+1495.	Taishin Financial Holdings	Taiwan	$3.07 B	$498.6 M	$89.95 B	$6.86 B
+1496.	Huaibei Mining Holdings	China	$10.12 B	$1.09 B	$12.66 B	$4.85 B
+1496.	Jones Lang LaSalle	United States	$20.86 B	$499.7 M	$15.85 B	$6.47 B
+1498.	ADNOC Drilling	United Arab Emirates	$2.67 B	$801.8 M	$5.49 B	$16.51 B
+1499.	China Communications Services	China	$20.92 B	$501.9 M	$15.86 B	$3.79 B
+1499.	Ventas	United States	$4.13 B	$-47.4 M	$24.16 B	$19.14 B
+1501.	Snap-on	United States	$4.93 B	$943 M	$7.13 B	$13.8 B
+1502.	Boston Properties	United States	$3.16 B	$783 M	$24.63 B	$9 B
+1503.	M&G	United Kingdom	$-9.09 B	$-2.01 B	$229 B	$5.94 B
+1504.	Sartorius	Germany	$4.21 B	$588.1 M	$7.57 B	$27.36 B
+1504.	Workday	United States	$6.2 B	$-366.7 M	$13.49 B	$47 B
+1506.	Shimano	Japan	$4.51 B	$882.9 M	$6.2 B	$14.21 B
+1506.	World Fuel Services	United States	$59.28 B	$110.6 M	$7.49 B	$1.44 B
+1508.	Fukuoka Financial Group	Japan	$2.38 B	$323.8 M	$218.65 B	$3.53 B
+1509.	Sonova Holding	Switzerland	$3.82 B	$684 M	$5.28 B	$19.36 B
+1510.	Qilu Bank	China	$3 B	$539.5 M	$76.98 B	$2.87 B
+1511.	Bank of India	India	$6.36 B	$396.1 M	$96.76 B	$4.33 B
+1512.	China Grand Automotive Services	China	$21.09 B	$115.4 M	$18.55 B	$2.52 B
+1513.	Bank Pekao	Poland	$2.42 B	$563.1 M	$67.93 B	$5.98 B
+1514.	Ampol	Australia	$26.51 B	$525 M	$9.04 B	$4.72 B
+1515.	Hera	Italy	$21.11 B	$268.2 M	$18.47 B	$4.51 B
+1516.	Shenzhen Inovance Technology	China	$3.34 B	$634.4 M	$5.84 B	$22.62 B
+1517.	Chiba Bank	Japan	$1.83 B	$438.3 M	$146.26 B	$4.75 B
+1517.	Falabella	Chile	$14.59 B	$362.8 M	$24.54 B	$5.61 B
+1519.	Aldar Properties	United Arab Emirates	$3.16 B	$789.3 M	$17.37 B	$11.56 B
+1519.	Wheaton Precious Metals	Canada	$970 M	$622.1 M	$6.92 B	$23.49 B
+1521.	Compal Electronics	Taiwan	$36 B	$244.5 M	$14.75 B	$3.43 B
+1521.	Lotte Chemical	South Korea	$17.24 B	$47.7 M	$21.18 B	$5.48 B
+1521.	Old Mutual	South Africa	$6.91 B	$447.3 M	$62 B	$3.07 B
+1521.	Olin	United States	$8.76 B	$1.09 B	$8.11 B	$7.11 B
+1525.	Bank of East Asia	Hong Kong	$3.79 B	$466.3 M	$113.11 B	$3.56 B
+1526.	Empire	Canada	$23.63 B	$521 M	$12.26 B	$6.76 B
+1527.	Bank of Zhengzhou	China	$4.43 B	$500.2 M	$88.24 B	$1.18 B
+1528.	China Huarong Asset Management	China	$5.95 B	$-4.16 B	$137.42 B	$4.35 B
+1529.	Concordia Financial Group	Japan	$2.27 B	$377.2 M	$186.99 B	$4.39 B
+1530.	Jiangsu Zhongnan Construction Group	China	$8.64 B	$-1.36 B	$44.12 B	$1.03 B
+1531.	DaVita	United States	$11.61 B	$546.9 M	$17.68 B	$8 B
+1532.	Vietnam Technological & Commercial Joint Stock Bank	Vietnam	$2.38 B	$860.6 M	$29.65 B	$4.31 B
+1532.	Whirlpool	United States	$19.45 B	$-2.01 B	$16.86 B	$7.5 B
+1534.	Eurofins Scientific Societe Europeenne	Luxembourg	$7.05 B	$641.3 M	$10.76 B	$13.77 B
+1535.	Aeroports de Paris	France	$4.93 B	$542.3 M	$20.11 B	$15.46 B
+1535.	Aramark	United States	$16.98 B	$226 M	$15.29 B	$9.06 B
+1537.	Avantor	United States	$7.34 B	$617.6 M	$13.4 B	$13.54 B
+1537.	Check Point Software	Israel	$2.35 B	$811.6 M	$5.54 B	$14.61 B
+1539.	Nitori Holdings	Japan	$6.46 B	$674.8 M	$7.83 B	$14.46 B
+1540.	Carlyle Group	United States	$3.85 B	$754.1 M	$21.27 B	$9.67 B
+1541.	Covestro	Germany	$17.71 B	$-742.5 M	$15.85 B	$8.39 B
+1541.	Korea Shipbuilding & Offshore Engineering	South Korea	$14.46 B	$-50.7 M	$23.63 B	$4.42 B
+1543.	Empresas CMPC	Chile	$7.84 B	$1.01 B	$16.57 B	$4 B
+1544.	Teleperformance	France	$8.57 B	$677.9 M	$9.46 B	$10.37 B
+1545.	Banque Cantonale Vaudoise	Switzerland	$1.24 B	$406.6 M	$64.2 B	$8.72 B
+1546.	Fastighets Balder	Sweden	$1.04 B	$1.01 B	$25.32 B	$5.06 B
+1546.	Harbour Energy	United Kingdom	$5.39 B	$-88.5 M	$12.57 B	$56.65 B
+1548.	KPN	Netherlands	$5.59 B	$799.8 M	$12.77 B	$14.67 B
+1548.	Waters	United States	$2.97 B	$707.8 M	$3.28 B	$17.52 B
+1550.	Mebuki Financial Group	Japan	$2.08 B	$276 M	$160.67 B	$2.75 B
+1551.	Yunnan Yuntianhua	China	$11.01 B	$867.6 M	$8.69 B	$4.93 B
+1551.	Zhejiang Expressway Co. Ltd.	China	$2.2 B	$841.6 M	$29.35 B	$3.82 B
+1553.	Moncler SpA	Italy	$2.74 B	$637.6 M	$4.95 B	$19.95 B
+1554.	Mirae Asset Financial Group	South Korea	$3.14 B	$494.9 M	$84 B	$3.06 B
+1555.	Brown & Brown	United States	$3.79 B	$674.8 M	$13.4 B	$18.52 B
+1555.	Equifax	United States	$5.06 B	$586.9 M	$11.58 B	$24.54 B
+1557.	Beijing Shougang	China	$16.66 B	$1.8 M	$20.73 B	$4.17 B
+1558.	El Puerto de Liverpool	Mexico	$8.75 B	$863.9 M	$12.1 B	$8.12 B
+1559.	Asustek Computer	Taiwan	$18.02 B	$492.8 M	$15.33 B	$7.01 B
+1559.	Sibanye Stillwater	South Africa	$8.45 B	$1.12 B	$9.79 B	$6.85 B
+1561.	TFI International	Canada	$8.45 B	$781.1 M	$5.5 B	$9.15 B
+1562.	Bajaj Auto	India	$4.54 B	$754.1 M	$4.28 B	$15.43 B
+1562.	BOK Financial	United States	$2.41 B	$615.5 M	$45.52 B	$5.38 B
+1562.	Ningxia Baofeng Energy Group	China	$4.12 B	$837.4 M	$9.04 B	$13.77 B
+1565.	Kesko	Finland	$12.41 B	$614.1 M	$8.34 B	$8.33 B
+1566.	Kingdom Holding	Saudi Arabia	$672 M	$1.85 B	$14.14 B	$8.15 B
+1567.	Old National Bank	United States	$2.03 B	$602.5 M	$47.84 B	$3.71 B
+1567.	Telia	Sweden	$8.86 B	$-1.44 B	$21.9 B	$10.12 B
+1569.	West Pharmaceutical Services	United States	$2.88 B	$552.1 M	$3.72 B	$27.36 B
+1570.	Kingfisher	United Kingdom	$15.96 B	$575.6 M	$14.9 B	$6.16 B
+1570.	Shiseido	Japan	$8.12 B	$260 M	$9.91 B	$20.44 B
+1572.	PT Garuda Indonesia (Persero)	Indonesia	$2.11 B	$3.67 B	$6.24 B	$393 M
+1573.	AECOM Technology	United States	$13.26 B	$337 M	$11.41 B	$11.63 B
+1574.	B3	Brazil	$1.76 B	$818.3 M	$9.21 B	$13.84 B
+1575.	Commercial Metals	United States	$9.17 B	$1.04 B	$6.49 B	$5.22 B
+1576.	Seadrill	Bermuda	$1.07 B	$3.62 B	$2.8 B	$1.85 B
+1577.	China Resources Gas Group	Hong Kong	$12.05 B	$604.5 M	$14.36 B	$7.92 B
+1578.	Sun Pharma Industries	India	$5.39 B	$535.7 M	$9.15 B	$28.46 B
+1579.	ASM International	Netherlands	$2.71 B	$652 M	$4.5 B	$18.55 B
+1580.	Sumitomo Forestry Co.,	Japan	$12.49 B	$741.4 M	$11.47 B	$4.32 B
+1581.	Ansys	United States	$2.15 B	$553.3 M	$6.48 B	$26.14 B
+1581.	Rajesh Exports	India	$39.43 B	$153.2 M	$3.01 B	$2.15 B
+1581.	Snowflake	United States	$2.07 B	$-796.7 M	$7.72 B	$50.1 B
+1584.	Wistron	Taiwan	$33.03 B	$374.4 M	$14.09 B	$4.57 B
+1585.	Banca MPS	Italy	$4.28 B	$-215.1 M	$128.37 B	$2.83 B
+1586.	WSP	Canada	$9.17 B	$331.7 M	$10.95 B	$16.54 B
+1587.	Iron Mountain	United States	$5.17 B	$579.3 M	$16.47 B	$16.45 B
+1587.	Metro Group	Germany	$31.8 B	$-7.4 M	$14.17 B	$3.06 B
+1587.	Wuestenrot & Wuerttembergische	Germany	$6.46 B	$272.8 M	$70.34 B	$1.68 B
+1590.	CSPC Pharmaceutical Group	China	$4.6 B	$905.2 M	$6.01 B	$12.22 B
+1590.	Eve Energy	China	$5.93 B	$602 M	$12.56 B	$18.95 B
+1590.	Hokuhoku Financial Group	Japan	$1.27 B	$111.6 M	$121.17 B	$931 M
+1593.	DoorDash	United States	$7.16 B	$-1.36 B	$9.65 B	$24.46 B
+1593.	Mid-america Apartment Communities	United States	$2.07 B	$662.1 M	$11.35 B	$17.78 B
+1595.	Lear	United States	$21.52 B	$421.9 M	$14.4 B	$7.29 B
+1596.	Verisk Analytics	United States	$2.77 B	$504.5 M	$4.19 B	$30.53 B
+1597.	Kintetsu	Japan	$9.89 B	$618 M	$18.45 B	$6.55 B
+1598.	Adani Ports & Special Economic Zone	India	$2.35 B	$647.3 M	$12.27 B	$18.07 B
+1598.	Mitsui Chemicals	Japan	$14.27 B	$569.2 M	$15.81 B	$4.94 B
+1600.	Bank of Qingdao	China	$3.51 B	$472.2 M	$80.37 B	$1.96 B
+1601.	Asian Paints	India	$4.27 B	$473.5 M	$2.98 B	$35.32 B
+1602.	Golden Agri-Resources	Singapore	$11.44 B	$782.1 M	$9.9 B	$2.54 B
+1602.	Stifel Financial	United States	$4.73 B	$646.1 M	$38.6 B	$6.18 B
+1602.	Vibra Energia	Brazil	$35.13 B	$297.6 M	$7.92 B	$3.09 B
+1605.	Military Commercial Joint Stock Bank	Vietnam	$3.02 B	$746.8 M	$30.9 B	$3.5 B
+1606.	Grupo Elektra	Mexico	$8.19 B	$-365.4 M	$21.8 B	$10.42 B
+1606.	Wintrust Financial	United States	$2.49 B	$562.5 M	$52.87 B	$3.99 B
+1608.	DexCom	United States	$3.02 B	$292.5 M	$5.52 B	$46.83 B
+1609.	Shenwan Hongyuan Group	China	$3.08 B	$436.3 M	$92.07 B	$5.42 B
+1609.	Shizuoka Financial Group	Japan	$2.07 B	$315.8 M	$111.87 B	$4.23 B
+1611.	Altice USA	United States	$9.52 B	$23.9 M	$31.99 B	$1.35 B
+1611.	Aristocrat Leisure	Australia	$3.97 B	$675 M	$6.51 B	$16.58 B
+1611.	Navient	United States	$4.19 B	$501 M	$66.91 B	$1.9 B
+1614.	Zhejiang Zheneng Electric Power	China	$12.39 B	$-405.7 M	$16.99 B	$9.27 B
+1615.	Chewy	United States	$10.1 B	$49.2 M	$2.74 B	$14.14 B
+1616.	BayWa	Germany	$28.44 B	$176.7 M	$14.29 B	$1.57 B
+1616.	Hubei Biocause Pharmaceutical	China	$7.71 B	$25.1 M	$43.56 B	$2.55 B
+1618.	Obayashi	Japan	$15.11 B	$435.7 M	$19.31 B	$6.02 B
+1619.	Unicaja Banco	Spain	$2.1 B	$271.5 M	$105.66 B	$2.62 B
+1620.	Agile Group Holdings	China	$8.15 B	$-2.12 B	$39.35 B	$927 M
+1621.	Lotte Shopping	South Korea	$11.98 B	$-254.5 M	$25.07 B	$1.7 B
+1622.	Harbin Bank	China	$4.48 B	$84.9 M	$102.58 B	$364 M
+1623.	Japan Securities	Japan	$462 M	$44 M	$102.49 B	$593 M
+1624.	FMC	United States	$5.8 B	$723.5 M	$11.73 B	$14.19 B
+1625.	Shinsei Bank	Japan	$2.5 B	$177.7 M	$100.9 B	$3.71 B
+1626.	Assurant	United States	$10.35 B	$241.2 M	$26.26 B	$6.96 B
+1626.	Carlisle Cos	United States	$6.28 B	$830.2 M	$7.12 B	$10.89 B
+1626.	Nishi-nippon Financial Holdings	Japan	$1.1 B	$228.2 M	$100.56 B	$1.16 B
+1629.	Kyushu Financial Group	Japan	$1.55 B	$191.5 M	$98.53 B	$1.55 B
+1630.	Li Ning	China	$3.83 B	$606.2 M	$4.84 B	$18.67 B
+1630.	SDIC Capital	China	$2.65 B	$546 M	$45.12 B	$7.03 B
+1632.	Hachijuni Bank	Japan	$1.43 B	$178.1 M	$97.41 B	$2.04 B
+1633.	Banco Comercial Portugues	Portugal	$3.9 B	$198.6 M	$96.77 B	$3.69 B
+1634.	Saputo	Canada	$13.31 B	$384.1 M	$10.61 B	$10.63 B
+1635.	Hengyi Petrochemical	China	$21.43 B	$-259.2 M	$15.61 B	$3.77 B
+1635.	Kawasaki Heavy Industries	Japan	$12.61 B	$509.5 M	$18.47 B	$3.71 B
+1637.	Mobileye Global	Israel	$1.87 B	$-82 M	$15.46 B	$30.16 B
+1638.	Host Hotels & Resorts	United States	$5.21 B	$804 M	$12.22 B	$12.67 B
+1639.	Coinshares International	United Kingdom	$2.54 B	$2.72 B	$1.66 B	$204 M
+1640.	Commercial International Bank	Egypt	$3.38 B	$837.7 M	$25.68 B	$5.15 B
+1640.	Next	United Kingdom	$6.15 B	$869.7 M	$4.9 B	$10.46 B
+1642.	Invitation Homes	United States	$2.25 B	$356.3 M	$18.5 B	$21.04 B
+1643.	Taylor Morrison Home	United States	$8.18 B	$1.07 B	$8.38 B	$4.63 B
+1644.	Banpu	Thailand	$7.76 B	$1.16 B	$12.61 B	$2.25 B
+1645.	China Merchants Port Holdings	Hong Kong	$1.6 B	$993.7 M	$22.06 B	$6.19 B
+1646.	Braskem	Brazil	$18.69 B	$-65 M	$16.68 B	$3.81 B
+1647.	Dollarama	Canada	$3.86 B	$612.9 M	$4.01 B	$18.01 B
+1648.	North Pacific Bank	Japan	$944 M	$88.4 M	$92.04 B	$817 M
+1648.	Sharp	Japan	$19.53 B	$-31.1 M	$16.16 B	$4.6 B
+1650.	United Natural Foods	United States	$29.86 B	$191 M	$7.63 B	$1.61 B
+1651.	Yamaguchi Financial	Japan	$1.05 B	$-114.3 M	$90.98 B	$1.41 B
+1652.	Pinnacle Bank	United States	$1.89 B	$568.9 M	$45.12 B	$3.8 B
+1653.	Andon Health	China	$4 B	$2.58 B	$3.19 B	$2.77 B
+1654.	Schroders	United Kingdom	$3.61 B	$590.9 M	$25.66 B	$9.26 B
+1655.	Clorox	United States	$7.17 B	$74 M	$5.82 B	$20.97 B
+1655.	Dai Nippon Printing	Japan	$10.39 B	$700 M	$13.99 B	$6.99 B
+1655.	GCL Technology Holdings	Hong Kong	$5.32 B	$2.42 B	$12.31 B	$6.41 B
+1655.	Veeva Systems	United States	$2.15 B	$487.7 M	$4.8 B	$28.62 B
+1659.	Doosan	South Korea	$13.74 B	$-353 M	$20.81 B	$1.19 B
+1660.	Alpha Bank	Greece	$2.74 B	$418 M	$83.27 B	$3.01 B
+1660.	Casey's General Stores	United States	$15.22 B	$450.4 M	$5.84 B	$8.71 B
+1660.	Gaming And Leisure Properties	United States	$1.35 B	$748.3 M	$11.12 B	$13.39 B
+1663.	SS&C Technologies	United States	$5.35 B	$604.1 M	$16.01 B	$13.79 B
+1664.	Gold Fields	South Africa	$4.27 B	$692.7 M	$7.34 B	$14.39 B
+1664.	Nitto Denko	Japan	$6.86 B	$805.6 M	$8.67 B	$9.6 B
+1664.	Sinotrans Ltd.	China	$14.77 B	$595.2 M	$11.37 B	$2.53 B
+1667.	Hirogin Holdings	Japan	$1.13 B	$130.7 M	$88.14 B	$1.56 B
+1668.	CPFL Energia	Brazil	$7.62 B	$987.4 M	$13.47 B	$7.22 B
+1668.	FinecoBank	Italy	$1.1 B	$450.3 M	$38.71 B	$9.08 B
+1670.	Chang Hwa Bank	Taiwan	$1.71 B	$368 M	$87.35 B	$6.24 B
+1671.	China Northern Rare Earth High-Tech	China	$5.32 B	$780 M	$5.6 B	$12.62 B
+1671.	DCC	Ireland	$26.85 B	$415 M	$10.95 B	$6.06 B
+1673.	Air Canada	Canada	$12.72 B	$-1.31 B	$21.78 B	$5.33 B
+1674.	Adecco Group	Switzerland	$24.85 B	$359.6 M	$14.15 B	$5.56 B
+1675.	Daou Data	South Korea	$7.54 B	$157.7 M	$39.44 B	$461 M
+1676.	JD Sports Fashion	United Kingdom	$11.95 B	$427.5 M	$9.38 B	$10.64 B
+1676.	Shenzhou International Group Holdings	China	$4.13 B	$679.7 M	$6.26 B	$14.41 B
+1678.	Seagen	United States	$2.06 B	$-648.6 M	$3.54 B	$37.48 B
+1679.	Ultrapar Participacoes	Brazil	$27.67 B	$312.4 M	$6.69 B	$3.61 B
+1680.	Pool	United States	$5.97 B	$668.9 M	$3.86 B	$13.82 B
+1680.	Zheshang Development Group	China	$27.66 B	$135.6 M	$5.59 B	$995 M
+1682.	Watsco	United States	$7.3 B	$549.5 M	$3.8 B	$13.07 B
+1683.	Anhui Gujing Distillery	China	$2.53 B	$527.1 M	$5.29 B	$22.89 B
+1684.	Croda International Plc	United Kingdom	$2.57 B	$799.8 M	$4.34 B	$12.06 B
+1684.	Keppel	Singapore	$4.8 B	$672 M	$23.16 B	$8.56 B
+1686.	Parkland	Canada	$27.22 B	$250.9 M	$10.16 B	$4.31 B
+1687.	News Corp	United States	$10.16 B	$299 M	$16.89 B	$9.85 B
+1688.	Aurubis	Germany	$19.14 B	$494.7 M	$8.02 B	$4.07 B
+1689.	Suning.com	China	$11.98 B	$-6.14 B	$22.71 B	$2.78 B
+1690.	Whitehaven Coal	Australia	$5.05 B	$2.35 B	$5.23 B	$3.99 B
+1691.	Bank of Kyoto	Japan	$915 M	$172.1 M	$81.9 B	$3.67 B
+1691.	Li Auto	China	$6.67 B	$-299.2 M	$12.45 B	$23.05 B
+1693.	Ooredoo Q.P.S.C	Qatar	$6.26 B	$730.9 M	$15.73 B	$9.59 B
+1693.	RenaissanceRe Holdings	Bermuda	$6.36 B	$-112.2 M	$32.43 B	$9.06 B
+1695.	KGHM Polska Miedz	Poland	$7.65 B	$1.07 B	$11.1 B	$5.7 B
+1696.	Hyundai Engineering	South Korea	$17.66 B	$317.4 M	$16.54 B	$3.44 B
+1697.	Medipal Holdings	Japan	$25.48 B	$231.4 M	$13.7 B	$2.94 B
+1697.	Unisplendour	China	$10.93 B	$324.5 M	$10.57 B	$11.55 B
+1699.	Storebrand	Norway	$2.56 B	$247 M	$79.27 B	$3.53 B
+1700.	Kakao	South Korea	$5.49 B	$104.5 M	$18.16 B	$18.89 B
+1700.	TUI	Germany	$18.88 B	$-149.8 M	$15.55 B	$3.4 B
+1702.	STRABAG	Austria	$17.89 B	$496.5 M	$13.85 B	$4.57 B
+1703.	Atlassian	United States	$3.18 B	$-355.3 M	$3.61 B	$34.93 B
+1704.	Hancock Holding	United States	$1.6 B	$590.7 M	$37.55 B	$3.01 B
+1704.	WPG Holdings	Taiwan	$26 B	$352.6 M	$10.29 B	$2.76 B
+1706.	Broadridge Financial	United States	$5.96 B	$554.5 M	$8.43 B	$18.04 B
+1706.	EMS-Chemie Holding	Switzerland	$2.56 B	$557.1 M	$2.5 B	$19.18 B
+1706.	First Pacific	Hong Kong	$10.3 B	$391.5 M	$25.49 B	$1.56 B
+1709.	Daishi Hokuetsu Financial Group	Japan	$1.07 B	$144 M	$77.41 B	$1.02 B
+1710.	South State	United States	$1.88 B	$535.6 M	$44.92 B	$4.97 B
+1711.	Ares Management	United States	$3.13 B	$153.4 M	$22.06 B	$14.43 B
+1711.	Pdc Energy	United States	$4.24 B	$2.22 B	$8.26 B	$5.63 B
+1713.	Tapestry	United States	$6.59 B	$836.7 M	$7.26 B	$9.2 B
+1714.	China Development Bank Financial Leasing	China	$3.63 B	$501.5 M	$51.03 B	$1.76 B
+1715.	77 Bank	Japan	$846 M	$188.3 M	$77.09 B	$1.21 B
+1716.	China Overseas Grand Oceans Group	Hong Kong	$8.65 B	$478.2 M	$26 B	$2.01 B
+1717.	CPI Property Group	Luxembourg	$1.7 B	$585.6 M	$25.1 B	$8.96 B
+1718.	Gunma Bank	Japan	$1.27 B	$191.9 M	$76.62 B	$1.38 B
+1719.	Tech Mahindra	India	$6.63 B	$601.2 M	$5.62 B	$12.35 B
+1720.	F.N.B.	United States	$1.81 B	$533.5 M	$44.15 B	$3.91 B
+1720.	Take-Two Interactive Software	United States	$4.83 B	$-403.4 M	$16.88 B	$21 B
+1722.	Pilbara Minerals	Australia	$2.13 B	$1.17 B	$2.58 B	$8.89 B
+1723.	Chugin Financial Group,Inc.	Japan	$1.27 B	$139.9 M	$74.29 B	$1.23 B
+1724.	Jiangxi Bank	China	$3.55 B	$208.5 M	$74.17 B	$760 M
+1725.	Rite Aid	United States	$24.09 B	$-749.9 M	$7.53 B	$111 M
+1726.	Old Republic International	United States	$7.63 B	$580.1 M	$19.86 B	$7.57 B
+1727.	Coca-Cola HBC	Switzerland	$9.67 B	$437.7 M	$10.62 B	$11.7 B
+1728.	Teradyne	United States	$3.02 B	$637.1 M	$3.38 B	$14.46 B
+1729.	Power Assets Holdings	Hong Kong	$162 M	$721.4 M	$12.11 B	$12.53 B
+1730.	DGB Financial Group	South Korea	$4.23 B	$307.9 M	$72 B	$881 M
+1731.	Daou Technology	South Korea	$7.13 B	$288.3 M	$38.96 B	$609 M
+1731.	Jointown Pharmaceutical Group	China	$21.44 B	$320 M	$14.03 B	$4.41 B
+1731.	Range Resources	United States	$5.03 B	$2.07 B	$6.88 B	$6.11 B
+1734.	Anhui Water Resources Development	China	$11.85 B	$204.9 M	$21.44 B	$1.6 B
+1734.	Bank of Queensland	Australia	$2.21 B	$150.3 M	$71.04 B	$2.55 B
+1736.	Goertek	China	$15.54 B	$259.8 M	$11.1 B	$8.53 B
+1737.	Ceconomy	Germany	$23.1 B	$137.7 M	$13.09 B	$1.37 B
+1738.	Covivio	France	$1.27 B	$652.3 M	$29.6 B	$5.22 B
+1739.	Illumina	United States	$4.45 B	$-4.49 B	$11.81 B	$31.55 B
+1739.	Sbi Sumishin Net Bank	Japan	$740 M	$152.3 M	$70.31 B	$1.88 B
+1741.	Beijing Wantai Biological Pharmacy Enterprise	China	$1.58 B	$678.2 M	$2.51 B	$13.39 B
+1741.	China Industrial Securities	China	$2.09 B	$482.7 M	$35.36 B	$8.45 B
+1741.	Dr. Sulaiman Al-Habib Medical Services Group	Saudi Arabia	$2.21 B	$439.6 M	$3.35 B	$27.72 B
+1741.	Fibra Uno	Mexico	$1.17 B	$1.17 B	$17.36 B	$5.29 B
+1745.	Oji Holdings	Japan	$12.78 B	$455.9 M	$17.99 B	$3.9 B
+1746.	Petro Rabigh	Saudi Arabia	$14.9 B	$-296.9 M	$17.45 B	$4.88 B
+1747.	Credito Emiliano	Italy	$2.59 B	$333.1 M	$69.42 B	$2.62 B
+1748.	ACWA Power	Saudi Arabia	$1.47 B	$351.9 M	$13.19 B	$31.19 B
+1749.	Booz Allen Hamilton Holding	United States	$9.06 B	$427.7 M	$6.35 B	$12.31 B
+1750.	Aker	Norway	$854 M	$1.98 B	$10.45 B	$4.42 B
+1750.	Bank of Jiujiang	Hong Kong	$3.29 B	$194.5 M	$69 B	$2.93 B
+1750.	UCB	Belgium	$5.8 B	$439.3 M	$16.93 B	$17.23 B
+1753.	Hygon Information Technology	China	$755 M	$119.3 M	$3.23 B	$31.02 B
+1753.	Xinte Energy	China	$5.48 B	$1.98 B	$11.4 B	$3.53 B
+1755.	Taiwan Business Bank	Taiwan	$1.27 B	$377.2 M	$68.41 B	$3.68 B
+1756.	PerkinElmer	United States	$3.94 B	$563.4 M	$14.13 B	$16.42 B
+1757.	Trade Desk	United States	$1.58 B	$53.4 M	$4.38 B	$30.75 B
+1758.	Airports of Thailand	Thailand	$657 M	$-184.6 M	$5.29 B	$30.75 B
+1759.	Iveco Group	Italy	$15.09 B	$154.5 M	$17.09 B	$2.35 B
+1760.	Qingdao Rural Commercial Bank	China	$2.75 B	$345.6 M	$67.41 B	$2.37 B
+1760.	SITC International Holdings	Hong Kong	$4.11 B	$1.94 B	$3.08 B	$4.53 B
+1762.	CoStar Group	United States	$2.25 B	$367.3 M	$8.52 B	$30.48 B
+1763.	Bank of Lanzhou	China	$2.93 B	$260.3 M	$67.27 B	$2.55 B
+1764.	IDEX	United States	$3.28 B	$586.7 M	$5.66 B	$15.94 B
+1764.	Unibail-Rodamco-Westfield	France	$3.16 B	$187 M	$58.31 B	$6.95 B
+1766.	Straumann Holding	Switzerland	$2.43 B	$455.2 M	$3.73 B	$25.36 B
+1767.	Shimizu	Japan	$13.68 B	$347.4 M	$18.12 B	$4.48 B
+1768.	Graphic Packaging	United States	$9.63 B	$622 M	$10.6 B	$7.89 B
+1769.	AGNC Investment	United States	$1.1 B	$-690 M	$66.11 B	$5.44 B
+1770.	Galaxy Entertainment	Hong Kong	$1.07 B	$-438.5 M	$10.37 B	$29.97 B
+1770.	Zhejiang Chint Electrics	China	$7.42 B	$676.5 M	$14.53 B	$8.49 B
+1772.	Bath & Body Works	United States	$7.56 B	$800 M	$5.49 B	$7.71 B
+1772.	Titan (India)	India	$5.05 B	$404.4 M	$3.29 B	$29.68 B
+1774.	Enphase Energy	United States	$2.62 B	$492.4 M	$3.38 B	$21.88 B
+1775.	Bendigo & Adelaide Bank	Australia	$1.81 B	$288.2 M	$65.54 B	$3.21 B
+1776.	Aier Eye Hospital Group	China	$2.47 B	$393 M	$4.13 B	$29.7 B
+1777.	Iida Group Holdings	Japan	$10.53 B	$675.7 M	$13.42 B	$5.03 B
+1778.	AVIC Capita	China	$3.11 B	$267.8 M	$65.25 B	$4.99 B
+1778.	K+S	Germany	$5.97 B	$1.59 B	$10.83 B	$3.72 B
+1780.	Iyogin Holdings,Inc.	Japan	$1.19 B	$284.5 M	$64.71 B	$1.79 B
+1781.	Luzerner Kantonalbank	Switzerland	$866 M	$242.9 M	$64.7 B	$3.77 B
+1782.	Angang Steel	China	$18.41 B	$-214 M	$14.52 B	$3.1 B
+1783.	BeiGene	Cayman Islands	$1.56 B	$-1.92 B	$5.96 B	$29 B
+1784.	Hanwa	Japan	$20.12 B	$420.9 M	$10.05 B	$1.27 B
+1785.	Cencosud	Chile	$16.49 B	$422 M	$15.28 B	$5.64 B
+1786.	CrowdStrike	United States	$2.24 B	$-183.2 M	$5.03 B	$28.89 B
+1787.	Origin Energy	Australia	$11.56 B	$-623.2 M	$13.89 B	$9.77 B
+1788.	Knight-swift Transportation Holdings	United States	$7.24 B	$667.3 M	$10.94 B	$9.35 B
+1789.	Fertiglobe	United Arab Emirates	$5.03 B	$1.25 B	$5.54 B	$8 B
+1790.	Avenue Supermarts	India	$5.22 B	$298.3 M	$2.11 B	$28.55 B
+1791.	Tingyi Holding	China	$11.7 B	$390.9 M	$8.41 B	$9.95 B
+1792.	Dangote Cement	Nigeria	$3.69 B	$870.4 M	$5.86 B	$9.87 B
+1793.	Nexi S.p.A.	Italy	$5.71 B	$147.2 M	$27.19 B	$10.67 B
+1793.	Worldline	France	$4.59 B	$314.5 M	$23.33 B	$12.21 B
+1795.	Beijing Kingsoft Office Software.	China	$589 M	$165.4 M	$1.77 B	$27.83 B
+1796.	Sonic Healthcare	Australia	$5.94 B	$703.8 M	$8.5 B	$11.31 B
+1796.	Sumec Corporation	China	$20.61 B	$139.1 M	$8.02 B	$1.34 B
+1798.	Peabody Energy	United States	$5.78 B	$1.69 B	$5.8 B	$3.3 B
+1799.	Banca Popolare di Sondrio	Italy	$1.48 B	$264.1 M	$61.74 B	$2.06 B
+1800.	HII	United States	$10.77 B	$568 M	$10.85 B	$7.88 B
+1801.	Guangzhou Tinci Materials Technology	China	$3.11 B	$716.3 M	$3.78 B	$11.71 B
+1802.	ONO Pharmaceutical	Japan	$3.26 B	$848.1 M	$6.29 B	$9.99 B
+1803.	Alfresa Holdings	Japan	$20.29 B	$214.8 M	$10.9 B	$3 B
+1804.	Bank of Xi'an	China	$2.25 B	$360.9 M	$60.55 B	$2.46 B
+1805.	Delek US Holdings	United States	$20.25 B	$257.1 M	$8.19 B	$1.39 B
+1805.	JSW Group	Poland	$4.62 B	$1.7 B	$5.08 B	$1.17 B
+1807.	Frasers Property	Singapore	$2.83 B	$635.4 M	$27.99 B	$2.59 B
+1807.	Sun Communities	United States	$3.08 B	$220.3 M	$17.36 B	$17.01 B
+1809.	Bawag Group	Austria	$1.88 B	$334.5 M	$60.32 B	$3.82 B
+1810.	Kohl's	United States	$18.1 B	$-19 M	$14.35 B	$2.3 B
+1811.	TMB Bank	Thailand	$2.44 B	$433.4 M	$53.43 B	$4.2 B
+1812.	Chord Energy	United States	$3.89 B	$1.69 B	$6.62 B	$5.77 B
+1813.	Synnex Technology Intl	Taiwan	$14.24 B	$528.3 M	$7.21 B	$3.4 B
+1814.	Basler Kantonalbank	Switzerland	$838 M	$145.8 M	$59.7 B	$359 M
+1814.	Hyatt Hotels	United States	$6.29 B	$586 M	$12.62 B	$12.36 B
+1816.	Sino-Ocean Group Holding	China	$7.03 B	$-2.29 B	$35.4 B	$660 M
+1817.	Yunnan Copper Co. Ltd.	China	$19.78 B	$279.1 M	$6.01 B	$3.58 B
+1818.	Alnylam Pharmaceuticals	United States	$1.14 B	$-1.06 B	$3.39 B	$26.41 B
+1818.	China Fortune Land Development	China	$5.33 B	$-4.14 B	$58.85 B	$1.42 B
+1820.	Prosperity Bancshares	United States	$1.32 B	$526.9 M	$37.83 B	$5.63 B
+1821.	RiseSun Real Estate Development	China	$6.95 B	$-768.4 M	$35.76 B	$1.09 B
+1822.	Beijing Capital Development	China	$6.34 B	$-88 M	$42.42 B	$1.68 B
+1822.	Brambles	Australia	$5.73 B	$621.2 M	$8.35 B	$13.29 B
+1822.	Darling Ingredients	United States	$6.51 B	$737.7 M	$9.2 B	$9.23 B
+1825.	Knorr-Bremse	Germany	$7.51 B	$512.5 M	$8.84 B	$11.48 B
+1825.	Red Eléctrica	Spain	$2.12 B	$698.6 M	$15.78 B	$9.86 B
+1827.	Manpower	United States	$19.44 B	$360 M	$8.89 B	$3.56 B
+1828.	OneMain Holdings	United States	$5.11 B	$756 M	$22.44 B	$4.31 B
+1828.	SBA Communications	United States	$2.69 B	$374 M	$10.54 B	$25.89 B
+1828.	West Fraser Timber Co.	Canada	$8.17 B	$809.2 M	$9.88 B	$6.24 B
+1831.	Horizon Therapeutics Public Limited Company	Ireland	$3.58 B	$371.9 M	$8.99 B	$25.69 B
+1832.	Brookfield Reinsurance	Bermuda	$5.41 B	$487.2 M	$42.93 B	$1.29 B
+1833.	Deutsche Pfandbriefbank	Germany	$1.73 B	$179.7 M	$56.57 B	$1.22 B
+1834.	Howmet Aerospace	United States	$5.94 B	$486 M	$10.17 B	$18.18 B
+1835.	Bank OZK	United States	$1.56 B	$601.5 M	$28.97 B	$3.84 B
+1836.	Japan Airlines	Japan	$9.05 B	$-249.9 M	$18.49 B	$8.57 B
+1836.	Steel Authority of India	India	$13.49 B	$444.6 M	$16.02 B	$4.17 B
+1838.	Samsung Electro-Mechanics	South Korea	$7.29 B	$758.9 M	$8.7 B	$7.87 B
+1839.	Quilter	United Kingdom	$-4.98 B	$215.6 M	$55.84 B	$1.46 B
+1840.	Delivery Hero	Germany	$9.02 B	$-3.14 B	$13.98 B	$11.29 B
+1841.	Hyakugo Bank	Japan	$796 M	$100.2 M	$55.7 B	$733 M
+1841.	Tsingtao Brewery	China	$4.59 B	$602 M	$7.3 B	$13.7 B
+1843.	Ricoh	Japan	$15.29 B	$263.2 M	$15.46 B	$5.15 B
+1844.	Cadence Bank	United States	$2.21 B	$424.9 M	$51.69 B	$3.52 B
+1844.	IDBI Bank	India	$3.13 B	$461.1 M	$40.34 B	$6.97 B
+1844.	Johnson Matthey	United Kingdom	$18.83 B	$111 M	$7.66 B	$4.48 B
+1847.	Migdal Insurance	Israel	$1.93 B	$223.5 M	$55.41 B	$1.2 B
+1848.	Juroku Financial Group	Japan	$902 M	$123.3 M	$54.96 B	$829 M
+1848.	Lamb Weston Holdings	United States	$4.81 B	$542.1 M	$5.09 B	$16.33 B
+1850.	FIBI Holdings	Israel	$1.51 B	$214.6 M	$54.82 B	$1.38 B
+1851.	General Insurance Corporation Of India	India	$6.08 B	$777.7 M	$19.16 B	$3.74 B
+1852.	Zenith Bank	Nigeria	$1.79 B	$596.2 M	$28.99 B	$1.64 B
+1853.	EQT AB	Sweden	$1.57 B	$180.6 M	$10.25 B	$24.89 B
+1854.	Bank Of Gansu	China	$2.27 B	$90.4 M	$54.26 B	$1.73 B
+1854.	Burlington Stores	United States	$8.7 B	$230.1 M	$7.27 B	$11.95 B
+1856.	Aozora Bank	Japan	$1.16 B	$168.2 M	$54.22 B	$2.12 B
+1857.	Segro	United Kingdom	$824 M	$-2.37 B	$20.87 B	$12.78 B
+1857.	WT Microelectronics	Taiwan	$18.53 B	$201.8 M	$6.2 B	$1.89 B
+1859.	VF	United States	$11.73 B	$414.3 M	$14.31 B	$8.6 B
+1860.	Columbia Bank	United States	$1.1 B	$178.6 M	$53.99 B	$4.17 B
+1860.	JB Financial Group	South Korea	$2.52 B	$448.6 M	$47.31 B	$1.22 B
+1862.	Tongling Nonferrous Metals	China	$18.5 B	$401.9 M	$9.03 B	$4.9 B
+1863.	Barry Callebaut	Switzerland	$8.62 B	$388.4 M	$8.73 B	$11.99 B
+1863.	Xiamen Bank	China	$1.97 B	$379.2 M	$53.17 B	$2.2 B
+1865.	NAURA Technology GroupLtd	China	$2.37 B	$399.3 M	$6.53 B	$24.56 B
+1865.	Shiga Bank	Japan	$807 M	$102.6 M	$53.17 B	$988 M
+1867.	Prada	Italy	$4.41 B	$486.3 M	$7.87 B	$18.7 B
+1868.	Datadog	United States	$1.79 B	$-84 M	$3.14 B	$24.47 B
+1868.	Guangzhou R&F	China	$5.37 B	$-2.33 B	$53.07 B	$717 M
+1868.	Monolithic Power Systems	United States	$1.87 B	$467.9 M	$2.23 B	$19.45 B
+1871.	NIBE Industrier	Sweden	$3.96 B	$429.9 M	$5.18 B	$22.62 B
+1871.	Orient Securities	China	$2.5 B	$403.1 M	$52.95 B	$5.26 B
+1873.	Church & Dwight	United States	$5.51 B	$412.7 M	$8.27 B	$23.82 B
+1874.	Viva Energy Group	Australia	$18.3 B	$356.5 M	$6.31 B	$3.13 B
+1875.	Nomura Research Institute	Japan	$5.11 B	$563.1 M	$6.3 B	$14.72 B
+1876.	CNX Resources	United States	$3.63 B	$1.49 B	$8.34 B	$2.52 B
+1877.	Advanced Micro-Fabrication Equipment Inc. China	China	$730 M	$193.7 M	$2.95 B	$24.28 B
+1877.	Ningbo Port	China	$3.65 B	$603.5 M	$15.85 B	$10.89 B
+1879.	Logan Property Holdings	China	$6.26 B	$-1.24 B	$40.04 B	$718 M
+1879.	Uniqa	Austria	$7.29 B	$402.5 M	$29.96 B	$2.78 B
+1879.	United Utilities	United Kingdom	$2.36 B	$653.5 M	$16.91 B	$9.42 B
+1882.	Inventec	Taiwan	$18.17 B	$205.6 M	$7.62 B	$3.76 B
+1883.	Shanxi Coal International Energy Group	China	$6.56 B	$1.04 B	$6.51 B	$4.28 B
+1884.	DISCO Corp.	Japan	$2.1 B	$611.7 M	$3.52 B	$12.77 B
+1885.	Align Technology	United States	$3.71 B	$315.1 M	$5.9 B	$24.03 B
+1886.	Shanghai Tunnel Engineering Co. Ltd.	China	$9.62 B	$431.9 M	$20.94 B	$3.09 B
+1887.	Alpha Metallurgical Resources	United States	$4.1 B	$1.45 B	$2.31 B	$2.23 B
+1888.	Shriram Transport Finance Co.	India	$3.27 B	$637.1 M	$25.63 B	$6.04 B
+1888.	Zhangzhou Pientzehuang Pharmaceutical	China	$1.3 B	$372.3 M	$2.19 B	$23.9 B
+1890.	Saras	Italy	$16.58 B	$438.2 M	$4.55 B	$1.2 B
+1891.	Rheinmetall	Germany	$6.77 B	$495 M	$10.12 B	$12.72 B
+1892.	Ogaki Kyoritsu Bank	Japan	$618 M	$61.9 M	$50.83 B	$569 M
+1893.	Aareal Bank	Germany	$1.67 B	$145 M	$50.51 B	$2.16 B
+1894.	Royalty Pharma	United States	$2.24 B	$42.9 M	$16.81 B	$15.73 B
+1895.	Zhejiang Construction Investment Group	China	$14.67 B	$178.1 M	$15.28 B	$2.68 B
+1896.	Almarai	Saudi Arabia	$5.13 B	$525.7 M	$8.76 B	$15.71 B
+1896.	CTP	Netherlands	$589 M	$1.42 B	$11.93 B	$5.82 B
+1898.	Rentokil Initial	United Kingdom	$4.57 B	$285.8 M	$14.34 B	$19.95 B
+1899.	Heico	United States	$2.34 B	$357.8 M	$4.8 B	$23.28 B
+1900.	KION Group	Germany	$11.63 B	$94.2 M	$18.36 B	$5.45 B
+1901.	Arab Bank	Jordan	$2.2 B	$480.8 M	$39.19 B	$4.1 B
+1902.	Nanto Bank	Japan	$564 M	$86.2 M	$49.95 B	$579 M
+1902.	YTO Express Group	China	$7.94 B	$576.9 M	$5.87 B	$9.12 B
+1904.	Tokyo Kiraboshi Financial Group	Japan	$843 M	$176.2 M	$49.93 B	$612 M
+1905.	Suzuken	Japan	$17.54 B	$146.8 M	$9.88 B	$2.23 B
+1906.	Callon Petroleum	United States	$3.01 B	$1.39 B	$6.65 B	$2.05 B
+1906.	San-In Godo Bank	Japan	$763 M	$120.3 M	$49.55 B	$874 M
+1908.	City Developments	Singapore	$2.39 B	$932.1 M	$17.14 B	$4.79 B
+1908.	LG Uplus	South Korea	$10.76 B	$513.2 M	$15.64 B	$3.61 B
+1908.	OMRON	Japan	$6.46 B	$545 M	$7.5 B	$11.91 B
+1908.	Public Power	Greece	$11.43 B	$-170 M	$18.4 B	$3.31 B
+1912.	Weihai City Commercial Bank	China	$2.44 B	$253.2 M	$49.44 B	$2.32 B
+1913.	Masraf Al Rayan	Qatar	$1.51 B	$323.2 M	$44.56 B	$6.86 B
+1914.	Insulet Corp	United States	$1.37 B	$0.6 M	$2.29 B	$22.86 B
+1914.	NIO	China	$7.27 B	$-2.13 B	$13.86 B	$13.4 B
+1916.	Mowi ASA	Norway	$5.2 B	$820.1 M	$8.04 B	$9.35 B
+1917.	Comstock Resources	United States	$3.55 B	$1.38 B	$5.7 B	$2.65 B
+1918.	Toho Bank	Japan	$448 M	$38.9 M	$49.26 B	$420 M
+1919.	Hubbell	United States	$5.08 B	$546 M	$5.48 B	$14.58 B
+1920.	Kyndryl Holdings	United States	$17.33 B	$-1.38 B	$11.85 B	$3.27 B
+1921.	Bausch Health Companies	Canada	$8.15 B	$-357 M	$25.45 B	$2.12 B
+1922.	Andersons	United States	$17.23 B	$110.8 M	$4.1 B	$1.26 B
+1922.	Dillard's	United States	$7 B	$891.7 M	$3.33 B	$5.07 B
+1924.	ATOS	France	$11.92 B	$-1.06 B	$17.5 B	$1.54 B
+1924.	Bank Muscat	Oman	$1.91 B	$515.3 M	$33.96 B	$5.26 B
+1924.	Guangzhou Baiyunshan Pharmaceutical Holdings	China	$10.45 B	$595.9 M	$10.72 B	$5.31 B
+1927.	Jinshang Bank	China	$1.87 B	$274 M	$48.4 B	$975 M
+1928.	arGEN-X	Netherlands	$419 M	$-703.3 M	$3.13 B	$22.34 B
+1928.	Civitas Resources	United States	$3.63 B	$1.36 B	$7.67 B	$5.43 B
+1930.	Mercuries & Associates	Taiwan	$2.79 B	$-170.7 M	$48.31 B	$432 M
+1931.	Keiyo Bank	Japan	$484 M	$71 M	$48.22 B	$522 M
+1931.	Taisei	Japan	$12.48 B	$484.9 M	$14.28 B	$6.5 B
+1933.	Scentre Group	Australia	$1.7 B	$208.4 M	$25.1 B	$10.14 B
+1934.	Banque Centrale Populaire	Morocco	$2.69 B	$270.5 M	$47.87 B	$4.62 B
+1935.	Zalando	Germany	$10.81 B	$41.2 M	$7.93 B	$9.31 B
+1936.	HubSpot	United States	$1.84 B	$-141.7 M	$2.64 B	$22.05 B
+1936.	Yunnan Baiyao Group	China	$5.45 B	$525.8 M	$7.96 B	$15.14 B
+1938.	Fuyao Glass Industry Group	China	$4.17 B	$707.4 M	$7.3 B	$10.46 B
+1938.	Hotai Motor	Taiwan	$8.15 B	$-648.4 M	$13.23 B	$11.85 B
+1938.	Seagate Technology	Ireland	$8.41 B	$-161 M	$7.97 B	$11.58 B
+1941.	Daito Trust Construction	Japan	$12.23 B	$519.2 M	$7.98 B	$6.46 B
+1941.	Senshu Ikeda Holdings	Japan	$549 M	$69.1 M	$47.58 B	$497 M
+1943.	Jiangsu Changshu Rural Commercial Bank	China	$2.16 B	$407.5 M	$46.13 B	$3.15 B
+1943.	Korea Zinc	South Korea	$8.68 B	$604.1 M	$9.57 B	$7.63 B
+1945.	Central Bank of India	India	$3.5 B	$181.9 M	$47.39 B	$3.01 B
+1945.	Sansteel Minguang	China	$9.7 B	$617 M	$7.13 B	$1.62 B
+1947.	EFG International	Switzerland	$1.84 B	$211.9 M	$47.06 B	$2.85 B
+1947.	Shanghai Yuyuan Tourist Mart	China	$7.6 B	$558.3 M	$19.01 B	$4.37 B
+1949.	Northern Oil and Gas	United States	$1.97 B	$1.32 B	$3.34 B	$2.71 B
+1950.	Liberty Media Corporation Series A Liberty Formula One	United States	$2.59 B	$484 M	$10.98 B	$17.11 B
+1951.	United Therapeutics	United States	$1.98 B	$728.3 M	$6.35 B	$10.03 B
+1952.	Digital China Group	China	$16.66 B	$149.7 M	$5.51 B	$2.61 B
+1953.	KakaoBank	South Korea	$1.4 B	$227.7 M	$31.25 B	$8.49 B
+1954.	Roblox	United States	$2.23 B	$-924.4 M	$5.38 B	$21.44 B
+1954.	RPM International	United States	$7.22 B	$522.4 M	$6.61 B	$10.47 B
+1956.	Lundbergs	Sweden	$2.82 B	$149.6 M	$20.32 B	$11.92 B
+1957.	China Merchants Expressway Network & Technology Holdings	China	$1.23 B	$721.8 M	$16.53 B	$8.3 B
+1957.	Gulfport Energy	United States	$2.2 B	$1.3 B	$2.53 B	$1.68 B
+1959.	Hoshine Silicon Industry	China	$3.29 B	$598 M	$9.66 B	$12.26 B
+1960.	CapitaMall Trust	Singapore	$1.06 B	$524.6 M	$18.39 B	$10.43 B
+1960.	Healthpeak Properties	United States	$2.09 B	$545.5 M	$15.6 B	$11.75 B
+1962.	Advance Auto Parts	United States	$11.15 B	$501.9 M	$12.02 B	$7.34 B
+1963.	EXOR	Netherlands	$681 M	$425 M	$12.71 B	$19.16 B
+1964.	Camden Property Trust	United States	$1.49 B	$613.9 M	$9.29 B	$11.78 B
+1964.	Zall Smart Commerce Group	China	$16.44 B	$-435.7 M	$8.68 B	$551 M
+1966.	China Aviation Oil	Singapore	$16.44 B	$33.5 M	$1.5 B	$600 M
+1967.	Univar	United States	$11.47 B	$545.3 M	$7.15 B	$5.62 B
+1968.	Rollins	United States	$2.76 B	$380.4 M	$2.14 B	$20.58 B
+1968.	Sasa Polyester Sanayi	Turkey	$1.87 B	$638.1 M	$2.81 B	$11.24 B
+1970.	Murphy Oil	United States	$4.19 B	$1.27 B	$10.19 B	$5.42 B
+1971.	Nippon Steel Trading	Japan	$16.33 B	$292.8 M	$9.3 B	$2.22 B
+1972.	PacWest Bancorp	United States	$1.83 B	$-895 M	$44.3 B	$679 M
+1973.	St. Mary Land & Exploration Co.	United States	$3.07 B	$1.26 B	$5.87 B	$3.24 B
+1974.	Cosan	Brazil	$7.69 B	$227.7 M	$25.47 B	$5.55 B
+1974.	St. Galler Kantonalbank	Switzerland	$636 M	$192.4 M	$44.12 B	$3.25 B
+1976.	CVR Energy	United States	$10.81 B	$565 M	$4.21 B	$2.41 B
+1976.	Grupo Bolivar	Colombia	$5.88 B	$249.2 M	$41.94 B	$1.11 B
+1978.	Arch Resources	United States	$3.73 B	$1.26 B	$2.43 B	$2.31 B
+1978.	AviChina Industry & Technology	China	$9.35 B	$330.2 M	$20.71 B	$4.2 B
+1978.	FCC	Spain	$10.42 B	$477 M	$16.31 B	$4.41 B
+1981.	President Chain Store	Taiwan	$9.81 B	$326.6 M	$7.52 B	$9.65 B
+1982.	Xylem	United States	$5.72 B	$372 M	$7.94 B	$19.68 B
+1983.	International Distributions Services	United Kingdom	$15.91 B	$326.5 M	$10.59 B	$2.96 B
+1984.	Par Pacific Holdings	United States	$7.66 B	$739.1 M	$3.33 B	$1.25 B
+1985.	China Jushi	China	$2.71 B	$830.6 M	$7.49 B	$8.75 B
+1986.	Grandjoy Holdings Group	China	$6.66 B	$-140.2 M	$30.33 B	$2.46 B
+1986.	Kiyo Bank	Japan	$611 M	$114.1 M	$43.6 B	$768 M
+1988.	Penn Entertainment	United States	$6.51 B	$684.9 M	$17.04 B	$4.08 B
+1989.	Pakistan State Oil	Pakistan	$15.78 B	$149.5 M	$4.16 B	$188 M
+1990.	OSB Group	United Kingdom	$1.32 B	$493.9 M	$33.16 B	$2.61 B
+1991.	China Merchants Port Group	China	$2.28 B	$485.4 M	$28.9 B	$7.51 B
+1991.	Yango Group	China	$5.56 B	$-1.68 B	$43.48 B	$785 M
+1993.	iflytek	China	$2.64 B	$57.3 M	$4.62 B	$19.6 B
+1993.	Polaris Inc.	United States	$8.99 B	$633.2 M	$5.29 B	$5.99 B
+1995.	Kangmei Pharmaceutical	China	$484 M	$1.23 B	$2.19 B	$4.62 B
+1995.	Yes Bank	India	$3.34 B	$91.6 M	$43.22 B	$5.6 B
+1997.	Alfa Laval	Sweden	$5.35 B	$489.5 M	$7.82 B	$15.6 B
+1997.	Gap	United States	$15.62 B	$-202 M	$11.39 B	$3.17 B
+1999.	BEKB-BCBE	Switzerland	$556 M	$167.1 M	$42.97 B	$2.49 B
+2000.	Banca Transilvania	Romania	$1.97 B	$515.9 M	$30.31 B	$299 M
+2000.	Ipsen	France	$3.18 B	$681.7 M	$5.99 B	$10.21 B
+2000.	UMB Financial	United States	$1.9 B	$418.2 M	$40.61 B	$2.81 B
